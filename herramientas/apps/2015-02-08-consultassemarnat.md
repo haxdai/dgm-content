@@ -7,9 +7,9 @@ date: 2015-02-08
 cover: apps/consultassemarnat/consultassemarnat-cover.png
 screenshots:
   - apps/consultassemarnat/screens/consultassemarnat1.png
-  
+
 links:
-  
+
   web: http://www.semarnat.gob.mx/impacto-ambiental/consultas-publicas
 
 datasets:
@@ -19,7 +19,9 @@ app_author: Secretaría de Medio Ambiente y Recursos Naturales
 permalink: "/apps/consultassemarnat.html"
 section: herramientas
 sub_section: apps
-category: web
+category:
+  - web
+  - energia y medio ambiente
 category_title: Web
 tags:
   - ambiente

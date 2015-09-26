@@ -29,7 +29,10 @@ app_author: Secretaría de Hacienda y Crédito Público
 permalink: "/apps/obraabierta.html"
 section: herramientas
 sub_section: apps
-category: web
+category:
+  - web
+  - infraestructura
+
 category_title: Web
 tags:
   - Obra Pública Abierta

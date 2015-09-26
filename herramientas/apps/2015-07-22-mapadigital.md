@@ -21,7 +21,9 @@ app_author: Instituto Nacional de Estadística y Geografía
 permalink: "/apps/mapadigital.html"
 section: herramientas
 sub_section: apps
-category: web
+category:
+  - web
+  - desarrollo sostenible
 category_title: Web
 tags:
   - DENUE

@@ -7,7 +7,7 @@ title: 'Puebla: La colaboración como clave para la apertura'
 excerpt: "En el caso de Puebla, la experiencia en la apertura de datos públicos ha tenido éxito gracias a la colaboración entre distintos actores."
 date: 2015-04-20
 author: "Andrea Barenque"
-cover: "avances/pueblarmxa/pueblarmxa-cover_photo.png"
+cover: "avances/pueblarmxa/pueblarmx-cover.jpg"
 cover_photo: "avances/pueblarmxa/pueblarmxa-cover_photo.png"
 permalink: "/impacto/avances/pueblarmxa.html"
 section: impacto

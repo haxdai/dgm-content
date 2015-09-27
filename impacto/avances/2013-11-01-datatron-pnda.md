@@ -5,7 +5,7 @@ title: 'Datatrón e Iniciativa de Datos Abiertos'
 excerpt: "La Iniciativa de Datos Abiertos es un plan de acción amplio e integral, para crear un ecosistema de innovación, participación ciudadana y desarrollo mediante los Datos Abiertos. Como uno de los primeros pasos para identificar las necesidades e intereses de datos de la ciudadanía, la oficina de Presidencia lanzó un Datatrón."
 date: 2013-11-01
 author: "Equipo de Datos Abiertos"
-cover: "avances/datatron-pnda/datatron-pnda01.png"
+cover: "avances/datatron-pnda/datatron-pnda-cover.jpg"
 cover_photo: "avances/datatron-pnda/datatron-pnda01.png"
 permalink: "/impacto/avances/datatron-pnda.html"
 section: impacto

@@ -6,7 +6,7 @@ excerpt: "¿Cómo ha evolucionado la política nacional de Datos Abiertos y de q
 tagline:  "El impacto de los Datos Abiertos en México: Entrevista con Ania Calderón"
 date: 2015-09-07
 author: "Equipo de Datos Abiertos"
-cover: "avances/impacto-datos-abiertos/impacto-datos-cover_photo.png"
+cover: "avances/impacto-datos-abiertos/impacto-datos-cover.jpg"
 cover_photo: "avances/impacto-datos-abiertos/impacto-datos-cover_photo.png"
 permalink: "/impacto/avances/impacto-datos-abiertos.html"
 section: impacto

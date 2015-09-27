@@ -6,7 +6,7 @@ title:    "Datos abiertos, representación política y redistritación en Méxic
 tagline:  "Conocer cómo usar datos para mejor delimitar las secciones electorales"
 author:   "Alejandro Trelles, Micah Altman, Eric Magar, Michael P. McDonald"
 date:     2015-04-15 12:09:00 -0500
-cover:    "historias/redistritacion/redistritacion-1280x400.png"
+cover:    "historias/redistritacion/redistritacion-cover.jpg"
 cover_photo: "historias/redistritacion/redistritacion-1280x400.png"
 datasets:
   -

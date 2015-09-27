@@ -5,7 +5,7 @@ title:    "Datos abiertos para predecir delitos en tiempo real"
 tagline:  "Datos abiertos para predecir delitos en tiempo real."
 author:   "Luis Román García | Omar Trejo"
 date:     2014-12-08 13:09:00 -0500
-cover:    "historias/prediciendo/prediciendo_cover_photo-1284x460.jpg"
+cover:    "historias/prediciendo/prediciendo-cover.jpg"
 cover_photo: "historias/prediciendo/prediciendo_cover_photo-1284x460.jpg"
 datasets:
   -

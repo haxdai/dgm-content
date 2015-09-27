@@ -7,7 +7,7 @@ title: 'Apertura de la Infraestructura Estratégica de Datos Abiertos a comentar
 excerpt: "Participa en la Infraestructura Estratégica de Datos Abiertos –la base de los conjuntos de datos de alto valor para la población, que ayudarán a determinar el desarrollo económico y social, y que son necesarios para impulsar la innovación, detonar mayor eficiencia gubernamental e incrementar la transparencia y rendición de cuentas en nuestro país."
 date: 2015-03-03
 author: "Equipo de Datos Abiertos"
-cover: "avances/infraestructura/infraestructura-cover.png"
+cover: "avances/infraestructura/infraestructura-cover.jpg"
 cover_photo: "avances/infraestructura/infraestructura-cover_photo.png"
 permalink: "/impacto/avances/infraestructura.html"
 section: impacto

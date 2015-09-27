@@ -6,7 +6,7 @@ featured: true
 tagline:  "entender lo que está funcionando, y cambiar lo que debemos"
 author:   Presidencia
 date:     2015-09-02 12:09:00 -0500
-cover:    "historias/tercer-informe/cover-informe-04.png"
+cover:    "historias/tercer-informe/tercer-informe-cover.jpg"
 cover_photo: "historias/tercer-informe/cover-informe-04.png"
 datasets:
   -

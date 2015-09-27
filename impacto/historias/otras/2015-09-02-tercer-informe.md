@@ -19,8 +19,8 @@ collaborators:
 permalink: /historias/otras/tercer-informe.html
 section: impacto
 sub_section: historias
-category: otras
-category_title: "Otras"
+category: desarrollo sostenible
+category_title: "Desarrollo sostenible"
 tags:
 - Presidencia
 - Tercer
@@ -41,7 +41,7 @@ En ese sentido, los Datos Abiertos ayudan a que la población conozca cómo ha c
 
 Es por eso que el anexo estadístico del 3er Informe de Gobierno ya está disponible como Datos Abiertos. Este conjunto de datos, que incluye 844 recursos, permite a los usuarios visualizar, explorar y analizar cada uno de los indicadores vinculados a los objetivos del Plan Nacional de Desarrollo 2012-2018. Todo con el objetivo de proporcionar a la ciudadanía los insumos necesarios que ilustran la evolución de nuestro pais en los últimos años.
 
-Al explorar el conjunto de datos del 3er Informe de Gobierno, podrás descargar y reutilizar más de 844 recursos distribuidos de manera temática. Cada uno de estos conjuntos contiene una serie de indicadores con los cuales podrás conocer la trayectoria nacional a través del tiempo, así como información comparativa a nivel entidad federativa, y en algunos casos internacional. 
+Al explorar el conjunto de datos del 3er Informe de Gobierno, podrás descargar y reutilizar más de 844 recursos distribuidos de manera temática. Cada uno de estos conjuntos contiene una serie de indicadores con los cuales podrás conocer la trayectoria nacional a través del tiempo, así como información comparativa a nivel entidad federativa, y en algunos casos internacional.
 
 Esta información genera una línea base que contribuirá a desarrollar una conversación informada sobre las distintas maneras en que gobierno, sociedad civil y ciudadanía pueden colaborar para generar un México Incluyente, Próspero, en Paz, con Educación de Calidad y con Responsabilidad Global.
 
@@ -129,4 +129,3 @@ Un México con Responsabilidad Global buscará ampliar y fortalecer la presencia
 *Se refiere a los extranjeros que se internan temporalmente para transitar o permanecer en el país por menos de 180 días.*
 
 [Consulta los datos de México con Responsabilidad Global](http://busca.datos.gob.mx/#/conjuntos/mexico-con-responsabilidad-global--tercer-informe)
-

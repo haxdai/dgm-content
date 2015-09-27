@@ -16,8 +16,8 @@ datasets:
 permalink: /historias/seguridad/avisos-de-ciclones-tropicales.html
 section: impacto
 sub_section: historias
-category: seguridad
-category_title: Seguridad
+category: seguridad y justicia
+category_title: Seguridad y justicia
 tags:
   - Ciclones tropicales
   - Huracanes
@@ -61,5 +61,3 @@ Rodolfo Wilhelmy, [@rodowi](https://twitter.com/rodowi)
 
 **Notas:**  
 [1] Bajo el entendido de que aún existen [poblaciones desconectadas digitalmente](http://mexicoconectado.gob.mx).
-
-

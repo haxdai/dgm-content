@@ -21,8 +21,8 @@ collaborators:
 permalink: /historias/seguridad/homicidios-frontera-armas-eeuu.html
 section: impacto
 sub_section: historias
-category: seguridad
-category_title: Seguridad
+category: seguridad y justicia
+category_title: Seguridad y justicia
 tags:
   - Armas
   - Frontera
@@ -147,7 +147,3 @@ por armas, y la facilidad de adquirirlas y transportarlas aumenta aún más la v
 convirtiendo el fenómeno en un mortal y horrendo circulo vicioso”.
 
 ##### Nota: Esta visualización se publicó originalmente en Univision Noticias.
-
-
-
-

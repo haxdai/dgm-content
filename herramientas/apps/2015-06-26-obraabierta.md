@@ -24,7 +24,7 @@ datasets:
     title: "Pidiregas"
     url:  http://transparenciapresupuestaria.gob.mx/work/models/PTP/OPA/Proyectos_Pidiregas.csv
 
-app_author: Secretaría de Hacienda y Crédito Público
+author: Secretaría de Hacienda y Crédito Público
 
 permalink: "/apps/obraabierta.html"
 section: herramientas

@@ -14,7 +14,7 @@ links:
 
 datasets:
 
-app_author: Secretaría de Medio Ambiente y Recursos Naturales
+author: Secretaría de Medio Ambiente y Recursos Naturales
 
 permalink: "/apps/consultassemarnat.html"
 section: herramientas

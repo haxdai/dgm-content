@@ -24,7 +24,7 @@ datasets:
     title:  Directorio Estadístico Nacional de Unidades Económicas (DENUE)
     url:   http://busca.datos.gob.mx/#/conjuntos/directorio-estadistico-nacional-de-unidades-economicas-denue-por-actividad-economica
 
-app_author: Secretaría de Turismo
+author: Secretaría de Turismo
 
 permalink: "/apps/atlasturistico.html"
 section: herramientas

@@ -22,7 +22,7 @@ datasets:
     url:   http://catalogo.datos.gob.mx/dataset/empresas-productoras-de-minerales-metalicos-y-no-metalicos-embajadas-instituciones-superiores-s
 
 
-app_author: Servicio Geológico Mexicano
+author: Servicio Geológico Mexicano
 
 permalink: "/apps/geoinfomx.html"
 section: herramientas

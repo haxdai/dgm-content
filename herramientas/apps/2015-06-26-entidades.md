@@ -19,7 +19,7 @@ datasets:
     url:  http://transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Entidades_Federativas/1_Trimestre.xlsx
 
 
-app_author: Secretaría de Hacienda y Crédito Público
+author: Secretaría de Hacienda y Crédito Público
 
 permalink: "/apps/entidades.html"
 section: herramientas

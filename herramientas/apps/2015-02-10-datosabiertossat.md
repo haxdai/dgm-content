@@ -27,7 +27,7 @@ datasets:
   -
     title: Clima CONAGUA
 
-app_author: Servicio de Administración Tributaria
+author: Servicio de Administración Tributaria
 
 permalink: "/apps/datosabiertossat.html"
 section: herramientas

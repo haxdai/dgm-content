@@ -16,7 +16,7 @@ datasets:
     title: "siam.economia.gob.mx"
     url: http://www.siam.economia.gob.mx/work/models/siam/Resource/Avisos/opendata.csv
 
-app_author: Secretaría de Economía | Dirección General de Regulación Minera
+author: Secretaría de Economía | Dirección General de Regulación Minera
 
 permalink: "/apps/cartografiaminera.html"
 section: herramientas

@@ -4,7 +4,7 @@ layout: app
 
 title: Obra Pública Abierta
 date: 2015-06-25
-cover: apps/obraabierta/obraabierta_cover.png
+cover: apps/obraabierta/obraabierta_cover.jpg
 screenshots:
   - apps/obraabierta/obraabierta_1.png
   - apps/obraabierta/obraabierta_2.png

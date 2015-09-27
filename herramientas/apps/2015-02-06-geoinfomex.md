@@ -4,7 +4,7 @@ layout: app
 
 title: GeoInfoMex
 date: 2015-02-04
-cover: apps/geoinfomx/geoinfomx-cover.png
+cover: apps/geoinfomx/geoinfomx-cover.jpg
 screenshots:
   - apps/geoinfomx/screens/geoinfomx1.png
   - apps/geoinfomx/screens/geoinfomx1a.png

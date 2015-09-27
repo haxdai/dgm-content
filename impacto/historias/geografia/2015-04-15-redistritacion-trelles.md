@@ -1,6 +1,6 @@
 ---
 published: true
-featured: true
+featured: false
 layout:   post
 title:    "Datos abiertos, representación política y redistritación en México"
 tagline:  "Conocer cómo usar datos para mejor delimitar las secciones electorales"

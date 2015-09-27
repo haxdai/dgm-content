@@ -6,6 +6,7 @@ featured_tagline: 'Avance:'
 title: 'Xalapa: Aciertos y experiencias en Datos Abiertos'
 excerpt: "Nos dimos a la tarea de iniciar el proceso de Xalapa Abierta, que dio paso a la Política de Datos Abiertos y Gobierno Abierto por parte del H. Ayuntamiento de Xalapa. El proceso que llevamos a cabo tuvo como primer paso un censo de datos y bases prioritarias."
 date: 2015-03-11
+author: "Equipo de Datos Abiertos"
 cover: "avances/xalapaproceso/xalapaproceso-cover_photo.jpg"
 cover_photo: "avances/xalapaproceso/xalapaproceso-cover_photo.jpg"
 permalink: "/avances/xalapaproceso.html"
@@ -13,9 +14,9 @@ section: impacto
 sub_section: avances
 category: redmxabierto
 category_title: Red México Abierto
-tags: 
+tags:
   - Red México Abierto
-  - Xalapa 
+  - Xalapa
   - Datos Abiertos
 excerpt_separator: <!--more-->
 ---

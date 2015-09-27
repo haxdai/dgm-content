@@ -23,7 +23,7 @@ datasets:
 collaborators:
   - imco
 
-permalink: /historias/educacion/compara-carreras.html
+permalink: /impacto/historias/compara-carreras.html
 section:  impacto
 sub_section: historias
 category: educacion

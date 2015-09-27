@@ -7,7 +7,7 @@ date: 2013-11-01
 author: "Equipo de Datos Abiertos"
 cover: "avances/datatron-pnda/datatron-pnda01.png"
 cover_photo: "avances/datatron-pnda/datatron-pnda01.png"
-permalink: "/avances/datatron-pnda.html"
+permalink: "/impacto/avances/datatron-pnda.html"
 section: impacto
 sub_section: avances
 category: politica

@@ -7,7 +7,7 @@ date: 2014-10-02
 author: "Equipo de Datos Abiertos"
 cover: "avances/labcondatos/labcondatos-cover.jpg"
 cover_photo: "avances/labcondatos/labcondatos-cover_photo.jpg"
-permalink: "/avances/labcondatos.html"
+permalink: "/impacto/avances/labcondatos.html"
 section: impacto
 sub_section: avances
 category: eventos

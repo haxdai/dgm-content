@@ -26,7 +26,7 @@ datasets:
 
 author: Secretaría de Hacienda y Crédito Público
 
-permalink: "/apps/obraabierta.html"
+permalink: "/herramientas/web/obraabierta.html"
 section: herramientas
 sub_section: apps
 category:

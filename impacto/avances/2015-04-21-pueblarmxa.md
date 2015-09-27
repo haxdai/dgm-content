@@ -9,7 +9,7 @@ date: 2015-04-20
 author: "Andrea Barenque"
 cover: "avances/pueblarmxa/pueblarmxa-cover_photo.png"
 cover_photo: "avances/pueblarmxa/pueblarmxa-cover_photo.png"
-permalink: "/avances/pueblarmxa.html"
+permalink: "/impacto/avances/pueblarmxa.html"
 section: impacto
 sub_section: avances
 category: redmxabierto

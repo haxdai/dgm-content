@@ -18,7 +18,7 @@ links:
 datasets:
 
 author: Instituto Nacional de Estadística y Geografía
-permalink: "/apps/mapadigital.html"
+permalink: "/herramientas/web/mapadigital.html"
 section: herramientas
 sub_section: apps
 category:

@@ -21,7 +21,7 @@ datasets:
 
 
 
-permalink: /historias/geografica/redistritacion.html
+permalink: /impacto/historias/redistritacion.html
 section: impacto
 sub_section: historias
 category: geoespacial

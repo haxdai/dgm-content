@@ -25,7 +25,7 @@ datasets:
 
 author: Secretaría de Comunicaciones y Transportes (Unidad de Tecnologías de Información y Comunicación)
 
-permalink: "/apps/guiapemex.html"
+permalink: "/herramientas/movil/guiapemex.html"
 section: herramientas
 sub_section: apps
 category:

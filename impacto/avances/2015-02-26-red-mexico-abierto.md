@@ -9,7 +9,7 @@ date: 2015-02-26
 author: "Equipo de Datos Abiertos"
 cover: "avances/red-mexico-abierto/red-mexico-abierto-cover.png"
 cover_photo: "avances/red-mexico-abierto/red-mexico-abierto-cover_photo.png"
-permalink: "/avances/red-mexico-abierto.html"
+permalink: "/impacto/avances/red-mexico-abierto.html"
 section: impacto
 sub_section: avances
 category: noticias

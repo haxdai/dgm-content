@@ -29,7 +29,7 @@ datasets:
 
 author: Servicio de Administración Tributaria
 
-permalink: "/apps/datosabiertossat.html"
+permalink: "/herramientas/web/datosabiertossat.html"
 section: herramientas
 sub_section: apps
 category:

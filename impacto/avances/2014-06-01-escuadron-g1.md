@@ -7,7 +7,7 @@ date:   2014-06-01
 author: "Equipo de Datos Abiertos"
 cover: "avances/escuadron-g1/escuadron-g1-cover.jpg"
 cover_photo: "avances/escuadron-g1/escuadron-g1-cover.jpg"
-permalink: "/avances/escuadron-g1.html"
+permalink: "/impacto/avances/escuadron-g1.html"
 section: impacto
 sub_section: avances
 category: politica

@@ -9,7 +9,7 @@ date: 2015-02-20
 author: "Equipo de Datos Abiertos"
 cover: "avances/impulsando/impulsando-cover.png"
 cover_photo: "avances/impulsando/impulsando-cover.png"
-permalink: "/avances/impulsa.html"
+permalink: "/impacto/avances/impulsa.html"
 section: impacto
 sub_section: avances
 category: noticias

@@ -18,7 +18,7 @@ datasets:
 
 author: Secretaría de Economía | Dirección General de Regulación Minera
 
-permalink: "/apps/cartografiaminera.html"
+permalink: "/herramientas/web/cartografiaminera.html"
 section: herramientas
 sub_section: apps
 category:

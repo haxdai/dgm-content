@@ -21,7 +21,7 @@ datasets:
 
 author: Secretaría de Hacienda y Crédito Público
 
-permalink: "/apps/entidades.html"
+permalink: "/herramientas/web/entidades.html"
 section: herramientas
 sub_section: apps
 category:

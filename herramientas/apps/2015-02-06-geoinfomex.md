@@ -24,7 +24,7 @@ datasets:
 
 author: Servicio Geológico Mexicano
 
-permalink: "/apps/geoinfomx.html"
+permalink: "/herramientas/movil/geoinfomx.html"
 section: herramientas
 sub_section: apps
 category:

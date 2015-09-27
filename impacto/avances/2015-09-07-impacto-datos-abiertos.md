@@ -8,7 +8,7 @@ date: 2015-09-07
 author: "Equipo de Datos Abiertos"
 cover: "avances/impacto-datos-abiertos/impacto-datos-cover_photo.png"
 cover_photo: "avances/impacto-datos-abiertos/impacto-datos-cover_photo.png"
-permalink: "/avances/impacto-datos-abiertos.html"
+permalink: "/impacto/avances/impacto-datos-abiertos.html"
 section: impacto
 sub_section: avances
 category: noticias

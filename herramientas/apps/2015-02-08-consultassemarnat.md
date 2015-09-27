@@ -16,7 +16,7 @@ datasets:
 
 author: Secretaría de Medio Ambiente y Recursos Naturales
 
-permalink: "/apps/consultassemarnat.html"
+permalink: "/herramientas/web/consultassemarnat.html"
 section: herramientas
 sub_section: apps
 category:

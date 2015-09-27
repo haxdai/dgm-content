@@ -23,7 +23,7 @@ datasets:
     url:   https://www.datossct.gob.mx/dataset/BD-AGA-Alianza-de-Gobierno-Abierto/923j-z7wv
 
 author: Secretaria de Comunicaciones y Transportes
-permalink: "/apps/obrapublica.html"
+permalink: "/herramientas/web/obrapublica.html"
 section: herramientas
 sub_section: apps
 category:

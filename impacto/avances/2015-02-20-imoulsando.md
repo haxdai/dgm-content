@@ -7,7 +7,7 @@ date: 2015-02-20
 author: "Equipo de Datos Abiertos"
 cover: "avances/impulsando/impulsando-cover.png"
 cover_photo: "avances/impulsando-xalapa/impulsando-cover.png"
-permalink: "/avances/impulsando.html"
+permalink: "/impacto/avances/impulsando.html"
 section: impacto
 sub_section: avances
 category: noticias

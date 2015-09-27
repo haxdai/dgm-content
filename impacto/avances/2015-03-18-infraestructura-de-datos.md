@@ -9,7 +9,7 @@ date: 2015-03-18
 author: "Equipo de Datos Abiertos"
 cover: "avances/infraestructura-de-datos/infraestructura-de-datos.png"
 cover_photo: "avances/infraestructura-de-datos/infraestructura-de-datos.png"
-permalink: "/avances/infraestructura-de-datos.html"
+permalink: "/impacto/avances/infraestructura-de-datos.html"
 section: impacto
 sub_section: avances
 category: noticias

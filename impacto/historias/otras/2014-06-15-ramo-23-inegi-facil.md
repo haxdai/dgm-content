@@ -16,7 +16,7 @@ datasets:
     title: "Infraestructura Carretera"
     url: http://catalogo.datos.gob.mx/dataset/infraestructura-carretera
 
-permalink: /historias/otras/ramo-23.html
+permalink: /impacto/historias/ramo-23.html
 section: impacto
 sub_section: historias
 category: otras

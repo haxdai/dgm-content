@@ -14,7 +14,7 @@ datasets:
   -
     title: "Recursos en salud"
     url: http://catalogo.datos.gob.mx/dataset/recursos-en-salud
-permalink: /historias/salud/reduciendo-mortalidad-materna.html
+permalink: /impacto/historias/reduciendo-mortalidad-materna.html
 section: impacto
 sub_section: historias
 category: salud
@@ -85,4 +85,3 @@ Durante tres meses en Chicago ellos aplican su conocimiento en sistemas de cómp
 
 
 ![Equipo de DSSG]({{ site.url | append: site.baseurl }}/assets/images/dssg-team.png)
-

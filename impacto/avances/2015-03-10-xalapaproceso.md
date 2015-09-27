@@ -9,7 +9,7 @@ date: 2015-03-11
 author: "Equipo de Datos Abiertos"
 cover: "avances/xalapaproceso/xalapaproceso-cover_photo.jpg"
 cover_photo: "avances/xalapaproceso/xalapaproceso-cover_photo.jpg"
-permalink: "/avances/xalapaproceso.html"
+permalink: "/impacto/avances/xalapaproceso.html"
 section: impacto
 sub_section: avances
 category: redmxabierto

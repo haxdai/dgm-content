@@ -18,7 +18,7 @@ datasets:
 collaborators:
   - data4
 
-permalink: /historias/seguridad/homicidios-frontera-armas-eeuu.html
+permalink: /impacto/historias/homicidios-frontera-armas-eeuu.html
 section: impacto
 sub_section: historias
 category: seguridad y justicia

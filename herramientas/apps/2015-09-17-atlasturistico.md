@@ -26,7 +26,7 @@ datasets:
 
 author: Secretaría de Turismo
 
-permalink: "/apps/atlasturistico.html"
+permalink: "/herramientas/web/atlasturistico.html"
 section: herramientas
 sub_section: apps
 category:

@@ -7,7 +7,7 @@ date: 2014-04-15
 author: "Equipo de Datos Abiertos"
 cover: "avances/politica-en-vivo/politica-en-vivo-cover.png"
 cover_photo: "avances/politica-en-vivo/politica-en-vivo-cover.png"
-permalink: "/avances/politica-en-vivo.html"
+permalink: "/impacto/avances/politica-en-vivo.html"
 section: impacto
 sub_section: avances
 category: politica

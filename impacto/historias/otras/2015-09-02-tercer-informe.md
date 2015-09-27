@@ -16,7 +16,7 @@ datasets:
 collaborators:
 
 
-permalink: /historias/otras/tercer-informe.html
+permalink: /impacto/historias/tercer-informe.html
 section: impacto
 sub_section: historias
 category: desarrollo sostenible

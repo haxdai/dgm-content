@@ -21,7 +21,7 @@ datasets:
 collaborators:
   - secretaria_salud
 
-permalink: /historias/salud/mortalidad-materna.html
+permalink: /impacto/historias/mortalidad-materna.html
 section: impacto
 sub_section: historias
 category: salud

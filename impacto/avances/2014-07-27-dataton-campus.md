@@ -7,7 +7,7 @@ date:   2014-07-27
 author: "Equipo de Datos Abiertos"
 cover: "avances/dataton-campus/dataton-campus-cover.jpg"
 cover_photo: "avances/dataton-campus/dataton-campus-cover_photo.jpg"
-permalink: "/avances/dataton-campus.html"
+permalink: "/impacto/avances/dataton-campus.html"
 section: impacto
 sub_section: avances
 category: eventos

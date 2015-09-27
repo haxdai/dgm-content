@@ -30,7 +30,7 @@ datasets:
 collaborators:
   - inegi_facil
 
-permalink: /historias/otras/inegi-facil.html
+permalink: /impacto/historias/inegi-facil.html
 section: impacto
 sub_section: historias
 category: otras

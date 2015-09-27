@@ -9,7 +9,7 @@ date: 2015-03-04
 author: "Equipo de Datos Abiertos"
 cover: "avances/participacc/participacc-cover.png"
 cover_photo: "avances/participacc/participacc-cover_photo.png"
-permalink: "/avances/participacc.html"
+permalink: "/impacto/avances/participacc.html"
 section: impacto
 sub_section: avances
 category: noticias

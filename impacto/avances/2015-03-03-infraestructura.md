@@ -9,7 +9,7 @@ date: 2015-03-03
 author: "Equipo de Datos Abiertos"
 cover: "avances/infraestructura/infraestructura-cover.png"
 cover_photo: "avances/infraestructura/infraestructura-cover_photo.png"
-permalink: "/avances/infraestructura.html"
+permalink: "/impacto/avances/infraestructura.html"
 section: impacto
 sub_section: avances
 category: noticias

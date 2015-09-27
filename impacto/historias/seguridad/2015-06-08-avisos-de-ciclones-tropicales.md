@@ -13,7 +13,7 @@ datasets:
   -
     title: "Avisos de ciclón tropical"
     url: http://catalogo.datos.gob.mx/dataset/avisos-de-ciclon-tropical
-permalink: /historias/seguridad/avisos-de-ciclones-tropicales.html
+permalink: /impacto/historias/avisos-de-ciclones-tropicales.html
 section: impacto
 sub_section: historias
 category: seguridad y justicia

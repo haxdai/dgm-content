@@ -32,7 +32,9 @@ app_author: Servicio de Administración Tributaria
 permalink: "/apps/datosabiertossat.html"
 section: herramientas
 sub_section: apps
-category: web
+category:
+  - web
+  - economia
 category_title: Web
 tags:
   - Datos Abiertos

@@ -1,7 +1,7 @@
 ---
 published: true
 layout: app
-
+featured: false
 title: Mapa Digital de México
 date: 2015-07-22
 cover: apps/mapadigital/mapadigital-cover.jpg

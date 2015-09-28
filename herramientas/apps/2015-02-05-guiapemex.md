@@ -1,7 +1,7 @@
 ---
 published: true
 layout: app
-
+featured: false
 title: Guía Pemex
 date: 2015-02-06
 cover: apps/guiapemex/guiapemex-cover.jpg

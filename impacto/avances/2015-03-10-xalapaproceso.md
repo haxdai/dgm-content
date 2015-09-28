@@ -12,7 +12,7 @@ cover_photo: "avances/xalapaproceso/xalapaproceso-cover_photo.jpg"
 permalink: "/impacto/avances/xalapaproceso.html"
 section: impacto
 sub_section: avances
-category: redmxabierto
+category: gobiernos-locales
 category_title: Red México Abierto
 tags:
   - Red México Abierto

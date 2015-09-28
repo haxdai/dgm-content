@@ -1,7 +1,7 @@
 ---
 published: true
 layout: app
-
+featured: false
 title: Atlas Turístico de México
 date: 2015-09-17
 cover: apps/atlasturistico/atlasturistico-cover.jpg

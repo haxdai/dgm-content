@@ -1,6 +1,7 @@
 ---
 published: true
 layout:   post
+featured: false
 title:    "Derechos de propiedad sobre la tierra"
 tagline:  "Mejorando la ubicación de la fuerza laboral rural en México"
 author:   "Qué Funciona para el Desarrollo"

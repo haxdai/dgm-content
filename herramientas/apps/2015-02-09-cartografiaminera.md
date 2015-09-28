@@ -1,7 +1,7 @@
 ---
 published: true
 layout: app
-
+featured: false
 title: Consulta de la Cartografía Minera Digitalizada
 date: 2015-02-09
 cover: apps/cartografiaminera/cartografiaminera-cover.jpg

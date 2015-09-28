@@ -1,7 +1,7 @@
 ---
 published: true
 layout: app
-
+featured: false
 title: Entidades Federativas
 date: 2015-06-26
 cover: apps/entidades/entidades-cover.jpg

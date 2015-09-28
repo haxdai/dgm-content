@@ -1,7 +1,7 @@
 ---
 published: true
 layout: app
-
+featured: false
 title: GeoInfoMex
 date: 2015-02-04
 cover: apps/geoinfomx/geoinfomx-cover.jpg

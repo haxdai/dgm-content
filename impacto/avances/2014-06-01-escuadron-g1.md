@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+featured: false
 title: 'La primera generación del escuadrón de datos'
 excerpt: "Después de más de 60 reuniones, 700km recorridos, 100 tazas de café, logramos liberar los primeros 100 conjuntos de datos de esta iniciativa."
 date:   2014-06-01

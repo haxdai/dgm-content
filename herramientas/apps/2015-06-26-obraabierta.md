@@ -1,7 +1,7 @@
 ---
 published: true
 layout: app
-
+featured: false
 title: Obra Pública Abierta
 date: 2015-06-25
 cover: apps/obraabierta/obraabierta_cover.jpg

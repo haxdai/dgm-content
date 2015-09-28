@@ -29,9 +29,7 @@ author: Secretaría de Turismo
 permalink: "/herramientas/web/atlasturistico.html"
 section: herramientas
 sub_section: apps
-category:
-  - web
-  - cultura y turismo
+category: cultura-y-turismo
 category_title: web
 tags:
   - turismo

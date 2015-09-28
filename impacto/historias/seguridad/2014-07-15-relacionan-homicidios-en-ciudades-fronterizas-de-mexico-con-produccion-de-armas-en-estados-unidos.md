@@ -21,7 +21,7 @@ collaborators:
 permalink: /impacto/historias/homicidios-frontera-armas-eeuu.html
 section: impacto
 sub_section: historias
-category: seguridad y justicia
+category: seguridad-y-justicia
 category_title: Seguridad y justicia
 tags:
   - Armas

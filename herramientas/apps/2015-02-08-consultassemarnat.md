@@ -19,10 +19,8 @@ author: Secretaría de Medio Ambiente y Recursos Naturales
 permalink: "/herramientas/web/consultassemarnat.html"
 section: herramientas
 sub_section: apps
-category:
-  - web
-  - energia y medio ambiente
-category_title: Web
+category: energia-y-medio-ambiente
+category_title: web
 tags:
   - ambiente
   - trámites

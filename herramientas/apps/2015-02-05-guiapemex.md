@@ -28,10 +28,8 @@ author: Secretaría de Comunicaciones y Transportes (Unidad de Tecnologías de I
 permalink: "/herramientas/movil/guiapemex.html"
 section: herramientas
 sub_section: apps
-category:
-  - movil
-  - energia y medio ambiente
-category_title: Móvil
+category: energia-y-medio-ambiente
+category_title: movil
 tags:
   - viajes
   - rutas

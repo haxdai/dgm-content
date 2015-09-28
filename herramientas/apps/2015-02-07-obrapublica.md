@@ -26,10 +26,8 @@ author: Secretaria de Comunicaciones y Transportes
 permalink: "/herramientas/web/obrapublica.html"
 section: herramientas
 sub_section: apps
-category:
-  - web
-  - infraestructura
-category_title: Web
+category: infraestructura
+category_title: web
 tags:
   - infraestructura
   - transporte

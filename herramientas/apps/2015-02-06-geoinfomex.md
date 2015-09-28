@@ -27,10 +27,8 @@ author: Servicio Geológico Mexicano
 permalink: "/herramientas/movil/geoinfomx.html"
 section: herramientas
 sub_section: apps
-category:
-  - movil
-  - geoespacial
-category_title: Móvil
+category: geoespacial
+category_title: movil
 tags:
   - minería
   - geología

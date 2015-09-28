@@ -16,7 +16,7 @@ datasets:
 permalink: /impacto/historias/avisos-de-ciclones-tropicales.html
 section: impacto
 sub_section: historias
-category: seguridad y justicia
+category: seguridad-y-justicia
 category_title: Seguridad y justicia
 tags:
   - Ciclones tropicales

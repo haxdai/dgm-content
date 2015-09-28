@@ -29,11 +29,9 @@ author: Secretaría de Hacienda y Crédito Público
 permalink: "/herramientas/web/obraabierta.html"
 section: herramientas
 sub_section: apps
-category:
-  - web
-  - infraestructura
+category: infraestructura
 
-category_title: Web
+category_title: web
 tags:
   - Obra Pública Abierta
   - Transparencia

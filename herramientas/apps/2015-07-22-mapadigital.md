@@ -21,10 +21,8 @@ author: Instituto Nacional de Estadística y Geografía
 permalink: "/herramientas/web/mapadigital.html"
 section: herramientas
 sub_section: apps
-category:
-  - web
-  - desarrollo sostenible
-category_title: Web
+category: desarrollo-sostenible
+category_title: web
 tags:
   - DENUE
   - INEGI

@@ -21,10 +21,8 @@ author: Secretaría de Economía | Dirección General de Regulación Minera
 permalink: "/herramientas/web/cartografiaminera.html"
 section: herramientas
 sub_section: apps
-category:
-  - web
-  - geoespacial
-category_title: Web
+category: geoespacial
+category_title: web
 tags:
   - concesión
   - cartografía

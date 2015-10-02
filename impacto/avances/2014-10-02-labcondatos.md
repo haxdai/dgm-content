@@ -11,8 +11,8 @@ cover_photo: "avances/labcondatos/labcondatos-cover_photo.jpg"
 permalink: "/impacto/avances/labcondatos.html"
 section: impacto
 sub_section: avances
-category: eventos
-category_title: Eventos
+category: noticias
+category_title: Noticias
 tags:
   - datos abiertos
   - visualización

@@ -11,8 +11,8 @@ cover_photo: "avances/dataton-campus/dataton-campus-cover_photo.jpg"
 permalink: "/impacto/avances/dataton-campus.html"
 section: impacto
 sub_section: avances
-category: eventos
-category_title: Eventos
+category: noticias
+category_title: Noticias
 tags:
   - dataton
   - datos abiertos

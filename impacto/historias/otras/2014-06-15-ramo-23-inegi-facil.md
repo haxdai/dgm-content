@@ -1,6 +1,7 @@
 ---
 published: true
 layout:   post
+featured: false
 title:    "Ramo 23: Conoce cómo se gastan las provisiones salariales y económicas de México"
 
 tagline:  "Conocer cómo se asigna presupuesto federal a los estados"

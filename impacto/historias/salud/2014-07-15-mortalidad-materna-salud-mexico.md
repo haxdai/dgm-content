@@ -1,6 +1,7 @@
 ---
 published: true
 layout:   post
+featured: false
 title:    "Mortalidad materna y salud en México"
 
 tagline:  "Entender la mortalidad materna en México"

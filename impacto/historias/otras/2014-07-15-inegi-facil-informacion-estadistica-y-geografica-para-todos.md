@@ -1,6 +1,7 @@
 ---
 published: true
 layout:   post
+featured: false
 title:    "INEGI Fácil: información estadística y geográfica para todos"
 
 tagline:  "Mejorar la manera en que accedemos información oficial"

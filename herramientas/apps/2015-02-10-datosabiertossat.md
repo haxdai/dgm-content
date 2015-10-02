@@ -1,7 +1,7 @@
 ---
 published: false
 layout: app
-
+featured: false
 title: Datos Abiertos SAT
 date: 2015-02-10
 cover: apps/datosabiertossat/datosabiertossat-cover.jpg

@@ -1,6 +1,7 @@
 ---
 published: true
 layout:   post
+featured: false
 title:    "Atlas de la Marginación Municipal en México"
 
 tagline:  "Entender la marginación a nivel municipal"

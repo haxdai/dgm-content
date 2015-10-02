@@ -1,6 +1,7 @@
 ---
 published: true
 layout:   post
+featured: false
 title:    "Enorgulleciendo a nuestras madres: Reduciendo la mortalidad materna en México"
 tagline:  "Reducir la mortalidad materna"
 author:   "Nick Eng | DSSG"

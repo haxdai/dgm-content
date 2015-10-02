@@ -1,6 +1,7 @@
 ---
 published: true
 layout:   post
+featured: false
 title:    "Relación entre los homicidios en la frontera de México y la producción de armas en EE.UU."
 
 tagline:  "Entender la seguridad en la frontera"

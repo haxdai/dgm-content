@@ -1,6 +1,7 @@
 ---
 published: true
 layout:   post
+featured: false
 title:    "Compara Carreras"
 tagline:  "Comparar carreras profesionales"
 author:   "IMCO"

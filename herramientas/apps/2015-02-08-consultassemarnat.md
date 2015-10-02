@@ -1,7 +1,7 @@
 ---
 published: true
 layout: app
-
+featured: false
 title: Consultas Públicas en el proceso de evaluación de impacto ambiental
 date: 2015-02-08
 cover: apps/consultassemarnat/consultassemarnat-cover.jpg

@@ -1,6 +1,7 @@
 ---
 published: true
 layout:   post
+featured: false
 title:    "Datos abiertos para predecir delitos en tiempo real"
 tagline:  "Datos abiertos para predecir delitos en tiempo real."
 author:   "Luis Román García | Omar Trejo"

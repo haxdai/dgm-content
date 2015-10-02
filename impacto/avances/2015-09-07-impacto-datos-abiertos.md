@@ -12,8 +12,8 @@ cover_photo: "avances/impacto-datos-abiertos/impacto-datos-cover_photo.png"
 permalink: "/impacto/avances/impacto-datos-abiertos.html"
 section: impacto
 sub_section: avances
-category: noticias
-category_title: Noticias
+category: otros
+category_title: Otros
 tags:
   - Datos Abiertos
   - Conferencia Internacional de Datos Abiertos

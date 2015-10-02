@@ -11,8 +11,8 @@ cover_photo: "avances/escuadron-g1/escuadron-g1-cover.jpg"
 permalink: "/impacto/avances/escuadron-g1.html"
 section: impacto
 sub_section: avances
-category: politica
-category_title: Política
+category: otros
+category_title: Otros
 tags:
   - escuadron de datos
   - datos abiertos

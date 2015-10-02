@@ -11,6 +11,8 @@ cover_photo: "avances/odc/odc-cover.png"
 permalink: "/avances/open-data-charter.html"
 section: impacto
 sub_section: avances
+category: otros
+category_title: Otros
 tags:
   - Carta Internacional de Datos Abiertos
   - datos abiertos

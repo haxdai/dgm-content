@@ -11,8 +11,8 @@ cover_photo: "avances/datatron-pnda/datatron-pnda01.png"
 permalink: "/impacto/avances/datatron-pnda.html"
 section: impacto
 sub_section: avances
-category: politica
-category_title: Politica
+category: otros
+category_title: Otros
 tags:
   - datatron
   - datos abiertos

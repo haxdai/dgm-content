@@ -11,8 +11,8 @@ cover_photo: "avances/politica-en-vivo/politica-en-vivo-cover.png"
 permalink: "/impacto/avances/politica-en-vivo.html"
 section: impacto
 sub_section: avances
-category: politica
-category_title: Politica
+category: otros
+category_title: Otros
 tags:
   - participacion ciudadana
   - datos abiertos

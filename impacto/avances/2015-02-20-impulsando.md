@@ -12,8 +12,8 @@ cover_photo: "avances/impulsando/impulsando-cover.png"
 permalink: "/impacto/avances/impulsa.html"
 section: impacto
 sub_section: avances
-category: noticias
-category_title: Noticias
+category: otros
+category_title: Otros
 tags:
   - datos.gob.mx
   - Datos Abiertos

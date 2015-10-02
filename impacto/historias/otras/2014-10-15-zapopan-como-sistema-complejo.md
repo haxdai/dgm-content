@@ -9,7 +9,7 @@ cover:    "historias/zapopan-como-sistema-complejo/zapopan-como-sistema-complejo
 cover_photo: "historias/zapopan-como-sistema-complejo/zapopan-como-sistema-complejo-cover_photo.jpg"
 permalink: /impacto/historias/zapopan-como-sistema-complejo.html
 section: impacto
-sub_section: historias
+sub_section: casos-de-uso
 category: infraestructura
 category_title: Infraestructura
 tags:

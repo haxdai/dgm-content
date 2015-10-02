@@ -18,8 +18,8 @@ collaborators:
 
 permalink: /impacto/historias/tercer-informe.html
 section: impacto
-sub_section: historias
-category: desarrollo sostenible
+sub_section: casos-de-uso
+category: desarrollo-sostenible
 category_title: "Desarrollo sostenible"
 tags:
 - Presidencia

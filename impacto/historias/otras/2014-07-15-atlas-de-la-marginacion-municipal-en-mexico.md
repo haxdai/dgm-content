@@ -38,9 +38,9 @@ collaborators:
 
 permalink: /impacto/historias/atlas-marginacion.html
 section: impacto
-sub_section: historias
-category: otras
-category_title: "Otras"
+sub_section: casos-de-uso
+category: otros
+category_title: "Otros"
 tags:
   - Atlas
   - CONAPO

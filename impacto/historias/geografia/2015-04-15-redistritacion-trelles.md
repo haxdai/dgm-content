@@ -1,12 +1,11 @@
 ---
 published: true
-featured: false
 layout:   post
 title:    "Datos abiertos, representación política y redistritación en México"
 tagline:  "Conocer cómo usar datos para mejor delimitar las secciones electorales"
 author:   "Alejandro Trelles, Micah Altman, Eric Magar, Michael P. McDonald"
 date:     2015-04-15 12:09:00 -0500
-cover:    "historias/redistritacion/redistritacion-cover.jpg"
+cover:    "historias/redistritacion/redistritacion-1280x400.png"
 cover_photo: "historias/redistritacion/redistritacion-1280x400.png"
 datasets:
   -
@@ -21,19 +20,17 @@ datasets:
 
 
 
-permalink: /impacto/historias/redistritacion.html
-section: impacto
-sub_section: historias
-category: geoespacial
-category_title: "Geoespacial"
+permalink: /historias/geografia/redistritacion.html
+section:  historias
+sub_section: casos-de-uso
+category: geografia
+category_title: "Geografia"
 tags:
 - Redistritacion
-excerpt_separator: <!--more-->
+
 ---
 
 Los diversos reclamos y protestas de diversa índole en la última década en México han expuesto la urgencia de estrechar el vínculo entre la ciudadanía y sus representantes. Desde nuestra óptica, la generación y el uso de información para conseguir esta tarea son un área prioritaria para la gobernabilidad y el fortalecimiento de nuestra joven democracia. En este rubro, la delimitación de la cartografía electoral es un mecanismo fundamental para alcanzar una mejor representación política. Por tratarse de una labor inmersa en tecnicismos varios ---geográficos, estadísticos, informáticos, entre los más reconocibles--- es fácil caer en la tentación de relegar la redistritación al ámbito de los especialistas y perder de vista su importancia para la representación política. En este texto presentamos una novedosa tecnología para incorporar el dibujo y estudio de mapas distritales al gobierno abierto: una plataforma que opera a través de Internet, abierta a cualquier interesado y de uso tan sencillo e intuitivo como la tecnología de mapeo que ofrece Google.
-
-<!--more-->
 
 Redistritar al país requiere de una cantidad importante de información proveniente de distintas instancias de gobierno de los órdenes federal y local, de instituciones autónomas y de organismos, tanto centralizados como descentralizados, de la Administración Pública Federal. Por ejemplo, la información censal para determinar dónde viven los mexicanos, la cartografía administrativa y la física del territorio nacional son generadas por el Instituto Nacional de Estadística y Geografía (INEGI); la información de vialidades y carreteras de las entidades y municipios para estimar los tiempos de traslado proviene de la Secretaría de Comunicaciones y Transportes (SCT); y la información sobre la ubicación y concentración de la población indígena para dar cumplimiento al artículo 2º constitucional es generada por la Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI).
 

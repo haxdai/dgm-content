@@ -15,7 +15,7 @@ datasets:
     url: http://catalogo.datos.gob.mx/dataset/avisos-de-ciclon-tropical
 permalink: /impacto/historias/tecnologia-humanitaria.html
 section: impacto
-sub_section: historias
+sub_section: casos-de-uso
 category: seguridad-y-justicia
 category_title: Seguridad y justicia
 tags:

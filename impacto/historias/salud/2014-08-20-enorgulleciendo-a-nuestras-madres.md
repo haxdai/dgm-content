@@ -16,7 +16,7 @@ datasets:
     url: http://catalogo.datos.gob.mx/dataset/recursos-en-salud
 permalink: /impacto/historias/reduciendo-mortalidad-materna.html
 section: impacto
-sub_section: historias
+sub_section: casos-de-uso
 category: salud
 category_title: Salud
 tags:

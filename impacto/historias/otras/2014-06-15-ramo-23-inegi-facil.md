@@ -18,7 +18,7 @@ datasets:
 
 permalink: /impacto/historias/ramo-23.html
 section: impacto
-sub_section: historias
+sub_section: casos-de-uso
 category: otras
 category_title: "Otras"
 tags:

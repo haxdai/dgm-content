@@ -9,9 +9,9 @@ cover:    "historias/derechos-de-propiedad-sobre-la-tierra/derechos-de-propiedad
 cover_photo: "historias/derechos-de-propiedad-sobre-la-tierra/derechos-de-propiedad-sobre-la-tierra-cover.jpg"
 permalink: /impacto/historias/derechos-de-propiedad-sobre-la-tierra.html
 section: impacto
-sub_section: historias
-category: otras
-category_title: "Otras"
+sub_section: casos-de-uso
+category: otros
+category_title: "Otros"
 tags:
 - fuerza laboral
 - Desarrollo

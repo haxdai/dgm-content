@@ -23,7 +23,7 @@ collaborators:
 
 permalink: /impacto/historias/2015-01-11-labcondatos-imss.html
 section: impacto
-sub_section: historias
+sub_section: casos-de-uso
 category: salud
 category_title: Salud
 tags:

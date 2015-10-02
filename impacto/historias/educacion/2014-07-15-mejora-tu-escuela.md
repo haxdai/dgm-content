@@ -23,7 +23,7 @@ datasets:
 
 permalink: /impacto/historias/mejora-tu-escuela.html
 section: impacto
-sub_section: historias
+sub_section: casos-de-uso
 category: educacion
 category_title: "Educación"
 tags:

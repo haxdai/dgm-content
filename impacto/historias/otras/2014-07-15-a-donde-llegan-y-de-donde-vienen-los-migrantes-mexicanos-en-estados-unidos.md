@@ -32,9 +32,9 @@ collaborators:
 
 permalink: /impacto/historias/migrantes-en-eeuu.html
 section: impacto
-sub_section: historias
-category: otras
-category_title: "Otras"
+sub_section: casos-de-uso
+category: otros
+category_title: "Otros"
 tags:
   - D4
   - Infografía

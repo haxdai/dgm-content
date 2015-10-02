@@ -23,7 +23,7 @@ collaborators:
 
 permalink: /impacto/historias/mortalidad-materna.html
 section: impacto
-sub_section: historias
+sub_section: casos-de-uso
 category: salud
 category_title: Salud
 tags:

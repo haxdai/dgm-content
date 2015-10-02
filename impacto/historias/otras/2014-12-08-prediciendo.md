@@ -19,9 +19,9 @@ datasets:
     url: https://www.dropbox.com/sh/skv5nl9t5mdxr4n/AADqqEU5bx2gTZdMldjdvLfVa
 permalink: /impacto/historias/2014-12-08-prediciendo.html
 section: impacto
-sub_section: historias
-category: otras
-category_title: "Otras"
+sub_section: casos-de-uso
+category: otros
+category_title: "Otros"
 tags:
 - Datatón
 redirect_from: /prediciendo/

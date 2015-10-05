@@ -1,13 +1,13 @@
 ---
 published: true
-layout: "post-progress"
+layout: post
 featured: false
 title: 'Alianza de Datos para el Desarrollo Sostenible.'
 excerpt: "El objetivo de esta Alianza Global de Datos es apoyar la generación, accesibilidad y uso de datos para impulsar el logro y medición de la Agenda 2030,"
 date: 2015-09-30
 cover: "avances/alianza-datos/alianza-cover.png"
 cover_photo: "avances/alianza-datos/alianza-cover_photo.png"
-permalink: "avances/alianza-datos.html"
+permalink: "/avances/alianza-datos.html"
 section: impacto
 sub_section: avances
 category: otros

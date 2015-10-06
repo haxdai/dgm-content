@@ -9,7 +9,8 @@ links:
   playStore: https://play.google.com/store/apps/details?id=com.tcs.programapaisano
   appleStore: https://itunes.apple.com/mx/app/bienvenido-a-mexico/id731221545?mt=8
 
-section: gov_apps
+section: herramientas
+sub_section: gov_apps
 source: App Store en iTunes
 
 ---

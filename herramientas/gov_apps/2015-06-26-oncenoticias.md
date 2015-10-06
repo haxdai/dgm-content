@@ -9,7 +9,8 @@ links:
   playStore: https://play.google.com/store/apps/details?id=com.oncetvmexico.oncenoticias2
   appleStore: https://itunes.apple.com/mx/app/once-noticias/id443333795?mt=8
 
-section: gov_apps
+section: herramientas
+sub_section: gov_apps
 source: App Store en iTunes
 ---
 Once Noticias ofrece un panorama completo del acontecer nacional e internacional. Un sólido equipo de profesionales construye diariamente un periodismo serio y responsable.

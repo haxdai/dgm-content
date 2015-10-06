@@ -9,7 +9,8 @@ links:
   playStore: https://play.google.com/store/apps/details?id=com.amb.bellasartes&hl=es
   appleStore: https://itunes.apple.com/mx/app/bellas-artes-80-anos/id924540972?mt=8
 
-section: gov_apps
+section: herramientas
+sub_section: gov_apps
 source: App Store en iTunes
 ---
 Disfruta de estos 80 años del INBA con la aplicación conmemorativa con realidad aumentada.

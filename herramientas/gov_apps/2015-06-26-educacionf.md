@@ -9,7 +9,8 @@ links:
   playStore: https://play.google.com/store/apps/details?id=com.artech.semanafinanciera.condusef
   appleStore: https://itunes.apple.com/us/app/educacion-financiera/id685710761?l=es&mt=8
 
-section: gov_apps
+section: herramientas
+sub_section: gov_apps
 source: App Store en iTunes
 ---
 

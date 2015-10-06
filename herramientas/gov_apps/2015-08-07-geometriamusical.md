@@ -9,7 +9,8 @@ links:
   playStore: https://play.google.com/store/apps/details?id=air.com.conaculta.geometria
   appleStore: https://itunes.apple.com/mx/app/geometria-musical/id949766198?mt=8
 
-section: gov_apps
+section: herramientas
+sub_section: gov_apps
 source: App Store en iTunes
 ---
 

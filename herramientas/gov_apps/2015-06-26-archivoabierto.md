@@ -9,7 +9,8 @@ links:
   playStore: https://play.google.com/store/apps/details?id=com.manuvo.fce80
   appleStore: https://itunes.apple.com/mx/app/archivo-abierto.-80-anos-del/id912009439?mt=8
 
-section: gov_apps
+section: herramientas
+sub_section: gov_apps
 source: Google Play
 
 ---

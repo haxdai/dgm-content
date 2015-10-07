@@ -25,7 +25,7 @@ datasets:
 author: Secretaria de Comunicaciones y Transportes
 permalink: "/herramientas/web/obrapublica.html"
 section: herramientas
-sub_section: apps
+sub_section: herramientas
 category: infraestructura
 category_title: web
 tags:

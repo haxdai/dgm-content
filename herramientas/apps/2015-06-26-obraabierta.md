@@ -28,7 +28,7 @@ author: Secretaría de Hacienda y Crédito Público
 
 permalink: "/herramientas/web/obraabierta.html"
 section: herramientas
-sub_section: apps
+sub_section: herramientas
 category: infraestructura
 
 category_title: web

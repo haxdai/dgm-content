@@ -20,7 +20,7 @@ datasets:
 author: Instituto Nacional de Estadística y Geografía
 permalink: "/herramientas/web/mapadigital.html"
 section: herramientas
-sub_section: apps
+sub_section: herramientas
 category: desarrollo-sostenible
 category_title: web
 tags:

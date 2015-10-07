@@ -20,7 +20,7 @@ author: Secretaría de Economía | Dirección General de Regulación Minera
 
 permalink: "/herramientas/web/cartografiaminera.html"
 section: herramientas
-sub_section: apps
+sub_section: herramientas
 category: geoespacial
 category_title: web
 tags:

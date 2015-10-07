@@ -20,8 +20,8 @@ datasets:
 permalink: /impacto/historias/ramo-23.html
 section: impacto
 sub_section: casos-de-uso
-category: otras
-category_title: "Otras"
+category: otros
+category_title: "Otros"
 tags:
 - Buscador
 - Datos Abiertos

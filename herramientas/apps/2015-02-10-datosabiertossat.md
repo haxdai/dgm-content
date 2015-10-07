@@ -31,7 +31,7 @@ author: Servicio de Administración Tributaria
 
 permalink: "/herramientas/web/datosabiertossat.html"
 section: herramientas
-sub_section: apps
+sub_section: herramientas
 category: economia
 category_title: web
 tags:

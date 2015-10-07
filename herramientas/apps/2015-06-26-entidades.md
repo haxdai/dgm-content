@@ -23,7 +23,7 @@ author: Secretaría de Hacienda y Crédito Público
 
 permalink: "/herramientas/web/entidades.html"
 section: herramientas
-sub_section: apps
+sub_section: herramientas
 category: economia
 category_title: web
 tags:

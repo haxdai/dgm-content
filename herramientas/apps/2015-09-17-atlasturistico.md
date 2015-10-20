@@ -5,6 +5,7 @@ featured: false
 title: Atlas Turístico de México
 date: 2015-09-17
 cover: apps/atlasturistico/atlasturistico-cover.jpg
+featured_cover: apps/atlasturistico/cultura_cover.png
 screenshots:
   - apps/atlasturistico/screens/atlasturistico01.png
   - apps/atlasturistico/screens/atlasturistico02.png
@@ -31,6 +32,7 @@ section: herramientas
 sub_section: herramientas
 category: cultura-y-turismo
 category_title: web
+category_featured: true
 tags:
   - turismo
   - atlas

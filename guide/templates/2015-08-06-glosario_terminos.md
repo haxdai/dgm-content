@@ -1,6 +1,6 @@
 ---
 published: true
-layout: guide-sub
+layout: guide
 title: Glosario de Términos
 date: 2015-08-06
 permalink: "/guia/manuales-plantillas/glosario-terminos.html"

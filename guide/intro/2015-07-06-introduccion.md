@@ -4,7 +4,7 @@ published: true
 title: Introducción
 date: 2015-07-06
 
-permalink: "/introduccion/index.html"
+permalink: "/guia/introduccion/index.html"
 section: intro
 category: intro
 ---

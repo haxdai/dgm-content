@@ -1,6 +1,6 @@
 ---
 published: true
-layout: guide-sub
+layout: guide
 title: Listado de Instituciones prioritarias para la publicación Datos Abiertos
 date: 2015-07-31
 permalink: "/guia/manuales-plantillas/instituciones-prioritarias.html"

@@ -1,6 +1,6 @@
 ---
 published: true
-layout: guide-sub
+layout: guide
 
 title: Inventario Institucional de Datos
 date: 2015-07-06
@@ -30,6 +30,7 @@ Se estima un plazo promedio para su elaboración de **10 días hábiles**.
 
 <div class="video" style="padding-top: 0px;">
   <p>
+https://youtu.be/
     <iframe id="about-video" src="//www.youtube.com/embed/WaoUR_svV8s?rel=0&amp;showinfo=0"></iframe>
   </p>
 </div>

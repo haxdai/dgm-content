@@ -1,11 +1,11 @@
 ---
 published: true
-layout: guide
+layout: default
 
 title: Referencias Externas
 date: 2015-07-06
 
-permalink: "/guia/manuales-plantillas/referencias.html"
+permalink: "/manuales-plantillas/referencias.html"
 section: references
 category: references
 ---

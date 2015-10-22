@@ -1,6 +1,6 @@
 ---
 published: true
-layout: guide-sub
+layout: guide
 
 title: Recomendaciones para el Plan de Apertura Institucional
 date: 2015-09-09
@@ -10,13 +10,13 @@ section: inventory
 category: inventory
 ---
 
-A continuación se presentan las acciones recomendadas para cumplir con el Paso [1.3]({{ "/planea/paso-1-3.html" | prepend: site.baseurl}}) y [1.4]({{ "/planea/paso-1-4.html" | prepend: site.baseurl}}) de la Guía de Implementación de la Política de Datos Abiertos, referentes a *Priorizar los datos de valor* al *Plan de Apertura Institucional*.
+A continuación se presentan las acciones recomendadas para cumplir con el Paso [1.3]({{ "/guia/planea/paso-1-3.html" | prepend: site.baseurl}}) y [1.4]({{ "/guia/planea/paso-1-4.html" | prepend: site.baseurl}}) de la Guía de Implementación de la Política de Datos Abiertos, referentes a *Priorizar los datos de valor* al *Plan de Apertura Institucional*.
 
 El *Plan de Apertura Institucional* que elaboran las dependencias y entidades tiene como objetivo señalar al público las acciones y fechas propuestas para la publicación de Datos Abiertos. Este Plan Institucional se desarrollará a partir de una priorización del *Inventario Institucional de Datos*.
 
 La plataforma [ADELA (Acelerador De La Apertura)](http://adela.datos.gob.mx), se creó para facilitar a las Entidades e Instituciones la elaboración y actualización del *Plan de Apertura*, así como de la publicación de *Conjuntos de Datos* en [datos.gob.mx](http://datos.gob.mx).
 
-Para iniciar, es indispensable contar con el *Inventario Institucional de Datos* ([Paso 1.2]({{ "/planea/paso-1-2.html" | prepend: site.baseurl}}) de la Guía), el cual se cargará en [ADELA](http://adela.datos.gob.mx) y será la base para la creación del *Plan de Apertura*. Una vez terminado, este Plan puede ser descargado para fines de soporte al cumplimiento de la Política de Datos Abiertos.
+Para iniciar, es indispensable contar con el *Inventario Institucional de Datos* ([Paso 1.2]({{ "/guia/planea/paso-1-2.html" | prepend: site.baseurl}}) de la Guía), el cual se cargará en [ADELA](http://adela.datos.gob.mx) y será la base para la creación del *Plan de Apertura*. Una vez terminado, este Plan puede ser descargado para fines de soporte al cumplimiento de la Política de Datos Abiertos.
 
 Para ingresar a [ADELA](http://adela.datos.gob.mx), las contraseñas serán enviadas directamente a los correos institucionales de los Administradores de Datos.
 
@@ -60,7 +60,7 @@ https://youtu.be/
             <td><strong>1. Priorizar los Datos de Valor</strong></td>
             <td>
               <p>
-                En conformidad con el <a href="{{ "/planea/paso-1-3.html" | prepend: site.baseurl}}">Paso 1.3</a> de la <i>Guía de Implementación</i>, es necesario realizar una priorización de los <i>Conjuntos de Datos</i> registrados en el <i>Inventario de Datos</i> para determinar la calendarización en el <i>Plan de Apertura</i>.
+                En conformidad con el <a href="{{ "/guia/planea/paso-1-3.html" | prepend: site.baseurl}}">Paso 1.3</a> de la <i>Guía de Implementación</i>, es necesario realizar una priorización de los <i>Conjuntos de Datos</i> registrados en el <i>Inventario de Datos</i> para determinar la calendarización en el <i>Plan de Apertura</i>.
               </p>
               <p>
                 Es recomendable, en este punto, verificar si existen <i>Conjuntos de Datos</i> adicionales que puedan ser agregados al <i>Inventario de Datos</i>.
@@ -91,7 +91,7 @@ https://youtu.be/
         <tr>
             <td><a>Ejemplo de Priorización de Datos</a></td>
             <td colspan="2">
-              <img src="{{ "/assets/img/ejemplo_priorizacion_datos.png" | prepend: site.baseurl }}" alt="Ejemplo de Priorización de Datos" />
+              <img src="{{ "/assets/img/guide/ejemplo_priorizacion_datos.png" | prepend: site.baseurl }}" alt="Ejemplo de Priorización de Datos" />
             </td>
         </tr>
         <tr>
@@ -115,7 +115,7 @@ https://youtu.be/
         <tr>
             <td><a>Ejemplo de Fechas</a></td>
             <td colspan="2">
-              <img src="{{ "/assets/img/ejemplo_fechas.png" | prepend: site.baseurl }}" alt="Ejemplo de Fechas" />
+              <img src="{{ "/assets/img/guide/ejemplo_fechas.png" | prepend: site.baseurl }}" alt="Ejemplo de Fechas" />
             </td>
         </tr>
         <tr>
@@ -161,7 +161,7 @@ https://youtu.be/
         <tr>
             <td><a>Ejemplo de Inventario de Datos</a></td>
             <td colspan="2">
-              <img src="{{ "/assets/img/ejemplo_inventario_datos.png" | prepend: site.baseurl }}" alt="Ejemplo de Inventario de Datos" />
+              <img src="{{ "/assets/img/guide/ejemplo_inventario_datos.png" | prepend: site.baseurl }}" alt="Ejemplo de Inventario de Datos" />
             </td>
         </tr>
         <tr>
@@ -171,7 +171,7 @@ https://youtu.be/
                 El ingreso a la platafroma <a href="http://adela.datos.gob.mx">ADELA</a> se realiza en <a href="http://adela.datos.gob.mx/usuarios/ingresa">adela.datos.gob.mx/usuarios/ingresa</a>, con el correo institucional y la contraseña enviada en correspondencia a los oficios de Designación enviados por cada Institución.
               </p>
               <p>
-                De no contar con la contraseña, se recomienda enviar un correo a <a href="mailto:escuadron@datos.gob.mx">escuadron@datos.gob.mx</a> con la solicitud, adjuntando una copia en PDF del oficio de Designación de Enlace y Administrador de Datos de acuerdo a lo establecido en el <a href="{{ "/planea/paso-1-1.html" | prepend: site.baseurl}}">paso 1.1</a> de la  <i>Guía de Implementación</i>, donde se incluya el nombre, cargo y el correo electrónico institucional.
+                De no contar con la contraseña, se recomienda enviar un correo a <a href="mailto:escuadron@datos.gob.mx">escuadron@datos.gob.mx</a> con la solicitud, adjuntando una copia en PDF del oficio de Designación de Enlace y Administrador de Datos de acuerdo a lo establecido en el <a href="{{ "/guia/planea/paso-1-1.html" | prepend: site.baseurl}}">paso 1.1</a> de la  <i>Guía de Implementación</i>, donde se incluya el nombre, cargo y el correo electrónico institucional.
               </p>
               <p><i>Tiempo estimado: 1h</i></p>
             </td>
@@ -180,7 +180,7 @@ https://youtu.be/
         <tr>
             <td><a>Ingreso a la plataforma ADELA</a></td>
             <td colspan="2">
-              <img src="{{ "/assets/img/ejemplo_ingreso_adela.png" | prepend: site.baseurl }}" alt="Ingreso a ADELA" />
+              <img src="{{ "/assets/img/guide/ejemplo_ingreso_adela.png" | prepend: site.baseurl }}" alt="Ingreso a ADELA" />
             </td>
         </tr>
         <tr>
@@ -209,7 +209,7 @@ https://youtu.be/
         <tr>
             <td><a>Ejemplo de subir Inventario</a></td>
             <td colspan="2">
-              <img src="{{ "/assets/img/ejemplo_subir_inventario.png" | prepend: site.baseurl }}"   alt="Ejemplo de subir Inventario" />
+              <img src="{{ "/assets/img/guide/ejemplo_subir_inventario.png" | prepend: site.baseurl }}"   alt="Ejemplo de subir Inventario" />
             </td>
         </tr>
 
@@ -230,7 +230,7 @@ https://youtu.be/
                 En la columna de ‘Descripción’, se registra una breve explicación del <i>Conjunto de Datos</i>, incluyendo aclaraciones y acotaciones.
               </li>
               <li>
-                En la columna de ‘Frecuencia con la que actualizan’, se establece el periodo de actualización del <i>Conjuntos de Datos</i> de acuerdo al Paso 3 de esta guía. En el <a href="#anexo1#>Anexo 1</a> se presenta el catálogo de las posibles frecuencias
+                En la columna de ‘Frecuencia con la que actualizan’, se establece el periodo de actualización del <i>Conjuntos de Datos</i> de acuerdo al Paso 3 de esta guía. En el <a href="#anexo1">Anexo 1</a> se presenta el catálogo de las posibles frecuencias
               </li>
               <li>
                 En la columna ‘Confirmar fecha de publicación’, se mantiene o modifica la fecha compromiso de publicación del <i>Conjunto de Datos</i> de acuerdo al Paso 3 de esta guía.
@@ -243,7 +243,7 @@ https://youtu.be/
               Una vez registrados todos los <i>Conjuntos de Datos</i> considerados, se selecciona el botón de ‘Generar Plan de Apertura’.
             </p>
             <p>
-              Al confirmar esta opción quedará publicado el <i>Plan de Apertura Institucional</i> en <a href="http://datos.gob.mx">datos.gob.mx</a> conforme a lo establecido en los Pasos <a href="{{ "/planea/paso-1-3.html" | prepend: site.baseurl}}">1.3</a> y <a href="{{ "/planea/paso-1-4.html" | prepend: site.baseurl}}">1.4</a> de la Guía de Implementación.
+              Al confirmar esta opción quedará publicado el <i>Plan de Apertura Institucional</i> en <a href="http://datos.gob.mx">datos.gob.mx</a> conforme a lo establecido en los Pasos <a href="{{ "/guia/planea/paso-1-3.html" | prepend: site.baseurl}}">1.3</a> y <a href="{{ "/guia/planea/paso-1-4.html" | prepend: site.baseurl}}">1.4</a> de la Guía de Implementación.
             </p>
             <p>
               También podrá ser descargado como un <i>Conjunto de Datos</i> de la Institución en la sección de ‘Datos’ en <a href="http://datos.gob.mx">datos.gob.mx</a>
@@ -256,14 +256,14 @@ https://youtu.be/
         <tr>
           <td><a>Ejemplo de Generar el Plan</a></td>
           <td colspan="2">
-            <img src="{{ "/assets/img/ejemplo_generar_plan.png" | prepend: site.baseurl }}" alt="Ejemplo de Generar el Plan" />
+            <img src="{{ "/assets/img/guide/ejemplo_generar_plan.png" | prepend: site.baseurl }}" alt="Ejemplo de Generar el Plan" />
           </td>
         </tr>
 
         <tr>
           <td><a>Ejemplo de Plan Generado</a></td>
           <td colspan="2">
-            <img src="{{ "/assets/img/ejemplo_plan_generado.png" | prepend: site.baseurl }}" alt="Ejemplo de Plan Generado" />
+            <img src="{{ "/assets/img/guide/ejemplo_plan_generado.png" | prepend: site.baseurl }}" alt="Ejemplo de Plan Generado" />
           </td>
         </tr>
 

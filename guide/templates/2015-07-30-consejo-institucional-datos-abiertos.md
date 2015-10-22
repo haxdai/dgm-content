@@ -1,6 +1,6 @@
 ---
 published: true
-layout: guide-sub
+layout: guide
 
 title: Consejo Institucional de Datos Abiertos
 date: 2015-07-30
@@ -10,7 +10,7 @@ section: inventory
 category: inventory
 ---
 
-De acuerdo a lo establecido en el  <a href="{{ "/planea/paso-1-1.html" | prepend: site.baseurl }}">Paso 1.1</a> de la Guía de Implementación de la Política de Datos Abiertos, el Enlace Institucional y el Administrador de Datos son los encargados de crear y sesionar un Consejo Institucional de Datos Abiertos.
+De acuerdo a lo establecido en el  <a href="{{ "/guia/planea/paso-1-1.html" | prepend: site.baseurl }}">Paso 1.1</a> de la Guía de Implementación de la Política de Datos Abiertos, el Enlace Institucional y el Administrador de Datos son los encargados de crear y sesionar un Consejo Institucional de Datos Abiertos.
 
 Este paso es obligatorio para todas las dependencias y entidades del Gobierno de la República, y el objetivo es coordinar el trabajo relativo a Datos Abiertos con las áreas de la institución que estarán directamente relacionadas en el cumplimiento del Decreto.
 
@@ -52,7 +52,7 @@ Las áreas que deberán ser incluidas en el grupo de trabajo son:
             <td>
               <ul>
                 <li>Participar en el Consejo Institucional para tomar nota acerca de los trabajos realizados para cumplir con lo establecido en el Decreto y Guía de Implementación.</li>
-                <li>Verificar el cumplimiento de las acciones contenidas en la <a href="{{ "/introduccion/" | prepend: site.baseurl }}">introducción</a> de la Guía de Implementación.</li>
+                <li>Verificar el cumplimiento de las acciones contenidas en la <a href="{{ "/guia/introduccion/" | prepend: site.baseurl }}">introducción</a> de la Guía de Implementación.</li>
               </ul>
             </td>
         </tr>
@@ -60,7 +60,7 @@ Las áreas que deberán ser incluidas en el grupo de trabajo son:
             <td><strong>4. Unidad de Enlace de Transparencia</strong></td>
             <td>
               <ul>
-                <li>Apoyar en el cumplimiento del <a href="{{ "/planea/paso-1-3.html" | prepend: site.baseurl }}">paso 1.3</a> de la Guía, referente a la Priorización de Datos. En este sentido, será responsabilidad de la Unidad el desarrollar y entregar un reporte anual con los conjuntos de datos que más solicitados son por la ciudadanía, para publicarlos como Datos Abiertos.</li>
+                <li>Apoyar en el cumplimiento del <a href="{{ "/guia/planea/paso-1-3.html" | prepend: site.baseurl }}">paso 1.3</a> de la Guía, referente a la Priorización de Datos. En este sentido, será responsabilidad de la Unidad el desarrollar y entregar un reporte anual con los conjuntos de datos que más solicitados son por la ciudadanía, para publicarlos como Datos Abiertos.</li>
                 <li>Velar la normatividad vigente en materia de datos personales o confidenciales y de que la publicación de Datos Abiertos de la Institución esté apegada a esta normatividad y de priorizar la publicación de datos con alta demanda ciudadana.</li>
                 <li>Coordinar con el Enlace Institucional de Datos Abiertos el cumplimiento de las obligaciones emanadas de los Artículos 3, 70, 102 y 129 la Ley General de Transparencia; procurando la publicación de está información como datos abiertos.</li>
               </ul>
@@ -81,7 +81,7 @@ Las áreas que deberán ser incluidas en el grupo de trabajo son:
             <td>
               <ul>
                 <li>Apoyar la difusión de la publicación de los Datos Abiertos de la institución, así como su valor y proyectos de uso realizados con estos datos.</li>
-                <li>Utilizar las sección de <a href="http://datos.gob.mx/historias/">Historias</a> en <a href="http://datos.gob.mx">datos.gob.mx</a>, y es altamente recomendable utilizar los mecanismos de comunicación y redes sociales institucionales para dar a conocer qué Datos Abiertos se están publicando.</li>
+                <li>Utilizar las sección de <a href="/impacto/">Impacto</a> en <a href="http://datos.gob.mx">datos.gob.mx</a>, y es altamente recomendable utilizar los mecanismos de comunicación y redes sociales institucionales para dar a conocer qué Datos Abiertos se están publicando.</li>
               </ul>
             </td>
         </tr>

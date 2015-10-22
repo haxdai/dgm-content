@@ -20,8 +20,8 @@ datasets:
 permalink: /impacto/historias/ramo-23.html
 section: impacto
 sub_section: casos-de-uso
-category: otros
-category_title: "Otros"
+category: finanzas-y-contrataciones
+category_title: Finanzas y contrataciones
 tags:
 - Buscador
 - Datos Abiertos

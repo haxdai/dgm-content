@@ -11,8 +11,8 @@ cover_photo: "historias/zapopan-como-sistema-complejo/zapopan-como-sistema-compl
 permalink: /impacto/historias/zapopan-como-sistema-complejo.html
 section: impacto
 sub_section: casos-de-uso
-category: infraestructura
-category_title: Infraestructura
+category: seguridad-y-justicia
+category_title: Seguridad y justicia
 tags:
 - Dataton
 redirect_from: /zapopan-como-sistema-complejo/

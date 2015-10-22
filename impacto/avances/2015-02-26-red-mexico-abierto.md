@@ -12,8 +12,8 @@ cover_photo: "avances/red-mexico-abierto/red-mexico-abierto-cover_photo.png"
 permalink: "/impacto/avances/red-mexico-abierto.html"
 section: impacto
 sub_section: avances
-category: noticias
-category_title: Noticias
+category: gobiernos-locales
+category_title: Gobiernos locales
 tags:
   - Red México Abierto
   - Datos Abiertos

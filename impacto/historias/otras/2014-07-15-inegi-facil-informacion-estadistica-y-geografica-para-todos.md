@@ -34,8 +34,8 @@ collaborators:
 permalink: /impacto/historias/inegi-facil.html
 section: impacto
 sub_section: casos-de-uso
-category: otros
-category_title: "Otros"
+category: infraestructura
+category_title: Infraestructura
 tags:
   - Geografía
   - Indicadores

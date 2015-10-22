@@ -21,10 +21,10 @@ datasets:
 
 
 permalink: /historias/geografia/redistritacion.html
-section:  historias
+section:  impacto
 sub_section: casos-de-uso
-category: geografia
-category_title: "Geografia"
+category: geoespacial
+category_title: Geoespacial
 tags:
 - Redistritacion
 

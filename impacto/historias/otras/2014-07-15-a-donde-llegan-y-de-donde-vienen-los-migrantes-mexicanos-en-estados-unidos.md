@@ -34,8 +34,8 @@ collaborators:
 permalink: /impacto/historias/migrantes-en-eeuu.html
 section: impacto
 sub_section: casos-de-uso
-category: otros
-category_title: "Otros"
+category: geoespacial
+category_title: Geoespacial
 tags:
   - D4
   - Infografía

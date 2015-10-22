@@ -10,8 +10,8 @@ cover_photo: "avances/alianza-datos/alianza-cover_photo.png"
 permalink: "/avances/alianza-datos.html"
 section: impacto
 sub_section: avances
-category: otros
-category_title: Otros
+category: desarrollo-sostenible
+category_title: Desarrollo Sostenible
 tags:
   - Desarrollo Sostenible
   - Datos Abiertos

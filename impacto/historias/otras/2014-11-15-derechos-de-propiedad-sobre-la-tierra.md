@@ -11,8 +11,8 @@ cover_photo: "historias/derechos-de-propiedad-sobre-la-tierra/derechos-de-propie
 permalink: /impacto/historias/derechos-de-propiedad-sobre-la-tierra.html
 section: impacto
 sub_section: casos-de-uso
-category: otros
-category_title: "Otros"
+category: economia
+category_title: Economía
 tags:
 - fuerza laboral
 - Desarrollo

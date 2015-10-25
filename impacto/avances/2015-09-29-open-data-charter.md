@@ -8,7 +8,7 @@ featured: false
 date: 2015-09-29
 cover: "avances/odc/odc-01.jpg"
 cover_photo: "avances/odc/odc-cover.png"
-permalink: "/avances/open-data-charter.html"
+permalink: "/impacto/avances/open-data-charter.html"
 section: impacto
 sub_section: avances
 category: desarrollo-sostenible

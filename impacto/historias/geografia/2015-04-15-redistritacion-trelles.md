@@ -20,7 +20,7 @@ datasets:
 
 
 
-permalink: /historias/geografia/redistritacion.html
+permalink: /impacto/historias/redistritacion.html
 section:  impacto
 sub_section: casos-de-uso
 category: geoespacial

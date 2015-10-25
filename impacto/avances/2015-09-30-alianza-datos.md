@@ -7,7 +7,7 @@ excerpt: "El objetivo de esta Alianza Global de Datos es apoyar la generación, 
 date: 2015-09-30
 cover: "avances/alianza-datos/alianza-cover.png"
 cover_photo: "avances/alianza-datos/alianza-cover_photo.png"
-permalink: "/avances/alianza-datos.html"
+permalink: "/impacto/avances/alianza-datos.html"
 section: impacto
 sub_section: avances
 category: desarrollo-sostenible

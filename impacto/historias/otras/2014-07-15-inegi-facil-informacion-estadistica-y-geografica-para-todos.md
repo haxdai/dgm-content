@@ -8,7 +8,7 @@ tagline:  "Mejorar la manera en que accedemos información oficial"
 author:   "Boris Cuapio Morales | INEGI fácil"
 date:     2014-07-15 12:09:00 -0500
 cover:    "historias/inegi-facil/inegi-facil-cover.jpg"
-cover_photo: "historias/inegi-facil/Screen-Shot-2014-07-03-at-5.41.50-PM.png"
+cover_photo: "historias/inegi-facil/inegi-facil_cover_photo-1280x440.jpg"
 datasets:
   -
     title: "INEGI, Información Estadística"

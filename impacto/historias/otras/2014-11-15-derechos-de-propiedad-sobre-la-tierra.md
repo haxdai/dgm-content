@@ -7,7 +7,7 @@ tagline:  "Mejorando la ubicación de la fuerza laboral rural en México"
 author:   "Qué Funciona para el Desarrollo"
 date:     2014-11-15 18:09:00 -0500
 cover:    "historias/derechos-de-propiedad-sobre-la-tierra/derechos-de-propiedad-sobre-la-tierra-cover.jpg"
-cover_photo: "historias/derechos-de-propiedad-sobre-la-tierra/derechos-de-propiedad-sobre-la-tierra-cover.jpg"
+cover_photo: "historias/derechos-de-propiedad-sobre-la-tierra/derechos-de-propiedad-sobre-la-tierra_cover_photo-1280x440.jpg"
 permalink: /impacto/historias/derechos-de-propiedad-sobre-la-tierra.html
 section: impacto
 sub_section: casos-de-uso

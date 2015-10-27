@@ -8,7 +8,7 @@ excerpt: "En el caso de Puebla, la experiencia en la apertura de datos públicos
 date: 2015-04-20
 author: "Andrea Barenque"
 cover: "avances/pueblarmxa/pueblarmx-cover.jpg"
-cover_photo: "avances/pueblarmxa/pueblarmxa-cover_photo.png"
+cover_photo: "avances/pueblarmxa/pueblarmxa_cover_photo-1280x440.jpg"
 permalink: "/impacto/avances/pueblarmxa.html"
 section: impacto
 sub_section: avances

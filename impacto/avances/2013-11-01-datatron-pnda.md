@@ -7,7 +7,7 @@ excerpt: "La Iniciativa de Datos Abiertos es un plan de acción amplio e integra
 date: 2013-11-01
 author: "Equipo de Datos Abiertos"
 cover: "avances/datatron-pnda/datatron-pnda-cover.jpg"
-cover_photo: "avances/datatron-pnda/datatron-pnda01.png"
+cover_photo: "avances/datatron-pnda/datatron_cover_photo-1280x440.jpg"
 permalink: "/impacto/avances/datatron-pnda.html"
 section: impacto
 sub_section: avances

@@ -8,7 +8,7 @@ excerpt: "El día de hoy, con motivo de la publicación Decreto de Datos Abierto
 date: 2015-02-20
 author: "Equipo de Datos Abiertos"
 cover: "avances/impulsando/impulsando-cover.jpg"
-cover_photo: "avances/impulsando/impulsando-cover.png"
+cover_photo: "avances/impulsando/impulsa_cover_photo-1280x440.jpg"
 permalink: "/impacto/avances/impulsa.html"
 section: impacto
 sub_section: avances

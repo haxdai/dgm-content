@@ -8,7 +8,7 @@ excerpt: "Participa en la Infraestructura Estratégica de Datos Abiertos –la b
 date: 2015-03-18
 author: "Equipo de Datos Abiertos"
 cover: "avances/infraestructura-de-datos/infraestructura-de-datos-cover.jpg"
-cover_photo: "avances/infraestructura-de-datos/infraestructura-de-datos.png"
+cover_photo: "avances/infraestructura-de-datos/infraestructura-de-datos_cover_photo-1280x440.jpg"
 permalink: "/impacto/avances/infraestructura-de-datos.html"
 section: impacto
 sub_section: avances

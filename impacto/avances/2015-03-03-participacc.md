@@ -8,7 +8,7 @@ excerpt: "El día de hoy, con motivo de la publicación Decreto de Datos Abierto
 date: 2015-03-04
 author: "Equipo de Datos Abiertos"
 cover: "avances/participacc/participacc-cover.jpg"
-cover_photo: "avances/participacc/participacc-cover_photo.png"
+cover_photo: "avances/participacc/participacc_cover_photo-1280x440.jpg"
 permalink: "/impacto/avances/participacc.html"
 section: impacto
 sub_section: avances

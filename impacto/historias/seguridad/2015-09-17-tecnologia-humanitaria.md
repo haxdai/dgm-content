@@ -1,6 +1,6 @@
 ---
 published: true
-featured: true
+featured: false
 layout: post
 title: "La tecnología humanitaria que está transformando la respuesta a desastres naturales"
 

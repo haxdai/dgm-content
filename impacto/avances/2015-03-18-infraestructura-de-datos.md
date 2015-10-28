@@ -11,7 +11,7 @@ cover: "avances/infraestructura-de-datos/infraestructura-de-datos-cover.jpg"
 cover_photo: "avances/infraestructura-de-datos/infraestructura-de-datos_cover_photo-1280x440.jpg"
 permalink: "/impacto/avances/infraestructura-de-datos.html"
 section: impacto
-sub_section: avances
+sub_section: noticias
 category: noticias
 category_title: Noticias
 tags:

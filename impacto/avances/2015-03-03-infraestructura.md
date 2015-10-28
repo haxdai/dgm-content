@@ -11,7 +11,7 @@ cover: "avances/infraestructura/infraestructura-cover.jpg"
 cover_photo: "avances/infraestructura/infraestructura-cover_photo.png"
 permalink: "/impacto/avances/infraestructura.html"
 section: impacto
-sub_section: avances
+sub_section: noticias
 category: noticias
 category_title: Noticias
 tags:

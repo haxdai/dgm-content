@@ -10,7 +10,7 @@ cover: "avances/dataton-xalapa/dataton-xalapa-cover.jpg"
 cover_photo: "avances/dataton-xalapa/dataton-xalapa-cover_photo.png"
 permalink: "/impacto/avances/dataton-xalapa.html"
 section: impacto
-sub_section: avances
+sub_section: noticias
 category: noticias
 category_title: Noticias
 tags:

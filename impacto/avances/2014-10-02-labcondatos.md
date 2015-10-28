@@ -10,7 +10,7 @@ cover: "avances/labcondatos/labcondatos-cover.jpg"
 cover_photo: "avances/labcondatos/labcondatos-cover_photo.jpg"
 permalink: "/impacto/avances/labcondatos.html"
 section: impacto
-sub_section: avances
+sub_section: noticias
 category: noticias
 category_title: Noticias
 tags:

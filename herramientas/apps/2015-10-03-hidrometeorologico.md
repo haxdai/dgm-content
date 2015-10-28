@@ -4,7 +4,7 @@ layout: app
 featured: false
 title: Portal Interactivo Hidrometeorológico
 date: 2015-10-03
-cover: apps/riesgosver/riesgosver01.png
+cover: apps/riesgosver/hidrometeorologico-grid.jpg
 screenshots:
   - apps/riesgosver/riesgosver02.png
   - apps/riesgosver/riesgosver03.png

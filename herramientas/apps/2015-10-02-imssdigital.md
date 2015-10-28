@@ -18,7 +18,7 @@ links:
 
 datasets:
 
-app_author: Instituto Mexicano del Seguro Social
+author: Instituto Mexicano del Seguro Social
 
 permalink: "/herramientas/movil/imssdigital.html"
 section: herramientas

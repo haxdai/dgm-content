@@ -39,7 +39,7 @@ datasets:
   title: "Avisos de ciclón tropical"
   url: http://busca.datos.gob.mx/#/conjuntos/temperatura-actual-por-estacion
 
-app_author: Servicio Meteorológico Nacional
+author: Servicio Meteorológico Nacional
 
 permalink: "/herramientas/movil/hidrometeorologico.html"
 section: herramientas

@@ -6,7 +6,7 @@ featured_tagline: 'Avance:'
 title: 'Participa en el Consejo Consultivo de Datos Abiertos'
 excerpt: "El día de hoy, con motivo de la publicación Decreto de Datos Abiertos, el Gobierno de la República presenta la Versión 2.0 de la plataforma [datos.gob.mx](http://datos.gob.mx). Esta nueva versión inicia con Datos Abiertos de 22 Dependencias y Secretarías Federales, 2 estados y 3 municipios."
 date: 2015-03-04
-author: "Equipo de Datos Abiertos"
+author: "Coordinación de Estrategia Digital Nacional"
 cover: "avances/participacc/participacc-cover.jpg"
 cover_photo: "avances/participacc/participacc_cover_photo-1280x440.jpg"
 permalink: "/impacto/avances/participacc.html"

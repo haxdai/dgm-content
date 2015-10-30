@@ -1,7 +1,7 @@
 ---
 published: true
 layout: app
-featured: true
+featured: false
 title: "Herramienta de Datos para el Desarrollo Sostenible"
 date: 2015-10-28 09:30:00 -0600
 author: Coordinación de Estrategia Digital Nacional

@@ -43,7 +43,7 @@ author: Servicio Meteorológico Nacional
 
 permalink: "/herramientas/movil/hidrometeorologico.html"
 section: herramientas
-sub_section: web
+sub_section: herramientas
 category: energia-y-medio-ambiente
 category_title: web
 tags:

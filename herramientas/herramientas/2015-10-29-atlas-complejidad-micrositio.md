@@ -13,5 +13,8 @@ sub_section: herramientas
 category: economia
 category_title: Economia
 category_featured: false
+
+links:
+  web: http://complejidad.datos.gob.mx
 ---
 Esta herramienta identifica las capacidades y actividades productivas con mayor potencial para contribuir al desarrollo económico de una región. Gracias al nivel de granularidad de los Datos Abiertos, es posible analizar estos resultados por estado y municipio.

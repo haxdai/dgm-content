@@ -5,7 +5,7 @@ title: 'México lanza un llamado para adoptar la Carta Internacional de Datos Ab
 excerpt: 'La Carta Internacional de Datos Abiertos articula un conjunto de principios fundamentales para coordinar y promover la adopción de los Datos Abiertos como una base que le permita a los gobiernos trabajar junto con sus ciudadanos hacia la construcción de sociedades más democráticas, justas y prósperas.'
 author: "Coordinación de Estrategia Digital Nacional"
 featured: false
-date: 2015-09-29
+date: 2015-10-01 12:00:00 -0500
 cover: "avances/odc/odc-01.jpg"
 cover_photo: "avances/odc/odc-cover.png"
 permalink: "/impacto/avances/open-data-charter.html"

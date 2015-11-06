@@ -6,7 +6,7 @@ title:  "Hacia Contrataciones Abiertas en México"
 author: "Coordinación de Estrategia Digital Nacional - Presidencia de la República de México, Transparencia Mexicana (@IntegridadMx) - Capítulo de Transparencia Internacional en México & Banco Mundial - Práctica Global de Gobernabilidad"
 date: 2015-10-29 12:30:00 -0600
 cover: "historias/contrataciones-abiertas/contrataciones-760x440.jpg"
-cover_photo: "historias/contrataciones-abiertas/contrataciones_cover_photo-1280x440.png"
+cover_photo: "historias/contrataciones-abiertas/contrataciones_cover_photo.png"
 permalink: /impacto/casos-de-uso/contrataciones-abiertas.html
 section: impacto
 sub_section: casos-de-uso

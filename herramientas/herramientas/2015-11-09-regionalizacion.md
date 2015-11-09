@@ -10,8 +10,8 @@ featured_cover: "sector/geoespacial_cover.jpg"
 iframe_src: "http://gaia.inegi.org.mx/mdm6sur/"
 datasets:
   -
-    title: "Fonden"
-    url: http://catalogo.datos.gob.mx/dataset/fonden
+    title: "Regionalización Funcional de México"
+    url: http://busca.datos.gob.mx/#/conjuntos/regionalizacion-funcional-de-mexico
 permalink: /herramientas/regionalizacion-funcional.html
 section: herramientas
 sub_section: herramientas
@@ -30,3 +30,5 @@ La regionalización funcional es construida a partir del análisis de redes de c
 Una región funcional se establece como el área en donde ocurren relaciones estrechas, que pueden o no sobrepasar, por su interdependencia y vinculación, límites nacionales, estatales o municipales. De esta forma, el grado de integración espacial entre los principales nodos de población, pero sobre todo, las interdependencias sociales y económicas entre ellos, resultan indispensables para determinar la lectura funcional del territorio.
 
 En este sentido, el Gobierno de la República propo- ne la regionalización funcional de México como eje de análisis para la implementación y seguimiento de políticas públicas integrada por SUR, Subsur, CAS, CISBa Urbano y CISBa Rural.
+
+Para conocer la metodología de la SEDATU para el mapa de Regionalización Funcional de México accede al siguiente [enlace](https://www.dropbox.com/s/hx1ajwgi29khhfb/SEDATU%20Regionalizacion%20Funcional%20libro%20completo.pdf?dl=1).

@@ -23,12 +23,98 @@ tags:
  - desarrollo económico
 ---
 
-Existen diversas maneras de segmentar un territorio o país para entender mejor su dinámica y las relaciones entre sus habitantes. Con este objetivo, la SEDATU elaboró un mapa de regionalización funcional de México que permite analizar el territorio nacional a partir de dinámicas económicas y sociales de la población, independientemente de los criterios tradicionales de delimitación territorial como límites estatales o municipales.
+Existen diversas maneras de segmentar un territorio o país para entender mejor su dinámica y las relaciones entre sus habitantes. Con esta finalidad, la SEDATU elaboró una metodología y un mapa de regionalización funcional de México que permite analizar el territorio nacional a partir de dinámicas económicas y sociales de la población y clasificar cada región en el país en  5 grupos de acuerdo a sus características.
 
-La regionalización funcional es construida a partir del análisis de redes de circulación vial, flujos de personas, bienes e información económica y social, la cual se orienta a la determinación de estructuras económicas caracterizadas por convergencias de interacciones de diferentes órdenes entre la población y sus fuentes de empleo, considerando también servicios ambientales e instrumentos de conservación.
+Para comenzar a usar la herramienta solo da click sobre el mapa de navegación.
 
-Una región funcional se establece como el área en donde ocurren relaciones estrechas, que pueden o no sobrepasar, por su interdependencia y vinculación, límites nacionales, estatales o municipales. De esta forma, el grado de integración espacial entre los principales nodos de población, pero sobre todo, las interdependencias sociales y económicas entre ellos, resultan indispensables para determinar la lectura funcional del territorio.
+En este mapa interactivo es posible seleccionar cada una de las 5 capas para determinar las regiones en cada grupo y sus características:
 
-En este sentido, el Gobierno de la República propo- ne la regionalización funcional de México como eje de análisis para la implementación y seguimiento de políticas públicas integrada por SUR, Subsur, CAS, CISBa Urbano y CISBa Rural.
+1. Sistemas Urbano Rurales (SUR): son espacios de alta competencia productiva de bienes, servicios y de conocimiento. Poseen capacidad de producir población calificada y especializada pues en ellos se desarrollan la mayor parte de las actividades que generan más valor agre- gado a las cadenas productivas.  En los SUR se asientan las instituciones políticas, económicas y sociales, tomadoras de decisiones que impactan al resto del territorio. Dado lo anterior, los SUR son atractores económicos y de población.
+
+2. Subsistemas Urbanos Rurales (SUBSUR): son espacios de menor jerarquía urbano-regional, por ser ciudades entre pequeñas y medias, mayores de 15 mil habitantes y menores de 300 mil pero de alta capacidad productiva en bienes y servicios. Conectan, complementan y apoyan las actividades realizadas en los SUR al estar ubicados, principalmente, sobre los corredores comerciales del país. Se cuenta con la capacidad de producir población calificada, así como con infraestructura que facilita el intercambio de mercancías e información a nivel nacional.
+
+3. Centros Articuladores del Sistema (CAS): son espacios menores a 15,000 y mayores a 2,500 habitantes, con capacidad productiva en bienes y con una oferta de servicios medianamente especializados. Funcionan como lugares de transición entre los ámbitos urbano y rural. Los CAS cuentan con la capacidad de formar población con educación media, la cual puede acceder a educación calificada y especializada ofrecida en localidades de mayor rango.		
+
+4. Centros Integradores de Servicios Básicos Urbanos (CISBaU): son espacios menores a 15,000 habitantes y mayores a 2,501, sin servicios especializados pero con capacidad productiva. Los CISBaU cuentan con la capacidad de producir población con educación básica, la cual puede acceder a educación media superior ofrecida en localidades de mayor rango.
+
+5. Centros Integradores de Servicios Básicos Rurales (CISBaR): son localidades, menores de 2,500 habitantes que articulan la oferta de servicios educativos, de salud y de abasto básicos a los cuales pueden acudir los habitantes de poblaciones dispersas para recibir los primeros niveles de atención. Su función consiste en ser un facilitador de servicios, así como un canalizador de la población hacia servicios más especializados ubicados en localidades de mayor rango.
+
+El Gobierno de la República propone la Regionalización Funcional de México como eje de análisis para la implementación y seguimiento de políticas públicas.
+
+Los datos abiertos espaciales utilizados por esta herramienta están publicados en formato *shape file* y pueden ser descargados desde el sitio de [datos.gob.mx](http://busca.datos.gob.mx/#/conjuntos/regionalizacion-funcional-de-mexico):
+
+**SEDATU -  Regiones funcionales:**
+
+**SUR:**
+<ul>
+<li>
+<a href="http://sra-eservicios.gob.mx/archivos/57_SUR.zip">http://sra-eservicios.gob.mx/archivos/57_SUR.zip</a>
+</li>
+</ul>
+
+**SUBSUR:**
+<ul>
+<li>
+<a href="http://sra-eservicios.gob.mx/archivos/134_Subsur.zip">
+  http://sra-eservicios.gob.mx/archivos/134_Subsur.zip
+</a>
+</li>
+<li>
+<a href="http://sra-eservicios.gob.mx/archivos/3_SUBSUR_POTENCIALES.zip">
+  http://sra-eservicios.gob.mx/archivos/3_SUBSUR_POTENCIALES.zip
+</a>
+</li>
+</ul>
+
+**CAS:**
+<ul>
+<li>
+  <a href="http://sra-eservicios.gob.mx/archivos/89_CAS.zip">
+    http://sra-eservicios.gob.mx/archivos/89_CAS.zip
+  </a>
+</li>
+<li>
+  <a href="http://sra-eservicios.gob.mx/archivos/198_CAS_POTENCIALES.zip">
+    http://sra-eservicios.gob.mx/archivos/198_CAS_POTENCIALES.zip
+  </a>
+</li>
+</ul>
+
+**CISBaU:**
+<ul>
+<li>
+  <a href="http://sra-eservicios.gob.mx/archivos/23_CISBAS_URBANOS.zip">
+    http://sra-eservicios.gob.mx/archivos/23_CISBAS_URBANOS.zip
+  </a>
+  </li>
+  <li>
+ <a href="http://sra-eservicios.gob.mx/archivos/43_CISBaU_POTENCIALES.zip">
+  http://sra-eservicios.gob.mx/archivos/43_CISBaU_POTENCIALES.zip
+ </a>
+</li>
+</ul>
+
+**CISBaR:**
+<ul>
+<li>
+<a href="http://sra-eservicios.gob.mx/archivos/43_CISBaR.zip">
+  http://sra-eservicios.gob.mx/archivos/43_CISBaR.zip
+</a>
+</li>
+<li>
+<a href="http://sra-eservicios.gob.mx/archivos/1737_CISBaR_POTENCIALES.zip">
+  http://sra-eservicios.gob.mx/archivos/1737_CISBaR_POTENCIALES.zip
+</a>
+</li>
+</ul>
+
+**Regiones dispersas:**
+<ul>
+<li>
+<a href="http://sra-eservicios.gob.mx/archivos/62527_DISPERSAS.zip">
+  http://sra-eservicios.gob.mx/archivos/62527_DISPERSAS.zip
+</a>
+</li>
+</ul>
 
 Para conocer la metodología de la SEDATU para el mapa de Regionalización Funcional de México accede al siguiente [enlace](https://www.dropbox.com/s/hx1ajwgi29khhfb/SEDATU%20Regionalizacion%20Funcional%20libro%20completo.pdf?dl=1).

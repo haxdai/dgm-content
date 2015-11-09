@@ -24,7 +24,7 @@ section: herramientas
 sub_section: herramientas
 category: geoespacial
 category_title: web
-category_featured: true
+category_featured: false
 tags:
   - concesión
   - cartografía

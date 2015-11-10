@@ -29,7 +29,7 @@ Para comenzar a usar la herramienta solo da click sobre el mapa de navegación.
 
 En este mapa interactivo es posible seleccionar cada una de las 5 capas para determinar las regiones en cada grupo y sus características:
 
-1. Sistemas Urbano Rurales (SUR): son espacios de alta competencia productiva de bienes, servicios y de conocimiento. Poseen capacidad de producir población calificada y especializada pues en ellos se desarrollan la mayor parte de las actividades que generan más valor agre- gado a las cadenas productivas.  En los SUR se asientan las instituciones políticas, económicas y sociales, tomadoras de decisiones que impactan al resto del territorio. Dado lo anterior, los SUR son atractores económicos y de población.
+1. Sistemas Urbano Rurales (SUR): son espacios de alta competencia productiva de bienes, servicios y de conocimiento. Poseen capacidad de producir población calificada y especializada pues en ellos se desarrollan la mayor parte de las actividades que generan más valor agregado a las cadenas productivas.  En los SUR se asientan las instituciones políticas, económicas y sociales, tomadoras de decisiones que impactan al resto del territorio. Dado lo anterior, los SUR son atractores económicos y de población.
 
 2. Subsistemas Urbanos Rurales (SUBSUR): son espacios de menor jerarquía urbano-regional, por ser ciudades entre pequeñas y medias, mayores de 15 mil habitantes y menores de 300 mil pero de alta capacidad productiva en bienes y servicios. Conectan, complementan y apoyan las actividades realizadas en los SUR al estar ubicados, principalmente, sobre los corredores comerciales del país. Se cuenta con la capacidad de producir población calificada, así como con infraestructura que facilita el intercambio de mercancías e información a nivel nacional.
 
@@ -41,80 +41,6 @@ En este mapa interactivo es posible seleccionar cada una de las 5 capas para det
 
 El Gobierno de la República propone la Regionalización Funcional de México como eje de análisis para la implementación y seguimiento de políticas públicas.
 
-Los datos abiertos espaciales utilizados por esta herramienta están publicados en formato *shape file* y pueden ser descargados desde el sitio de [datos.gob.mx](http://busca.datos.gob.mx/#/conjuntos/regionalizacion-funcional-de-mexico):
-
-**SEDATU -  Regiones funcionales:**
-
-**SUR:**
-<ul>
-<li>
-<a href="http://sra-eservicios.gob.mx/archivos/57_SUR.zip">http://sra-eservicios.gob.mx/archivos/57_SUR.zip</a>
-</li>
-</ul>
-
-**SUBSUR:**
-<ul>
-<li>
-<a href="http://sra-eservicios.gob.mx/archivos/134_Subsur.zip">
-  http://sra-eservicios.gob.mx/archivos/134_Subsur.zip
-</a>
-</li>
-<li>
-<a href="http://sra-eservicios.gob.mx/archivos/3_SUBSUR_POTENCIALES.zip">
-  http://sra-eservicios.gob.mx/archivos/3_SUBSUR_POTENCIALES.zip
-</a>
-</li>
-</ul>
-
-**CAS:**
-<ul>
-<li>
-  <a href="http://sra-eservicios.gob.mx/archivos/89_CAS.zip">
-    http://sra-eservicios.gob.mx/archivos/89_CAS.zip
-  </a>
-</li>
-<li>
-  <a href="http://sra-eservicios.gob.mx/archivos/198_CAS_POTENCIALES.zip">
-    http://sra-eservicios.gob.mx/archivos/198_CAS_POTENCIALES.zip
-  </a>
-</li>
-</ul>
-
-**CISBaU:**
-<ul>
-<li>
-  <a href="http://sra-eservicios.gob.mx/archivos/23_CISBAS_URBANOS.zip">
-    http://sra-eservicios.gob.mx/archivos/23_CISBAS_URBANOS.zip
-  </a>
-  </li>
-  <li>
- <a href="http://sra-eservicios.gob.mx/archivos/43_CISBaU_POTENCIALES.zip">
-  http://sra-eservicios.gob.mx/archivos/43_CISBaU_POTENCIALES.zip
- </a>
-</li>
-</ul>
-
-**CISBaR:**
-<ul>
-<li>
-<a href="http://sra-eservicios.gob.mx/archivos/43_CISBaR.zip">
-  http://sra-eservicios.gob.mx/archivos/43_CISBaR.zip
-</a>
-</li>
-<li>
-<a href="http://sra-eservicios.gob.mx/archivos/1737_CISBaR_POTENCIALES.zip">
-  http://sra-eservicios.gob.mx/archivos/1737_CISBaR_POTENCIALES.zip
-</a>
-</li>
-</ul>
-
-**Regiones dispersas:**
-<ul>
-<li>
-<a href="http://sra-eservicios.gob.mx/archivos/62527_DISPERSAS.zip">
-  http://sra-eservicios.gob.mx/archivos/62527_DISPERSAS.zip
-</a>
-</li>
-</ul>
+Los datos abiertos espaciales utilizados por esta herramienta están publicados en formato *shape file* y pueden ser descargados desde el sitio de [datos.gob.mx](http://busca.datos.gob.mx/#/conjuntos/regionalizacion-funcional-de-mexico).
 
 Para conocer la metodología de la SEDATU para el mapa de Regionalización Funcional de México accede al siguiente [enlace](https://www.dropbox.com/s/hx1ajwgi29khhfb/SEDATU%20Regionalizacion%20Funcional%20libro%20completo.pdf?dl=1).

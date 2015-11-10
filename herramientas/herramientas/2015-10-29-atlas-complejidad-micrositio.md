@@ -1,7 +1,7 @@
 ---
 published: true
 layout: app
-featured: true
+featured: false
 title: "Atlas de Complejidad Económica"
 date: 2015-10-29 16:31:00 -0600
 author: Secretaría de Hacienda y Crédito Público

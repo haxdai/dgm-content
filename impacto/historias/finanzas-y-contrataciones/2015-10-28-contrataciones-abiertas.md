@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-featured: false
+featured: true
 title:  "Hacia Contrataciones Abiertas en México"
 author: "Coordinación de Estrategia Digital Nacional - Presidencia de la República de México, Transparencia Mexicana (@IntegridadMx) - Capítulo de Transparencia Internacional en México & Banco Mundial - Práctica Global de Gobernabilidad"
 date: 2015-10-29 12:30:00 -0600

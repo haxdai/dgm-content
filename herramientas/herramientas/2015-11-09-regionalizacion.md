@@ -41,6 +41,8 @@ En este mapa interactivo es posible seleccionar cada una de las 5 capas para det
 
 El Gobierno de la República propone la Regionalización Funcional de México como eje de análisis para la implementación y seguimiento de políticas públicas.
 
-Los datos abiertos espaciales utilizados por esta herramienta están publicados en formato *shape file* y pueden ser descargados desde el sitio de [datos.gob.mx](http://busca.datos.gob.mx/#/conjuntos/regionalizacion-funcional-de-mexico).
+Para acceder al enlace original de la herramienta haz clic [aquí](http://gaia.inegi.org.mx/mdm6sur/).
+
+Los datos abiertos espaciales utilizados por esta herramienta están publicados en formato *shapefile* y pueden ser descargados desde el sitio de [datos.gob.mx](http://busca.datos.gob.mx/#/conjuntos/regionalizacion-funcional-de-mexico).
 
 Para conocer la metodología de la SEDATU para el mapa de Regionalización Funcional de México accede al siguiente [enlace](https://www.dropbox.com/s/hx1ajwgi29khhfb/SEDATU%20Regionalizacion%20Funcional%20libro%20completo.pdf?dl=1).

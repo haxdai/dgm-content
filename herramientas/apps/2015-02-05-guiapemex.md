@@ -4,7 +4,8 @@ layout: app
 featured: false
 title: Guía Pemex
 date: 2015-02-06
-cover: apps/guiapemex/guiapemex-cover.jpg
+grid_img: apps/guiapemex/guiapemex-cover.jpg
+featured_img: apps/guiapemex/guiapemex-cover.jpg
 screenshots:
   - apps/guiapemex/screens/guiapemex01.jpeg
   - apps/guiapemex/screens/guiapemex02.jpeg

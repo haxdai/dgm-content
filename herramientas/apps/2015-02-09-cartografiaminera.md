@@ -4,8 +4,8 @@ layout: app
 featured: false
 title: Consulta de la Cartografía Minera Digitalizada
 date: 2015-02-09
-grid_img: apps/cartografiaminera/cartografiaminera-cover.jpg
-featured_img: apps/cartografiaminera/cartografiaminera-cover.jpg
+grid_img: apps/cartografiaminera/cartografiaminera_grid.jpg
+featured_img: apps/cartografiaminera/cartografiaminera_featured.jpg
 screenshots:
   - apps/cartografiaminera/screens/cartografiaminera1a.png
   - apps/cartografiaminera/screens/cartografiaminera2a.png

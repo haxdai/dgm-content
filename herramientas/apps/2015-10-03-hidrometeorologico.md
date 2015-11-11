@@ -4,12 +4,12 @@ layout: app
 featured: false
 title: Portal Interactivo Hidrometeorológico
 date: 2015-10-03
-grid_img: apps/riesgosver/hidrometeorologico-grid.jpg
-featured_img: apps/riesgosver/hidrometeorologico-grid.jpg
+grid_img: apps/hidrometeorologico/hidrometeorologico_grid.jpg
+featured_img: apps/hidrometeorologico/hidrometeorologico_featured.jpg
 screenshots:
-  - apps/riesgosver/riesgosver02.png
-  - apps/riesgosver/riesgosver03.png
-  - apps/riesgosver/riesgosver04.png
+  - apps/hidrometeorologico/hidrometeorologico02.png
+  - apps/hidrometeorologico/hidrometeorologico03.png
+  - apps/hidrometeorologico/hidrometeorologico04.png
 
 links:
  web: http://smn.cna.gob.mx/index.php?option=com_content&view=article&id=273:portal-interactivo-hidrometeorologico&catid=19:uncategorised

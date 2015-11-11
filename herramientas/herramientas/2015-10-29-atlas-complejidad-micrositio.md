@@ -5,8 +5,8 @@ featured: false
 title: "Atlas de Complejidad Económica"
 date: 2015-10-29 16:31:00 -0600
 author: Secretaría de Hacienda y Crédito Público
-grid_img: "apps/atlascomplejidad/atlascomplejidad-1280x440.jpg"
-featured_img: "apps/atlascomplejidad/atlascomplejidad-1280x440.jpg"
+grid_img: "herramientas/atlascomplejidad_grid.jpg"
+featured_img: "herramientas/atlascomplejidad_featured.jpg"
 permalink: "http://complejidad.datos.gob.mx"
 section: herramientas
 sub_section: herramientas

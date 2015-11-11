@@ -5,8 +5,8 @@ featured: false
 title: "Herramienta de Datos para el Desarrollo Sostenible"
 date: 2015-10-28 09:30:00 -0600
 author: Coordinación de Estrategia Digital Nacional
-grid_img: "apps/ods/ods-grid.jpg"
-featured_img: "apps/ods/ods-grid.jpg"
+grid_img: "herramientas/ods_grid.jpg"
+featured_img: "herramientas/ods_featured.jpg"
 permalink: "http://agenda2030.datos.gob.mx"
 section: herramientas
 sub_section: herramientas

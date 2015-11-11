@@ -5,8 +5,8 @@ featured: true
 title:  "Regionalización Funcional de México"
 date:   2015-11-09
 author: "SEDATU"
-grid_img: "herramientas/regionalizacion_sector_1280x440.jpg"
-featured_img: "herramientas/regionalizacion_sector_1280x440.jpg"
+grid_img: "herramientas/regionalizacion_grid.jpg"
+featured_img: "herramientas/regionalizacion_featured.jpg"
 iframe_src: "http://gaia.inegi.org.mx/mdm6sur/"
 datasets:
   -

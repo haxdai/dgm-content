@@ -4,8 +4,8 @@ layout: app
 featured: false
 title: Datos Abiertos SAT
 date: 2015-02-10
-grid_img: apps/datosabiertossat/datosabiertossat-cover.jpg
-featured_img: apps/datosabiertossat/datosabiertossat-cover.jpg
+grid_img: apps/datosabiertossat/datosabiertossat_grid.jpg
+featured_img: apps/datosabiertossat/datosabiertossat_featured.jpg
 screenshots:
   - apps/datosabiertossat/screens/datosabiertossat1.png
   - apps/datosabiertossat/screens/datosabiertossat1a.png

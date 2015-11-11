@@ -4,8 +4,8 @@ layout: app
 featured: false
 title: Obra Pública e Infraestructura SCT
 date: 2015-02-04
-grid_img: apps/obrapublica/obrapublica-cover.jpg
-featured_img: apps/obrapublica/obrapublica-cover.jpg
+grid_img: apps/obrapublica/obrapublica_grid.jpg
+featured_img: apps/obrapublica/obrapublica_featured.jpg
 screenshots:
   - apps/obrapublica/screens/obrapublica1.png
   - apps/obrapublica/screens/obrapublica1a.png

@@ -4,8 +4,8 @@ layout: app
 featured: false
 title: IMSS Digital
 date: 2015-10-02
-grid_img: apps/imssdigital/foto1.jpg
-featured_img: apps/imssdigital/foto1.jpg
+grid_img: apps/imssdigital/imssdigital_grid.jpg
+featured_img: apps/imssdigital/imssdigital_featured.jpg
 screenshots:
   - apps/imssdigital/foto2.jpg
   - apps/imssdigital/foto3.jpg

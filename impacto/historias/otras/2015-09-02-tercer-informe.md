@@ -6,8 +6,8 @@ featured: false
 tagline:  "entender lo que está funcionando, y cambiar lo que debemos"
 author:   Presidencia
 date:     2015-09-02 12:09:00 -0500
-cover:    "historias/tercer-informe/tercer-informe-cover.jpg"
-cover_photo: "historias/tercer-informe/cover-informe-04.png"
+grid_img:    "historias/tercer-informe/tercer-informe-cover.jpg"
+featured_img: "historias/tercer-informe/cover-informe-04.png"
 datasets:
   -
     title: "Informe Estadistico del Tercer Informe de Gobierno 2015"

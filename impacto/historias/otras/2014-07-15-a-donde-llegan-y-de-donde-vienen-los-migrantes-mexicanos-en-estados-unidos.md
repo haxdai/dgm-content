@@ -7,8 +7,8 @@ title:    "¿De donde vienen y a donde llegan los migrantes mexicanos en EE.UU.?
 tagline:  "Entender el fenómeno de migración mexicana a EE.UU."
 author:   "Data4"
 date:     2014-07-15 12:09:00 -0500
-cover:    "historias/migrantes-mexicanos/migrantes-mexicanos-cover.jpg"
-cover_photo: "historias/migrantes-mexicanos/migrantes-en-eeuu_cover_photo-1280x440.jpg"
+grid_img:    "historias/migrantes-mexicanos/migrantes-mexicanos-cover.jpg"
+featured_img: "historias/migrantes-mexicanos/migrantes-en-eeuu_cover_photo-1280x440.jpg"
 datasets:
   -
     title: "Infraestructura Carretera"

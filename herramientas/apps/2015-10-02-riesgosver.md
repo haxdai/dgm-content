@@ -4,7 +4,8 @@ layout: app
 featured: false
 title: Atlas de Riesgos del Estado de Veracruz
 date: 2015-10-02
-cover: apps/riesgosver/riesgosver01.png
+grid_img: apps/riesgosver/riesgosver01.png
+featured_img: apps/riesgosver/riesgosver01.png
 screenshots:
   - apps/riesgosver/riesgosver02.png
   - apps/riesgosver/riesgosver03.png

@@ -4,7 +4,8 @@ layout: app
 featured: false
 title: Entidades Federativas
 date: 2015-06-26
-cover: apps/entidades/entidades-cover.jpg
+grid_img: apps/entidades/entidades-cover.jpg
+featured_img: apps/entidades/entidades-cover.jpg
 screenshots:
   - apps/entidades/entidades_interior1.png
   - apps/entidades/entidades_interior2.png

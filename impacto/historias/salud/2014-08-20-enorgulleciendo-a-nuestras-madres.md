@@ -6,8 +6,8 @@ title:    "Enorgulleciendo a nuestras madres: Reduciendo la mortalidad materna e
 tagline:  "Reducir la mortalidad materna"
 author:   "Nick Eng | DSSG"
 date:     2014-07-15 18:09:00 -0500
-cover:    "historias/enorgulleciendo-a-nuestras-madres/enorgulleciendo-a-nuestras-madres-cover.jpg"
-cover_photo: "historias/enorgulleciendo-a-nuestras-madres/MMRate-Map2-SP-copy-1280x400.png"
+grid_img:    "historias/enorgulleciendo-a-nuestras-madres/enorgulleciendo-a-nuestras-madres-cover.jpg"
+featured_img: "historias/enorgulleciendo-a-nuestras-madres/MMRate-Map2-SP-copy-1280x400.png"
 datasets:
   -
     title: "Mortalidad Materna"

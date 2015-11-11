@@ -7,8 +7,8 @@ title:    "Relación entre los homicidios en la frontera de México y la producc
 tagline:  "Entender la seguridad en la frontera"
 author:   "Data4"
 date:     2014-07-15 18:09:00 -0500
-cover:    "historias/relacion-de-homicidios-en-frontera/relacion-de-homicidios-en-frontera-cover.jpg"
-cover_photo: "historias/relacion-de-homicidios-en-frontera/5-1280x400.jpg"
+grid_img:    "historias/relacion-de-homicidios-en-frontera/relacion-de-homicidios-en-frontera-cover.jpg"
+featured_img: "historias/relacion-de-homicidios-en-frontera/5-1280x400.jpg"
 datasets:
   -
     title: "Defunciones Generales"

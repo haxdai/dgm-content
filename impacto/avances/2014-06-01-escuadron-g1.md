@@ -6,8 +6,8 @@ title: 'La primera generación del escuadrón de datos'
 excerpt: "Después de más de 60 reuniones, 700km recorridos, 100 tazas de café, logramos liberar los primeros 100 conjuntos de datos de esta iniciativa."
 date:   2014-06-01
 author: "Coordinación de Estrategia Digital Nacional"
-cover: "avances/escuadron-g1/escuadron-g1-cover.jpg"
-cover_photo: "avances/escuadron-g1/escuadron-g1-cover.jpg"
+grid_img: "avances/escuadron-g1/escuadron-g1-cover.jpg"
+featured_img: "avances/escuadron-g1/escuadron-g1-cover.jpg"
 permalink: "/impacto/avances/escuadron-g1.html"
 section: impacto
 sub_section: avances

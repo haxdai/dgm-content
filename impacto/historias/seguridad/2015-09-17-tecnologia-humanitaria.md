@@ -7,8 +7,8 @@ title: "La tecnología humanitaria que está transformando la respuesta a desast
 tagline: "La respuesta a los desastres naturales de los últimos años ha dejado claro que la tecnología y los datos abiertos son clave para mejorar la atención a emergencias."
 author: "Rodolfo Wilhelmy"
 date: 2015-09-17 23:00:00 -0500
-grid_img: "historias/tecnologia-humanitaria/tecnologia-humanitaria--1024x320.jpg"
-featured_img: "historias/tecnologia-humanitaria/tecnologia-humanitaria--1280x460.jpg"
+grid_img: "historias/tecnologia-humanitaria/tecnologia-humanitaria_grid.jpg"
+featured_img: "historias/tecnologia-humanitaria/tecnologia-humanitaria_featured.jpg"
 datasets:
   -
     title: "Avisos de ciclón tropical"

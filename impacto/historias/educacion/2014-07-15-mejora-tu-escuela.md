@@ -6,8 +6,8 @@ title:    "MejoraTuEscuela.org"
 tagline:  "Mejorar nuestras escuelas"
 author:   "Ariadna Camargo y Alexandra Zapata | IMCO | Omidyar Network"
 date:     2014-07-15
-grid_img:    "historias/mejora-tu-escuela/mejora-tu-escuela-cover.jpg"
-featured_img: "historias/mejora-tu-escuela/mejora-tu-esculea_cover_photo-1280x440.jpg"
+grid_img:    "historias/mejora-tu-escuela/mejoratuescuela_grid.jpg"
+featured_img: "historias/mejora-tu-escuela/mejoratuescuela_featured.jpg"
 datasets:
   -
     title: "Catálogo de Centros de Trabajo"

@@ -6,8 +6,8 @@ title: 'Alianza de Datos para el Desarrollo Sostenible.'
 author: "Coordinación de Estrategia Digital Nacional"
 excerpt: "El objetivo de esta Alianza Global de Datos es apoyar la generación, accesibilidad y uso de datos para impulsar el logro y medición de la Agenda 2030,"
 date: 2015-09-30
-grid_img: "avances/alianza-datos/alianza-cover.png"
-featured_img: "avances/alianza-datos/alianza-cover_photo.png"
+grid_img: "avances/alianza-datos/alianza-datos_grid.jpg"
+featured_img: "avances/alianza-datos/alianza-datos_featured.jpg"
 permalink: "/impacto/avances/alianza-datos.html"
 section: impacto
 sub_section: avances

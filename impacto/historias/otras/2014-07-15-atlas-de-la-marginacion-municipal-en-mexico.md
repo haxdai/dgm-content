@@ -7,8 +7,8 @@ title:    "Atlas de la Marginación Municipal en México"
 tagline:  "Entender la marginación a nivel municipal"
 author:   "Cartográfica"
 date:     2014-07-15 12:09:00 -0500
-grid_img:    "historias/atlas-marginacion/atlas-de-marginacion.png--480x225.png"
-featured_img: "historias/atlas-marginacion/atlas-de-marginacion.png--1280x400.png"
+grid_img:    "historias/atlas-marginacion/atlas-de-marginacion_grid.jpg"
+featured_img: "historias/atlas-marginacion/atlas-de-marginacion_featured.jpg"
 datasets:
   -
     title: "Índice de marginación municipal de 2010, elaborado por el Consejo Nacional de Población (CONAPO)"

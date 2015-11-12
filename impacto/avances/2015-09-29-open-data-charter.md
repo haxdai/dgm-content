@@ -6,8 +6,8 @@ excerpt: 'La Carta Internacional de Datos Abiertos articula un conjunto de princ
 author: "Coordinación de Estrategia Digital Nacional"
 featured: false
 date: 2015-10-01 12:00:00 -0500
-grid_img: "avances/odc/odc-01.jpg"
-featured_img: "avances/odc/odc-cover.png"
+grid_img: "avances/odc/odc_grid.jpg"
+featured_img: "avances/odc/odc_featured.jpg"
 permalink: "/impacto/avances/open-data-charter.html"
 section: impacto
 sub_section: avances

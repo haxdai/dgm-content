@@ -6,7 +6,7 @@ title: "Atlas de Complejidad Económica"
 author: "Secretaría de Hacienda y Crédito Público"
 date: 2015-10-29 16:31:00 -0600
 grid_img: "historias/atlas-complejidad/atlascomplejidad_grid.jpg"
-featured_img: "historias/atlas-complejidad/atlascomplejidad_cover_photo.png"
+featured_img: "historias/atlas-complejidad/atlascomplejidad_featured.jpg"
 datasets:
 permalink: /impacto/casos-de-uso/atlas-complejidad.html
 section: impacto

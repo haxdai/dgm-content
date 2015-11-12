@@ -6,8 +6,8 @@ title: 'Xalapa Primer Municipio en datos.gob.mx'
 excerpt: "El Ayuntamiento de Xalapa se convirtió en el primer municipio en utilizar datos.gob.mx/xalapa para compartir sus conjuntos de datos abiertos y organizó el Hackatón Xalapa 2014."
 date: 2014-10-12
 author: "Coordinación de Estrategia Digital Nacional"
-grid_img: "avances/dataton-xalapa/dataton-xalapa-cover.jpg"
-featured_img: "avances/dataton-xalapa/dataton-xalapa-cover_photo.png"
+grid_img: "avances/dataton-xalapa/dataton-xalapa_grid.jpg"
+featured_img: "avances/dataton-xalapa/dataton-xalapa_featured.jpg"
 permalink: "/impacto/avances/dataton-xalapa.html"
 section: impacto
 sub_section: noticias

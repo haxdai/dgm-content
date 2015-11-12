@@ -6,8 +6,8 @@ title:    "Compara Carreras"
 tagline:  "Comparar carreras profesionales"
 author:   "IMCO"
 date:     2014-06-19
-cover:    "historias/compara-carreras/compara-carreras-cover.jpg"
-cover_photo: "historias/compara-carreras/7d80a355.background.jpg"
+grid_img:    "historias/compara-carreras/compara-carreras_grid.jpg"
+featured_img: "historias/compara-carreras/compara-carreras_featured.jpg"
 datasets:
   -
     title: "Encuesta Nacional de Ocupación y Empleo (ENOE) del INEGI"

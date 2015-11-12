@@ -4,7 +4,8 @@ layout: app
 featured: false
 title: Mapa Digital de México
 date: 2015-07-22
-cover: apps/mapadigital/mapadigital-cover.jpg
+grid_img: apps/mapadigital/mapadigital_grid.jpg
+featured_img: apps/mapadigital/mapadigital_featured.jpg
 screenshots:
   - apps/mapadigital/mapadigital-cover.png
   - apps/mapadigital/mapadigital2.png

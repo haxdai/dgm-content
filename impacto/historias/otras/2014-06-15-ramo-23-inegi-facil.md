@@ -7,8 +7,8 @@ title:    "Ramo 23: Conoce cómo se gastan las provisiones salariales y económi
 tagline:  "Conocer cómo se asigna presupuesto federal a los estados"
 author:   "Hugo Osorio | INEGI Fácil"
 date:     2014-06-15 12:09:00 -0500
-cover:    "historias/ramo-23-inegi-facil/ramo-23-inegi-facil-cover.jpg"
-cover_photo: "historias/ramo-23-inegi-facil/ramo23Imgcover2-1280x400.png"
+grid_img:    "historias/ramo-23-inegi-facil/ramo23_grid.jpg"
+featured_img: "historias/ramo-23-inegi-facil/ramo23_featured.jpg"
 datasets:
   -
     title: "Recursos Ramo 23"

@@ -7,8 +7,8 @@ title: 'Red México Abierto: inicios, logros y desafíos'
 excerpt: "Se se impulsó la creación de la Red México Abierto, una plataforma que permite a los distintos niveles de gobierno compartir sus experiencias y aprendizajes en torno a la apertura de datos de una forma sencilla y abierta."
 date: 2015-02-26
 author: "Coordinación de Estrategia Digital Nacional"
-cover: "avances/red-mexico-abierto/red-mexico-abierto-cover.jpg"
-cover_photo: "avances/red-mexico-abierto/red-mexico-abierto-cover_photo.png"
+grid_img: "avances/red-mexico-abierto/red-mexico-abierto_grid.jpg"
+featured_img: "avances/red-mexico-abierto/red-mexico-abierto_featured.jpg"
 permalink: "/impacto/avances/red-mexico-abierto.html"
 section: impacto
 sub_section: avances

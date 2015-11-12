@@ -5,8 +5,8 @@ title:    "Datos abiertos, representación política y redistritación en Méxic
 tagline:  "Conocer cómo usar datos para mejor delimitar las secciones electorales"
 author:   "Alejandro Trelles, Micah Altman, Eric Magar, Michael P. McDonald"
 date:     2015-04-15 12:09:00 -0500
-cover:    "historias/redistritacion/redistritacion-1280x400.png"
-cover_photo: "historias/redistritacion/redistritacion-1280x400.png"
+grid_img:    "historias/redistritacion/redistritacion_grid.jpg"
+featured_img: "historias/redistritacion/redistritacion_featured.jpg"
 datasets:
   -
     title: "Marco Geoestadístico Nacional"
@@ -17,8 +17,6 @@ datasets:
   -
     title: "Indicadores sociodemogáficos y económicos sobre la población indígena desagregada por municpio, 2010"
     url: http://catalogo.datos.gob.mx/dataset/indicadores-sociodemogaficos-y-economicos-sobre-la-poblacion-indigena-desagregada-por-muni-2010
-
-
 
 permalink: /impacto/historias/redistritacion.html
 section:  impacto

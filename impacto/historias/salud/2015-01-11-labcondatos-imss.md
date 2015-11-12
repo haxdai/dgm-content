@@ -6,8 +6,8 @@ title:    "LabConDatos: Atención en unidades médicas del IMSS en el 2013."
 tagline:  "Mostrar la relación entre la presencia de centros del IMSS con el grado de marginación."
 author:   "Mariana Ruiz | Rubén López | Orlando García | José Rodrigo Patiño | Luis Mauricio Torres"
 date:     2015-01-11 13:09:00 -0500
-cover:    "historias/labcondatos-imss/labcondatos-imss-cover.jpg"
-cover_photo: "historias/labcondatos-imss/labcondatos-imss_cover_photo-1284x460.jpg"
+grid_img:    "historias/labcondatos-imss/labcondatos-imss_grid.jpg"
+featured_img: "historias/labcondatos-imss/labcondatos-imss_featured.jpg"
 datasets:
 
   -

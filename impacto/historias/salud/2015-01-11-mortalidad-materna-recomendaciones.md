@@ -5,8 +5,8 @@ featured_tagline: 'Datos Abiertos para:'
 title:    "Datos Abiertos para prevenir la Mortalidad Materna: Recomendaciones"
 author:   "Nick Eng | DSSG"
 date:     2015-01-13 13:09:00 -0500
-cover:    "historias/mortalidad-materna-recomendaciones/mortalidad-materna-recomendaciones-cover.jpg"
-cover_photo: "historias/mortalidad-materna-recomendaciones/mortalidad-materna-recomendaciones_cover_photo-1284x460.jpg"
+grid_img:    "historias/mortalidad-materna-recomendaciones/mortalidad-materna-recomendaciones_grid.jpg"
+featured_img: "historias/mortalidad-materna-recomendaciones/mortalidad-materna-recomendaciones_featured.jpg"
 datasets:
   -
     title: "Mortalidad Materna"

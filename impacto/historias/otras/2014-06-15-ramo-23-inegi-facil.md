@@ -15,7 +15,7 @@ datasets:
     url: "http://www.hacienda.gob.mx/maps/mapas/csv/RAMO_23_general.csv"
   -
     title: "Infraestructura Carretera"
-    url: http://catalogo.datos.gob.mx/dataset/infraestructura-carretera
+    url: http://busca.datos.gob.mx/#/conjuntos/infraestructura-carretera
 
 permalink: /impacto/historias/ramo-23.html
 section: impacto

@@ -15,7 +15,7 @@ datasets:
     url: http://www.sinais.salud.gob.mx/basesdedatos/std_defunciones.html
   -
     title: "Infraestructura Carretera"
-    url: http://catalogo.datos.gob.mx/dataset/infraestructura-carretera
+    url: http://busca.datos.gob.mx/#/conjuntos/infraestructura-carretera
 collaborators:
   - data4
 

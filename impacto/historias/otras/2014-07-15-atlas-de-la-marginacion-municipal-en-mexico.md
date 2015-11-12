@@ -15,25 +15,25 @@ datasets:
     url: http://www.conapo.gob.mx/es/CONAPO/Indices_de_Marginacion_2010_por_entidad_federativa_y_municipio
   -
     title: "Indicadores de pobreza, 2010-2012"
-    url: http://catalogo.datos.gob.mx/dataset/indicadores-de-pobreza-2010-2012-nacional-y-estatal
+    url: http://busca.datos.gob.mx/#/conjuntos/indicadores-de-pobreza-2010-2012-nacional-y-estatal
   -
     title: "Proyecciones de la población de México"
-    url: http://catalogo.datos.gob.mx/dataset/proyecciones-de-la-poblacion-de-mexico
+    url: http://busca.datos.gob.mx/#/conjuntos/proyecciones-de-la-poblacion-de-mexico
   -
     title: "Inventario CONEVAL de Programas y Acciones Federales de Desarrollo Social"
-    url: http://catalogo.datos.gob.mx/dataset/inventario-coneval-de-programas-y-acciones-federales-de-desarrollo-social
+    url: http://busca.datos.gob.mx/#/conjuntos/inventario-coneval-de-programas-y-acciones-federales-de-desarrollo-social
   -
     title: "Índice de Rezago Social,2000,2005 y 2010"
-    url: http://catalogo.datos.gob.mx/dataset/indice-de-rezago-social20002005-y-2010-nacionalestatalmunicipal-y-localidad
+    url: http://busca.datos.gob.mx/#/conjuntos/indice-de-rezago-social20002005-y-2010-nacionalestatalmunicipal-y-localidad
   -
     title: "Indicadores de pobreza, pobreza por ingresos, rezago social y gini 2010"
-    url: http://catalogo.datos.gob.mx/dataset/indicadores-de-pobreza-pobreza-por-ingresos-rezago-social-y-gini-2010-municipal
+    url: http://busca.datos.gob.mx/#/conjuntos/indicadores-de-pobreza-pobreza-por-ingresos-rezago-social-y-gini-2010-municipal
   -
     title: "Programa de Apoyo Alimentario"
-    url: http://catalogo.datos.gob.mx/dataset/programa-de-apoyo-alimentario
+    url: http://busca.datos.gob.mx/#/conjuntos/programa-de-apoyo-alimentario
   -
     title: "Programa de Desarrollo Humano Oportunidades"
-    url: http://catalogo.datos.gob.mx/dataset/programa-de-desarrollo-humano-oportunidades
+    url: http://busca.datos.gob.mx/#/conjuntos/programa-de-desarrollo-humano-oportunidades
 collaborators:
   - cartografica
 

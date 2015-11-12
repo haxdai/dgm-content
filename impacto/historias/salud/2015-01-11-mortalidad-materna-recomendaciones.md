@@ -10,13 +10,13 @@ featured_img: "historias/mortalidad-materna-recomendaciones/mortalidad-materna-r
 datasets:
   -
     title: "Mortalidad Materna"
-    url: http://catalogo.datos.gob.mx/dataset/mortalidad-materna
+    url: http://busca.datos.gob.mx/#/conjuntos/mortalidad-materna
   -
     title: "Defunciones Generales"
     url: http://www.dgis.salud.gob.mx/contenidos/basesdedatos/std_defunciones.html
   -
     title: "Recursos en Salud"
-    url: http://catalogo.datos.gob.mx/dataset/recursos-en-salud
+    url: http://busca.datos.gob.mx/#/conjuntos/recursos-en-salud
 collaborators:
   - secretaria_salud
 permalink: /impacto/historias/mortalidad-materna.html

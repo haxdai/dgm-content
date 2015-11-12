@@ -18,16 +18,16 @@ datasets:
     url: http://www.inegi.org.mx/inegi/contenidos/serviciosWEB/infogeografica.aspx
   -
     title: "Imagen satelital de nubosidad"
-    url: http://catalogo.datos.gob.mx/dataset/imagen-satelital-de-nubosidad
+    url: http://busca.datos.gob.mx/#/conjuntos/imagen-satelital-de-nubosidad
   -
     title: "Infraestructura Carretera"
-    url: http://catalogo.datos.gob.mx/dataset/infraestructura-carretera
+    url: http://busca.datos.gob.mx/#/conjuntos/infraestructura-carretera
   -
     title: "Proyecciones de la población de México"
-    url: http://catalogo.datos.gob.mx/dataset/proyecciones-de-la-poblacion-de-mexico
+    url: http://busca.datos.gob.mx/#/conjuntos/proyecciones-de-la-poblacion-de-mexico
   -
     title: "Recursos en salud"
-    url: http://catalogo.datos.gob.mx/dataset/recursos-en-salud
+    url: http://busca.datos.gob.mx/#/conjuntos/recursos-en-salud
 collaborators:
   - inegi_facil
 

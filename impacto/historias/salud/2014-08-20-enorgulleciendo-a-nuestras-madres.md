@@ -11,10 +11,10 @@ featured_img: "historias/enorgulleciendo-a-nuestras-madres/enorgulleciendo-a-nue
 datasets:
   -
     title: "Mortalidad Materna"
-    url: http://catalogo.datos.gob.mx/dataset/mortalidad-materna
+    url: http://busca.datos.gob.mx/#/conjuntos/mortalidad-materna
   -
     title: "Recursos en salud"
-    url: http://catalogo.datos.gob.mx/dataset/recursos-en-salud
+    url: http://busca.datos.gob.mx/#/conjuntos/recursos-en-salud
 permalink: /impacto/historias/reduciendo-mortalidad-materna.html
 section: impacto
 sub_section: casos-de-uso

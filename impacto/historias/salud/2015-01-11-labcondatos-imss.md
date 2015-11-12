@@ -12,7 +12,7 @@ datasets:
 
   -
     title: "Encuesta nacional de satisfacción a usuarios de servicios médicos del IMSS (ENSat)"
-    url: http://catalogo.datos.gob.mx/dataset/encuesta-nacional-de-satisfaccion-a-usuarios-de-servicios-medicos-del-imss-ensat
+    url: http://busca.datos.gob.mx/#/conjuntos/encuesta-nacional-de-satisfaccion-a-usuarios-de-servicios-medicos-del-imss-ensat
   -
     title: "Base de datos Zapopan-Datatón"
     url: http://www.conapo.gob.mx/en/CONAPO/Indices_de_Marginacion_Publicaciones

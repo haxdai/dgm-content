@@ -12,7 +12,7 @@ featured_img: "historias/avisos-de-ciclones-tropicales/avisos-de-ciclones-tropic
 datasets:
   -
     title: "Avisos de ciclón tropical"
-    url: http://catalogo.datos.gob.mx/dataset/avisos-de-ciclon-tropical
+    url: http://busca.datos.gob.mx/#/conjuntos/avisos-de-ciclon-tropical
 permalink: /impacto/historias/avisos-de-ciclones-tropicales.html
 section: impacto
 sub_section: casos-de-uso
@@ -56,7 +56,7 @@ Rodolfo Wilhelmy, [@rodowi](https://twitter.com/rodowi)
 - Mapa de Crisis para México, donde se pueden visualizar las regiones alertadas y capas de información adicionales al fenómeno: [https://google.org/crisismap/mexico](https://google.org/crisismap/mexico)
 - Anuncio de que Conagua se une a programa de alertas de Twitter: [http://www.gob.mx/presidencia/seguridad/conagua-se-une-a-programa-de-alertas-de-twitter](http://www.gob.mx/presidencia/seguridad/conagua-se-une-a-programa-de-alertas-de-twitter)
 - La cuenta de Twitter del Servicio Meteorológico Nacional utilizada también para enviar notificaciones a los usuarios: [https://twitter.com/CONAGUA_clima](https://twitter.com/CONAGUA_clima)
-- El _feed_ de Avisos de Ciclones Tropicales de la CONAGUA: [http://catalogo.datos.gob.mx/dataset/avisos-de-ciclon-tropical](http://catalogo.datos.gob.mx/dataset/avisos-de-ciclon-tropical)
+- El _feed_ de Avisos de Ciclones Tropicales de la CONAGUA: [http://busca.datos.gob.mx/#/conjuntos/avisos-de-ciclon-tropical](http://busca.datos.gob.mx/#/conjuntos/avisos-de-ciclon-tropical)
 - Reto público organizado por la Estrategia Digital Nacional y Protección Civil para desarrolar una app móvil que alerte a los usuarios en zonas afectadas por un fenómeno natural. Incluye el aviso de ciclones tropicales: [http://retos.datos.gob.mx/organizaciones/3/retos/1-reto-alerta-mx](http://retos.datos.gob.mx/organizaciones/3/retos/1-reto-alerta-mx)
 
 **Notas:**  

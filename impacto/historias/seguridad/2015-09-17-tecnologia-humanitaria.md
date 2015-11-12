@@ -12,7 +12,7 @@ featured_img: "historias/tecnologia-humanitaria/tecnologia-humanitaria_featured.
 datasets:
   -
     title: "Avisos de ciclón tropical"
-    url: http://catalogo.datos.gob.mx/dataset/avisos-de-ciclon-tropical
+    url: http://busca.datos.gob.mx/#/conjuntos/avisos-de-ciclon-tropical
 permalink: /impacto/historias/tecnologia-humanitaria.html
 section: impacto
 sub_section: casos-de-uso

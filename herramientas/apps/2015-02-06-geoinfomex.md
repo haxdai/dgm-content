@@ -20,7 +20,7 @@ links:
 datasets:
   -
     title:  Empresas productoras de minerales metálicos y no metálicos
-    url:   http://catalogo.datos.gob.mx/dataset/empresas-productoras-de-minerales-metalicos-y-no-metalicos-embajadas-instituciones-superiores-s
+    url:   http://busca.datos.gob.mx/#/conjuntos/directorio-de-empresas-productoras-de-metalicos-y-no-metalicos-embajadas-instituciones-superior
 
 
 author: Servicio Geológico Mexicano

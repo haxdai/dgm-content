@@ -19,7 +19,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-El Ayuntamiento de Xalapa se convirtió en el primer municipio en utilizar [datos.gob.mx](http://catalogo.datos.gob.mx/organization/ayuntamiento-de-xalapa) para compartir sus conjuntos de Datos Abiertos, por tal motivo organizó en el Museo Interactivo de Xalapa el Hackatón Xalapa 2014, que se realizó entre el 10 y 12 de octubre. El evento consistió en un maratón de desarrollo web, en el que se diseñaron aplicaciones de manera colaborativa. El objetivo del evento fue fomentar una nueva colaboración entre ciudadanía y gobierno para la generación de soluciones a problemas locales utilizando Datos Abiertos gubernamentales; así como impulsar el desarrollo tecnológico y la innovación.  
+El Ayuntamiento de Xalapa se convirtió en el primer municipio en utilizar [datos.gob.mx](http://busca.datos.gob.mx/#/instituciones/ayuntamiento-de-xalapa) para compartir sus conjuntos de Datos Abiertos, por tal motivo organizó en el Museo Interactivo de Xalapa el Hackatón Xalapa 2014, que se realizó entre el 10 y 12 de octubre. El evento consistió en un maratón de desarrollo web, en el que se diseñaron aplicaciones de manera colaborativa. El objetivo del evento fue fomentar una nueva colaboración entre ciudadanía y gobierno para la generación de soluciones a problemas locales utilizando Datos Abiertos gubernamentales; así como impulsar el desarrollo tecnológico y la innovación.  
 
 <!--more-->
 

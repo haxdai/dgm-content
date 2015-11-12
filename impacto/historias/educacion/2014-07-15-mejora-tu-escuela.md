@@ -11,7 +11,7 @@ featured_img: "historias/mejora-tu-escuela/mejoratuescuela_featured.jpg"
 datasets:
   -
     title: "Catálogo de Centros de Trabajo"
-    url: http://catalogo.datos.gob.mx/dataset/catalogo-de-centros-de-trabajo
+    url: http://busca.datos.gob.mx/#/conjuntos/catalogo-de-centros-de-trabajo
   -
     title: "Base de datos ENLACE, SEP, primaria, secundaria, bachillerato"
     url: http://www.enlace.sep.gob.mx/

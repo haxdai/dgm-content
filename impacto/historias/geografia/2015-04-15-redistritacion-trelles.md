@@ -13,10 +13,10 @@ datasets:
     url: "http://www.inegi.org.mx/geo/contenidos/geoestadistica/default.aspx"
   -
     title: "Infraestructura Carretera"
-    url: http://catalogo.datos.gob.mx/dataset/infraestructura-carretera
+    url: http://busca.datos.gob.mx/#/conjuntos/infraestructura-carretera
   -
     title: "Indicadores sociodemogáficos y económicos sobre la población indígena desagregada por municpio, 2010"
-    url: http://catalogo.datos.gob.mx/dataset/indicadores-sociodemogaficos-y-economicos-sobre-la-poblacion-indigena-desagregada-por-muni-2010
+    url: http://busca.datos.gob.mx/#/conjuntos/indicadores-sociodemogaficos-y-economicos-sobre-la-poblacion-indigena-desagregada-por-muni-2010
 
 permalink: /impacto/historias/redistritacion.html
 section:  impacto

@@ -20,9 +20,9 @@ tags:
   - Seguridad
 ---
 
-Durante la contingencia del [Huracán Patricia](http://www.gob.mx/temas/huracan-patricia) una [brigada digital](http://datos.gob.mx/historias/seguridad/tecnologia-humanitaria.html) conformada por organizaciones de los sectores público, privado, y social se sumaron a los esfuerzos de apoyo para coordinar de manera oportuna actividades que, a través de múltiples plataformas y comunidades, lograron una participación nacional e internacional sin precedentes.
+Durante la contingencia del [Huracán Patricia](http://www.gob.mx/temas/huracan-patricia) una [brigada digital](http://datos.gob.mx/impacto/historias/tecnologia-humanitaria.html) conformada por organizaciones de los sectores público, privado, y social se sumaron a los esfuerzos de apoyo para coordinar de manera oportuna actividades que, a través de múltiples plataformas y comunidades, lograron una participación nacional e internacional sin precedentes.
 
-Comenzada la contingencia, llegaron mensajes de la CONAGUA y Protección Civil a través de [redes sociales](https://twitter.com/conagua_clima/alerts) y [alertas públicas](http://datos.gob.mx/historias/seguridad/avisos-de-ciclones-tropicales.html) a usuarios en zonas de riesgo. Al mismo tiempo que se instalaba el Comité Nacional de Emergencias, el equipo de Datos Abiertos de la Estrategia Digital Nacional inició la [recolección y publicación de conjuntos de datos críticos](http://busca.datos.gob.mx/#/grupos/rmx) para evaluar la situación.
+Comenzada la contingencia, llegaron mensajes de la CONAGUA y Protección Civil a través de [redes sociales](https://twitter.com/conagua_clima/alerts) y [alertas públicas](http://datos.gob.mx/impacto/historias/avisos-de-ciclones-tropicales.html) a usuarios en zonas de riesgo. Al mismo tiempo que se instalaba el Comité Nacional de Emergencias, el equipo de Datos Abiertos de la Estrategia Digital Nacional inició la [recolección y publicación de conjuntos de datos críticos](http://busca.datos.gob.mx/#/grupos/rmx) para evaluar la situación.
 
 
 <img src="{{ "/assets/img/impacto/historias/huracan-patricia/image01.png" | prepend: site.baseurl | prepend: site.url }}">

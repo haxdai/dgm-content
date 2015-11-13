@@ -5,8 +5,8 @@ layout: post
 title: "La brigada digital durante el Huracán Patricia"
 author: "Rodolfo Wilhelmy"
 date: 2015-10-27 18:48:00 -0600
-cover: "historias/huracan-patricia/huracan-patricia-1280x692.png"
-cover_photo: "historias/huracan-patricia/huracan-patricia-1280x440.jpg"
+grid_img: "historias/huracan-patricia/huracan-patricia-1280x692.png"
+featured_img: "historias/huracan-patricia/huracan-patricia-1280x440.jpg"
 datasets:
 permalink: /impacto/casos-de-uso/huracan-patricia.html
 section: impacto

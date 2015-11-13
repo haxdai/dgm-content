@@ -40,4 +40,4 @@ En paralelo, el [Equipo Humanitario de OpenStreetMap](http://hotosm.org/) realiz
 
 De la misma manera, la industria de tecnología jugó un papel muy importante durante la emergencia, activando plataformas y herramientas digitales como el [Mapa de Crisis de Google.org](http://google.org/crisismap/mexico?hl=es) y [Facebook Safety Check](https://www.facebook.com/about/safetycheck/) que permitieron mantener al tanto a la población durante el avance de la contingencia.
 
-La coordinación de todas estas actividades a través de tecnologías digitales y datos abiertos habilitó a todos los sectores para tener una respuesta más rápida y contribuirán en la mejora de la atención a fenómenos naturales en el país.
+No cabe duda que las tecnologías digitales y los datos abiertos fortalecieron (y seguiran contribuyendo en) la coordinación de todos los sectores y la atención a emergencias en el país.

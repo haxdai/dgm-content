@@ -17,7 +17,7 @@ screenshots:
 links:
   appleStore: https://itunes.apple.com/mx/app/guia-pemex/id603636606?mt=8
   playStore: https://play.google.com/store/apps/details?id=com.pemex.guiapemex&hl=es_419
-  web: http://www.windowsphone.com/es-mx/store/app/gu%C3%ADa-pemex/ea35541b-a5a0-4436-bed1-ecbcc0cf7990
+  web: http://guiapemex.pemex.com/SitePages/home.aspx
 
 datasets:
   -

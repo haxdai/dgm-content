@@ -24,7 +24,7 @@ datasets:
     title:  Guía Pemex
     url: http://guiapemex.pemex.com
 
-author: Secretaría de Comunicaciones y Transportes (Unidad de Tecnologías de Información y Comunicación)
+author: Petróleos Mexicanos
 
 permalink: "/herramientas/movil/guiapemex.html"
 section: herramientas

@@ -1,7 +1,7 @@
 ---
 published: true
 layout: app
-featured: true
+featured: false
 title:  "Regionalización Funcional de México"
 date:   2015-11-09
 author: "SEDATU"

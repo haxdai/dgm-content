@@ -4,8 +4,8 @@ layout: app
 featured: true
 title: RadarCiSalud
 date: 2015-11-25
-grid_img: apps/radarcisalud/image_grid.jpg
-featured_img: apps/radarcisalud/image_featured.jpg
+grid_img: apps/radarcisalud/image_grid.png
+featured_img: apps/radarcisalud/image_featured.png
 screenshots:
   - apps/radarcisalud/image1.png
   - apps/radarcisalud/image2.png
@@ -22,7 +22,7 @@ datasets:
 
 author: Secretaría de Salud 
 
-permalink: "/herramientas/movil/ubicapue.html"
+permalink: "/herramientas/movil/radarcisalud.html"
 section: herramientas
 sub_section: apps
 category: salud

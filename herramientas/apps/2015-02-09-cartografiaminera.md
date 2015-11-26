@@ -7,8 +7,8 @@ date: 2015-02-09
 grid_img: apps/cartografiaminera/cartografiaminera_grid.jpg
 featured_img: apps/cartografiaminera/cartografiaminera_featured.jpg
 screenshots:
-  - apps/cartografiaminera/screens/cartografiaminera1a.png
-  - apps/cartografiaminera/screens/cartografiaminera2a.png
+  - apps/cartografiaminera/screens/cartografiaminera-01.jpg
+  - apps/cartografiaminera/screens/cartografiaminera-02.jpg
 
 links:
   web: http://www.cartografia.economia.gob.mx/cartografia/

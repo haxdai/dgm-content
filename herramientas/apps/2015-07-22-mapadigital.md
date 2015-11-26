@@ -7,11 +7,10 @@ date: 2015-07-22
 grid_img: apps/mapadigital/mapadigital_grid.jpg
 featured_img: apps/mapadigital/mapadigital_featured.jpg
 screenshots:
-  - apps/mapadigital/mapadigital-cover.png
-  - apps/mapadigital/mapadigital2.png
-  - apps/mapadigital/mapadigital3.png
-  - apps/mapadigital/mapadigital4.png
-  - apps/mapadigital/mapadigital5.png
+  - apps/mapadigital/mapadigital_app-01.png
+  - apps/mapadigital/mapadigital_app-02.png
+  - apps/mapadigital/mapadigital_app-03.png
+  - apps/mapadigital/mapadigital_app-04.png
 
 links:
   web: http://www.inegi.org.mx/geo/contenidos/mapadigital/

@@ -7,10 +7,10 @@ date: 2015-02-04
 grid_img: apps/geoinfomx/geoinfomex_grid.jpg
 featured_img: apps/geoinfomx/geoinfomex_featured.jpg
 screenshots:
-  - apps/geoinfomx/screens/geoinfomx1.png
-  - apps/geoinfomx/screens/geoinfomx1a.png
-  - apps/geoinfomx/screens/geoinfomx2a.png
-  - apps/geoinfomx/screens/geoinfomx3.png
+  - apps/geoinfomx/screens/geoinfomex_app-01.png
+  - apps/geoinfomx/screens/geoinfomex_app-02.png
+  - apps/geoinfomx/screens/geoinfomex_app-03.png
+  - apps/geoinfomx/screens/geoinfomex_app-04.png
 
 links:
   playStore: https://play.google.com/store/apps/details?id=gim.pack&hl=es_419

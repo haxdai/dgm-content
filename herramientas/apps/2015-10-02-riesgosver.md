@@ -7,9 +7,9 @@ date: 2015-10-02
 grid_img: apps/riesgosver/riesgosver_grid.jpg
 featured_img: apps/riesgosver/riesgosver_featured.jpg
 screenshots:
-  - apps/riesgosver/riesgosver02.png
-  - apps/riesgosver/riesgosver03.png
-  - apps/riesgosver/riesgosver04.png
+  - apps/riesgosver/riesgosver_app-01.png
+  - apps/riesgosver/riesgosver_app-02.png
+  - apps/riesgosver/riesgosver_app-03.png
 
 links:
   web: http://atlasriesgos.proteccioncivilver.gob.mx/atlas

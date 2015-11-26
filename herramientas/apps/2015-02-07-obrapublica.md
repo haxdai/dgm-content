@@ -7,13 +7,11 @@ date: 2015-02-04
 grid_img: apps/obrapublica/obrapublica_grid.jpg
 featured_img: apps/obrapublica/obrapublica_featured.jpg
 screenshots:
-  - apps/obrapublica/screens/obrapublica1.png
-  - apps/obrapublica/screens/obrapublica1a.png
-  - apps/obrapublica/screens/obrapublica2a.png
-  - apps/obrapublica/screens/obrapublica3.png
-  - apps/obrapublica/screens/obrapublica3a.png
-  - apps/obrapublica/screens/obrapublica5a.png
-  - apps/obrapublica/screens/obrapublicaWebApp.png
+  - apps/obrapublica/screens/obrapublica_app-01.png
+  - apps/obrapublica/screens/obrapublica_app-02.png
+  - apps/obrapublica/screens/obrapublica_app-03.png
+  - apps/obrapublica/screens/obrapublica_app-04.png
+  - apps/obrapublica/screens/obrapublica_app-05.png
 
 links:
   web: http://aga.sct.gob.mx

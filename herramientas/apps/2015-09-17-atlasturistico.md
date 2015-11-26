@@ -7,9 +7,9 @@ date: 2015-09-17
 grid_img: apps/atlasturistico/atlasturistico_grid.jpg
 featured_img: apps/atlasturistico/atlasturistico_featured.jpg
 screenshots:
-  - apps/atlasturistico/screens/atlasturistico01.png
-  - apps/atlasturistico/screens/atlasturistico02.png
-  - apps/atlasturistico/screens/atlasturistico03.png
+  - apps/atlasturistico/screens/atlasturistico-01.jpg
+  - apps/atlasturistico/screens/atlasturistico-02.jpg
+  - apps/atlasturistico/screens/atlasturistico-03.jpg
 
 links:
   web: http://atlasturistico.sectur.gob.mx/AtlasTuristico/bienvenido.do

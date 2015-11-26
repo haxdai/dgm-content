@@ -7,11 +7,11 @@ date: 2015-10-02
 grid_img: apps/imssdigital/imssdigital_grid.jpg
 featured_img: apps/imssdigital/imssdigital_featured.jpg
 screenshots:
-  - apps/imssdigital/foto2.jpg
-  - apps/imssdigital/foto3.jpg
-  - apps/imssdigital/foto4.jpg
-  - apps/imssdigital/foto5.jpg
-  - apps/imssdigital/foto6.jpg
+  - apps/imssdigital/imssdigital_app-01.png
+  - apps/imssdigital/imssdigital_app-02.png
+  - apps/imssdigital/imssdigital_app-03.png
+  - apps/imssdigital/imssdigital_app-04.png
+  - apps/imssdigital/imssdigital_app-05.png
 
 links:
   appleStore: https://itunes.apple.com/us/app/imss-digital/id975273006?mt=8

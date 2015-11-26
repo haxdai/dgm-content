@@ -7,7 +7,8 @@ date: 2015-02-08
 grid_img: apps/consultassemarnat/consultassemarnat_grid.jpg
 featured_img: apps/consultassemarnat/consultassemarnat_featured.jpg
 screenshots:
-  - apps/consultassemarnat/screens/consultassemarnat1.png
+  - apps/consultassemarnat/screens/consultasemarnat_app-01.png
+  - apps/consultassemarnat/screens/consultasemarnat_app-02.png
 
 links:
 

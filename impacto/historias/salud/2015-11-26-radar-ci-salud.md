@@ -34,7 +34,7 @@ RadarCiSalud está disponible en las principales plataformas de descarga de apli
 
 En una segunda etapa, RadarCisalud tendrá datos sobre el equipamiento de las unidades médicas como número de camas y quirófanos, así como los servicios y personal con el que cuenta cada establecimiento. En coordinación con la Comisión Federal para la Protección contra Riesgos Sanitarios (COFEPRIS) se incluirán también aproximadamente 15 mil consultorios adheridos a farmacias.
 
-En seguimiento a la Política de Datos Abiertos de la EDN, todos los datos que utiliza la aplicación se encuentran disponibles al público en datos.gob.mx/salud, para que puedan ser usados, reutilizados y redistribuidos por cualquier persona, para crear mayor valor y beneficios en materia de salud para la sociedad.
+En seguimiento a la Política de Datos Abiertos de la EDN, todos los datos que utiliza la aplicación se encuentran disponibles al público en [datos.gob.mx/salud](http://datos.gob.mx/salud), para que puedan ser usados, reutilizados y redistribuidos por cualquier persona, para crear mayor valor y beneficios en materia de salud para la sociedad.
 
 La base de datos de Recursos de Salud contiene información de los establecimientos de salud, con datos de ubicación geográfica y domiciliaria, institución y tipo de establecimiento. Uso e interpretación de la información publicada: Identificación de la infraestructura en salud instalada a nivel nacional, orientada a la prestación de servicios de salud.
 

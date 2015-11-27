@@ -20,7 +20,7 @@ datasets:
     title: "Recursos en Salud "
     url: http://busca.datos.gob.mx/#/conjuntos/recursos-en-salud
 
-author: Secretaría de Salud 
+author: Secretaría de Salud
 
 permalink: "/herramientas/movil/radarcisalud.html"
 section: herramientas
@@ -33,4 +33,4 @@ tags:
   - Clínicas
 ---
 
-La aplicación permite la consulta de más de 28 mil establecimientos de salud, públicos, privados y sociales a nivel nacional.  En ella encontrarás hospitales, consultorios, laboratorios, bancos de sangre y establecimientos de asistencia social con su ubicación y datos de de forma georreferenciada. RadarCiSalud es el primer paso para transformar la información en salud con que cuenta el gobierno a “información socialmente útil”, acercando los servicios de salud a la persona.
+La aplicación permite la consulta de más de 28 mil establecimientos de salud, públicos, privados y sociales a nivel nacional.  En ella encontrarás hospitales, consultorios, laboratorios, bancos de sangre y establecimientos de asistencia social con su ubicación y datos de forma georreferenciada. RadarCiSalud es el primer paso para transformar la información en salud con que cuenta el gobierno a “información socialmente útil”, acercando los servicios de salud a la persona.

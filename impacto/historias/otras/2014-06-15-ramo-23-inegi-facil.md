@@ -10,12 +10,11 @@ date:     2014-06-15 12:09:00 -0500
 grid_img:    "historias/ramo-23-inegi-facil/ramo23_grid.jpg"
 featured_img: "historias/ramo-23-inegi-facil/ramo23_featured.jpg"
 datasets:
+  - infraestructura-carretera
+external_datasets:
   -
-    title: "Recursos Ramo 23"
-    url: "http://www.hacienda.gob.mx/maps/mapas/csv/RAMO_23_general.csv"
-  -
-    title: "Infraestructura Carretera"
-    url: http://busca.datos.gob.mx/#/conjuntos/infraestructura-carretera
+  title: "Recursos Ramo 23"
+  url: "http://www.hacienda.gob.mx/maps/mapas/csv/RAMO_23_general.csv"
 
 permalink: /impacto/historias/ramo-23.html
 section: impacto

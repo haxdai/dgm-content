@@ -16,7 +16,7 @@ tags:
  - contrataciones
  - licitaciones
  - compranet
-datasets:
+external_datasets:
   -
     title: "Contratos reportados en Compranet"
     url: https://sites.google.com/site/cnetuc/contrataciones

@@ -8,15 +8,13 @@ date:     2015-04-15 12:09:00 -0500
 grid_img:    "historias/redistritacion/redistritacion_grid.jpg"
 featured_img: "historias/redistritacion/redistritacion_featured.jpg"
 datasets:
+  - infraestructura-carretera
+  - indicadores-sociodemogaficos-y-economicos-sobre-la-poblacion-indigena-desagregada-por-muni-2010
+external_datasets:
   -
     title: "Marco Geoestadístico Nacional"
     url: "http://www.inegi.org.mx/geo/contenidos/geoestadistica/default.aspx"
-  -
-    title: "Infraestructura Carretera"
-    url: http://busca.datos.gob.mx/#/conjuntos/infraestructura-carretera
-  -
-    title: "Indicadores sociodemogáficos y económicos sobre la población indígena desagregada por municpio, 2010"
-    url: http://busca.datos.gob.mx/#/conjuntos/indicadores-sociodemogaficos-y-economicos-sobre-la-poblacion-indigena-desagregada-por-muni-2010
+
 
 permalink: /impacto/historias/redistritacion.html
 section:  impacto

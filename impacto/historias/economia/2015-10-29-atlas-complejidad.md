@@ -15,19 +15,10 @@ category: economia
 category_title: Economia
 
 datasets:
-  -
-    title: Operaciones de importación y exportación a nivel nacional
-    url: http://busca.datos.gob.mx/#/conjuntos/operaciones-de-importacion-y-exportacion-a-nivel-nacional
-  -
-    title: Operaciones de importación y exportación a nivel estatal
-    url: http://busca.datos.gob.mx/#/conjuntos/operaciones-de-importacion-y-exportacion-a-nivel-estatal
-  -
-    title:  Operaciones de importación y exportación a nivel municipal
-    url: http://busca.datos.gob.mx/#/conjuntos/operaciones-de-importacion-y-exportacion-a-nivel-municipal
-  -
-    title: Operaciones de importación y exportación a nivel metropolitano
-    url: http://busca.datos.gob.mx/#/conjuntos/operaciones-de-importacion-y-exportacion-a-nivel-metropolitano
-
+  - operaciones-de-importacion-y-exportacion-a-nivel-nacional
+  - operaciones-de-importacion-y-exportacion-a-nivel-estatal
+  - operaciones-de-importacion-y-exportacion-a-nivel-municipal
+  - operaciones-de-importacion-y-exportacion-a-nivel-metropolitano
 ---
 Tomar decisiones con base en información y datos *-desagregados y actualizados-* permite obtener mejores análisis, comparaciones, resultados e inteligencia de negocios para analizar ventajas competitivas y elegir las mejores alternativas.
 

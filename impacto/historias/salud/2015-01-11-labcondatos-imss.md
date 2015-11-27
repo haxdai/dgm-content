@@ -9,10 +9,8 @@ date:     2015-01-11 13:09:00 -0500
 grid_img:    "historias/labcondatos-imss/labcondatos-imss_grid.jpg"
 featured_img: "historias/labcondatos-imss/labcondatos-imss_featured.jpg"
 datasets:
-
-  -
-    title: "Encuesta nacional de satisfacción a usuarios de servicios médicos del IMSS (ENSat)"
-    url: http://busca.datos.gob.mx/#/conjuntos/encuesta-nacional-de-satisfaccion-a-usuarios-de-servicios-medicos-del-imss-ensat
+  - encuesta-nacional-de-satisfaccion-a-usuarios-de-servicios-medicos-del-imss-ensat
+external_datasets:
   -
     title: "Base de datos Zapopan-Datatón"
     url: http://www.conapo.gob.mx/en/CONAPO/Indices_de_Marginacion_Publicaciones

@@ -10,9 +10,7 @@ date: 2015-09-17 23:00:00 -0500
 grid_img: "historias/tecnologia-humanitaria/tecnologia-humanitaria_grid.jpg"
 featured_img: "historias/tecnologia-humanitaria/tecnologia-humanitaria_featured.jpg"
 datasets:
-  -
-    title: "Avisos de ciclón tropical"
-    url: http://busca.datos.gob.mx/#/conjuntos/avisos-de-ciclon-tropical
+  - avisos-de-ciclon-tropical
 permalink: /impacto/historias/tecnologia-humanitaria.html
 section: impacto
 sub_section: casos-de-uso

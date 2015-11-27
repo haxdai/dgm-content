@@ -8,15 +8,12 @@ date:     2015-01-13 13:09:00 -0500
 grid_img:    "historias/mortalidad-materna-recomendaciones/mortalidad-materna-recomendaciones_grid.jpg"
 featured_img: "historias/mortalidad-materna-recomendaciones/mortalidad-materna-recomendaciones_featured.jpg"
 datasets:
-  -
-    title: "Mortalidad Materna"
-    url: http://busca.datos.gob.mx/#/conjuntos/mortalidad-materna
+  - mortalidad-materna
+  - recursos-en-salud
+external_datasets:
   -
     title: "Defunciones Generales"
     url: http://www.dgis.salud.gob.mx/contenidos/basesdedatos/std_defunciones.html
-  -
-    title: "Recursos en Salud"
-    url: http://busca.datos.gob.mx/#/conjuntos/recursos-en-salud
 collaborators:
   - secretaria_salud
 permalink: /impacto/historias/mortalidad-materna.html

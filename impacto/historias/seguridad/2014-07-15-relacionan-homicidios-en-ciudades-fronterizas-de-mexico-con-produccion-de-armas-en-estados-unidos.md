@@ -10,12 +10,11 @@ date:     2014-07-15 18:09:00 -0500
 grid_img:    "historias/relacion-de-homicidios-en-frontera/relacion-de-homicidios-en-frontera_grid.jpg"
 featured_img: "historias/relacion-de-homicidios-en-frontera/relacion-de-homicidios-en-frontera_featured.jpg"
 datasets:
+  - infraestructura-carretera
+external_datasets:
   -
     title: "Defunciones Generales"
     url: http://www.sinais.salud.gob.mx/basesdedatos/std_defunciones.html
-  -
-    title: "Infraestructura Carretera"
-    url: http://busca.datos.gob.mx/#/conjuntos/infraestructura-carretera
 collaborators:
   - data4
 

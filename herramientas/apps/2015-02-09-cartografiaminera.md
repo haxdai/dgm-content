@@ -12,13 +12,12 @@ screenshots:
 
 links:
   web: http://www.cartografia.economia.gob.mx/cartografia/
-datasets:
+external_datasets:
   -
     title: "siam.economia.gob.mx"
     url: http://www.siam.economia.gob.mx/work/models/siam/Resource/Avisos/opendata.csv
 
 author: Secretaría de Economía | Dirección General de Regulación Minera
-
 permalink: "/herramientas/web/cartografiaminera.html"
 section: herramientas
 sub_section: herramientas

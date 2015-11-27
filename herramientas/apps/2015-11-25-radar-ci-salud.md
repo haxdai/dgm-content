@@ -16,12 +16,9 @@ links:
   playStore: https://play.google.com/store/apps/details?id=com.dgis.radarcisalud&hl=es
 
 datasets:
-  -
-    title: "Recursos en Salud "
-    url: http://busca.datos.gob.mx/#/conjuntos/recursos-en-salud
+  - recursos-en-salud
 
 author: Secretaría de Salud
-
 permalink: "/herramientas/movil/radarcisalud.html"
 section: herramientas
 sub_section: apps

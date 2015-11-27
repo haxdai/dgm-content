@@ -14,7 +14,7 @@ screenshots:
 links:
   web: http://www.transparenciapresupuestaria.gob.mx/es/PTP/Obra_Publica_Abierta
 
-datasets:
+external_datasets:
  -
     title: "Programas y Proyectos de inversión incluidos en el Presupuesto de Egresos de la Federación 2015"
     url:  http://transparenciapresupuestaria.gob.mx/work/models/PTP/OPA/2015/Proyectos_OPA.csv
@@ -26,7 +26,6 @@ datasets:
     url:  http://transparenciapresupuestaria.gob.mx/work/models/PTP/OPA/Proyectos_Pidiregas.csv
 
 author: Secretaría de Hacienda y Crédito Público
-
 permalink: "/herramientas/web/obraabierta.html"
 section: herramientas
 sub_section: herramientas

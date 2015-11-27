@@ -9,9 +9,7 @@ grid_img: "herramientas/regionalizacion_grid.jpg"
 featured_img: "herramientas/regionalizacion_featured.jpg"
 iframe_src: "http://gaia.inegi.org.mx/mdm6sur/"
 datasets:
-  -
-    title: "Regionalización Funcional de México"
-    url: http://busca.datos.gob.mx/#/conjuntos/regionalizacion-funcional-de-mexico
+  - regionalizacion-funcional-de-mexico
 permalink: /herramientas/regionalizacion-funcional.html
 section: herramientas
 sub_section: herramientas

@@ -14,7 +14,7 @@ screenshots:
 links:
   web: http://www.transparenciapresupuestaria.gob.mx/es/PTP/EntidadesFederativas
 
-datasets:
+external_datasets:
 -
     title: "Proyectos de inversión en Entidades Federativas y municipios"
     url:  http://transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Entidades_Federativas/1_Trimestre.xlsx

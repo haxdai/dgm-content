@@ -16,15 +16,10 @@ links:
   playStore: https://play.google.com/store/apps/details?id=gim.pack&hl=es_419
   web: http://mapasims.sgm.gob.mx/GeoInfoMexDB/
 
-
 datasets:
-  -
-    title:  Empresas productoras de minerales metálicos y no metálicos
-    url:   http://busca.datos.gob.mx/#/conjuntos/directorio-de-empresas-productoras-de-metalicos-y-no-metalicos-embajadas-instituciones-superior
-
+  - directorio-de-empresas-productoras-de-metalicos-y-no-metalicos-embajadas-instituciones-superior
 
 author: Servicio Geológico Mexicano
-
 permalink: "/herramientas/movil/geoinfomx.html"
 section: herramientas
 sub_section: apps

@@ -16,7 +16,7 @@ screenshots:
 links:
   web: http://aga.sct.gob.mx
 
-datasets:
+external_datasets:
   -
     title:  Alianza de Gobierno Abierto
     url:   https://www.datossct.gob.mx/dataset/BD-AGA-Alianza-de-Gobierno-Abierto/923j-z7wv

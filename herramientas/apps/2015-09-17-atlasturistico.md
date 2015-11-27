@@ -15,18 +15,11 @@ links:
   web: http://atlasturistico.sectur.gob.mx/AtlasTuristico/bienvenido.do
 
 datasets:
-  -
-    title:  Infraestructura aeroportuaria
-    url:   http://busca.datos.gob.mx/#/conjuntos/infraestructura-aeroportuaria
-  -
-    title:  Infraestructura marítima
-    url:   http://busca.datos.gob.mx/#/conjuntos/infraestructura-maritima
-  -
-    title:  Directorio Estadístico Nacional de Unidades Económicas (DENUE)
-    url:   http://busca.datos.gob.mx/#/conjuntos/directorio-estadistico-nacional-de-unidades-economicas-denue-por-actividad-economica
+  - infraestructura-aeroportuaria
+  - infraestructura-maritima
+  - directorio-estadistico-nacional-de-unidades-economicas-denue-por-actividad-economica
 
 author: Secretaría de Turismo
-
 permalink: "/herramientas/web/atlasturistico.html"
 section: herramientas
 sub_section: herramientas

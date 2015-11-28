@@ -10,9 +10,7 @@ date: 2015-06-08 18:00:00 -0500
 grid_img: "historias/avisos-de-ciclones-tropicales/avisos-de-ciclones-tropicales_grid.jpg"
 featured_img: "historias/avisos-de-ciclones-tropicales/avisos-de-ciclones-tropicales_featured.jpg"
 datasets:
-  -
-    title: "Avisos de ciclón tropical"
-    url: http://busca.datos.gob.mx/#/conjuntos/avisos-de-ciclon-tropical
+  - avisos-de-ciclon-tropical
 permalink: /impacto/historias/avisos-de-ciclones-tropicales.html
 section: impacto
 sub_section: casos-de-uso

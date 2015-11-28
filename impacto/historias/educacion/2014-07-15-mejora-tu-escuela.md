@@ -9,9 +9,8 @@ date:     2014-07-15
 grid_img:    "historias/mejora-tu-escuela/mejoratuescuela_grid.jpg"
 featured_img: "historias/mejora-tu-escuela/mejoratuescuela_featured.jpg"
 datasets:
-  -
-    title: "Catálogo de Centros de Trabajo"
-    url: http://busca.datos.gob.mx/#/conjuntos/catalogo-de-centros-de-trabajo
+  - catalogo-de-centros-de-trabajo
+external_datasets:
   -
     title: "Base de datos ENLACE, SEP, primaria, secundaria, bachillerato"
     url: http://www.enlace.sep.gob.mx/

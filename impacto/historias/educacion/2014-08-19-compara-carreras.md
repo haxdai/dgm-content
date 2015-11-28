@@ -8,7 +8,7 @@ author:   "IMCO"
 date:     2014-06-19
 grid_img:    "historias/compara-carreras/compara-carreras_grid.jpg"
 featured_img: "historias/compara-carreras/compara-carreras_featured.jpg"
-datasets:
+external_datasets:
   -
     title: "Encuesta Nacional de Ocupación y Empleo (ENOE) del INEGI"
     url: http://www.inegi.org.mx/est/contenidos/Proyectos/encuestas/hogares/regulares/enoe/

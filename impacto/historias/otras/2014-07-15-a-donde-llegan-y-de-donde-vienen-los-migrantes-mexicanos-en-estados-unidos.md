@@ -10,24 +10,12 @@ date:     2014-07-15 12:09:00 -0500
 grid_img:    "historias/migrantes-mexicanos/migrantes-mexicanos_grid.jpg"
 featured_img: "historias/migrantes-mexicanos/migrantes-mexicanos_featured.jpg"
 datasets:
-  -
-    title: "Infraestructura Carretera"
-    url: http://busca.datos.gob.mx/#/conjuntos/infraestructura-carretera
-  -
-    title: "Indicadores de pobreza, pobreza por ingresos, rezago social y gini 2010"
-    url: http://busca.datos.gob.mx/#/conjuntos/indicadores-de-pobreza-pobreza-por-ingresos-rezago-social-y-gini-2010-municipal
-  -
-    title: "Índice de Rezago Social,2000,2005 y 2010"
-    url: http://busca.datos.gob.mx/#/conjuntos/indice-de-rezago-social20002005-y-2010-nacionalestatalmunicipal-y-localidad
-  -
-    title: "Programa de Desarrollo Humano Oportunidades"
-    url: http://busca.datos.gob.mx/#/conjuntos/programa-de-desarrollo-humano-oportunidades
-  -
-    title: "Programa de Apoyo Alimentario"
-    url: http://busca.datos.gob.mx/#/conjuntos/programa-de-apoyo-alimentario
-  -
-    title: "Proyecciones de la población de México"
-    url: http://busca.datos.gob.mx/#/conjuntos/proyecciones-de-la-poblacion-de-mexico
+  - infraestructura-carretera
+  - indicadores-de-pobreza-pobreza-por-ingresos-rezago-social-y-gini-2010-municipal
+  - indice-de-rezago-social20002005-y-2010-nacionalestatalmunicipal-y-localidad
+  - programa-de-desarrollo-humano-oportunidades
+  - programa-de-apoyo-alimentario
+  - proyecciones-de-la-poblacion-de-mexico
 collaborators:
   - data4
 

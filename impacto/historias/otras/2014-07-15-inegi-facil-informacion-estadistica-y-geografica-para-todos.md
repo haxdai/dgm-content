@@ -10,24 +10,17 @@ date:     2014-07-15 12:09:00 -0500
 grid_img:    "historias/inegi-facil/inegi-facil_grid.jpg"
 featured_img: "historias/inegi-facil/inegi-facil_featured.jpg"
 datasets:
+  - imagen-satelital-de-nubosidad
+  - infraestructura-carretera
+  - proyecciones-de-la-poblacion-de-mexico
+  - recursos-en-salud
+external_datasets:
   -
     title: "INEGI, Información Estadística"
     url: http://www.inegi.org.mx/inegi/contenidos/serviciosweb/infoestadistica.aspx
   -
     title: "INEGI, Información Geográfica"
     url: http://www.inegi.org.mx/inegi/contenidos/serviciosWEB/infogeografica.aspx
-  -
-    title: "Imagen satelital de nubosidad"
-    url: http://busca.datos.gob.mx/#/conjuntos/imagen-satelital-de-nubosidad
-  -
-    title: "Infraestructura Carretera"
-    url: http://busca.datos.gob.mx/#/conjuntos/infraestructura-carretera
-  -
-    title: "Proyecciones de la población de México"
-    url: http://busca.datos.gob.mx/#/conjuntos/proyecciones-de-la-poblacion-de-mexico
-  -
-    title: "Recursos en salud"
-    url: http://busca.datos.gob.mx/#/conjuntos/recursos-en-salud
 collaborators:
   - inegi_facil
 

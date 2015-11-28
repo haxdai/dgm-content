@@ -8,7 +8,7 @@ author:   Presidencia
 date:     2015-09-02 12:09:00 -0500
 grid_img:    "historias/tercer-informe/tercer-informe_grid.jpg"
 featured_img: "historias/tercer-informe/tercer-informe_featured.jpg"
-datasets:
+external_datasets:
   -
     title: "Informe Estadistico del Tercer Informe de Gobierno 2015"
     url: http://busca.datos.gob.mx/#/grupos/tercer-informe-de-gobierno

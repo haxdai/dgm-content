@@ -17,9 +17,7 @@ tags:
   - Hospitales
   - Clínicas
 datasets:
-  -
-    title: "Recursos en Salud"
-    url: http://busca.datos.gob.mx/#/conjuntos/recursos-en-salud
+  - recursos-en-salud
 ---
 
 RadarCiSalud es una aplicación de la Secretaría de Salud que permite consultar, de manera fácil y abierta, información de más de 28 mil establecimientos de salud, públicos, privados y sociales a nivel nacional.

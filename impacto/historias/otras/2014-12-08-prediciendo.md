@@ -9,9 +9,8 @@ date:     2014-12-08 13:09:00 -0500
 grid_img:    "historias/prediciendo/prediciendo_grid.jpg"
 featured_img: "historias/prediciendo/prediciendo_featured.jpg"
 datasets:
-  -
-    title: "Catálogo de Centros de Trabajo"
-    url: http://busca.datos.gob.mx/#/conjuntos/catalogo-de-centros-de-trabajo
+  - catalogo-de-centros-de-trabajo
+external_datasets:
   -
     title: "Base de datos Zapopan-Datatón"
     url: https://www.dropbox.com/sh/oirgysjvjfz33fo/AABiuHu3-ohe8nPm-jZFqQn4a

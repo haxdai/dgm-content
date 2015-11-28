@@ -9,12 +9,8 @@ date:     2014-07-15 18:09:00 -0500
 grid_img:    "historias/enorgulleciendo-a-nuestras-madres/enorgulleciendo-a-nuestras-madres_grid.jpg"
 featured_img: "historias/enorgulleciendo-a-nuestras-madres/enorgulleciendo-a-nuestras-madres_featured.jpg"
 datasets:
-  -
-    title: "Mortalidad Materna"
-    url: http://busca.datos.gob.mx/#/conjuntos/mortalidad-materna
-  -
-    title: "Recursos en salud"
-    url: http://busca.datos.gob.mx/#/conjuntos/recursos-en-salud
+  - mortalidad-materna
+  - recursos-en-salud
 permalink: /impacto/historias/reduciendo-mortalidad-materna.html
 section: impacto
 sub_section: casos-de-uso

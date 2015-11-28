@@ -13,8 +13,8 @@ datasets:
   - infraestructura-carretera
 external_datasets:
   -
-  title: "Recursos Ramo 23"
-  url: "http://www.hacienda.gob.mx/maps/mapas/csv/RAMO_23_general.csv"
+    title: "Recursos Ramo 23"
+    url: "http://www.hacienda.gob.mx/maps/mapas/csv/RAMO_23_general.csv"
 
 permalink: /impacto/historias/ramo-23.html
 section: impacto

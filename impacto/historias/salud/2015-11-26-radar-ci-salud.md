@@ -5,8 +5,8 @@ featured: true
 title:  "RadarCiSalud: Unidades médicas georeferenciadas en una app"
 author: "Coordinación de Estrategia Digital Nacional"
 date: 2015-11-26 12:48:00 -0600
-grid_img: "historias/radar-ci-salud/radar-ci-salud_grid.png"
-featured_img: "historias/radar-ci-salud/radar-ci-salud_featured.png"
+grid_img: "historias/radar-ci-salud/radar-ci-salud_grid.jpg"
+featured_img: "historias/radar-ci-salud/radar-ci-salud_featured.jpg"
 permalink: /impacto/casos-de-uso/radar-ci-salud.html
 section: impacto
 sub_section: casos-de-uso

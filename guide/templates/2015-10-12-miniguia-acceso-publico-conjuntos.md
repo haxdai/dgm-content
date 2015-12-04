@@ -20,10 +20,8 @@ Para iniciar, es indispensable que el *Administrador de Datos* tenga los archivo
 
 #### Estrategia de apoyo y acompañamiento
 
-<div class="video" style="padding-top: 0px;">
-  <p>
-    <iframe id="about-video" src="https://docs.google.com/presentation/embed?id=1uZHto5LDKIjS2LDBYeb9xIiJQ14kGzr4ndCmx7V2zow&amp;start=false&amp;loop=false"></iframe>
-  </p>
+<div class="video">
+    <iframe src="https://docs.google.com/presentation/embed?id=1uZHto5LDKIjS2LDBYeb9xIiJQ14kGzr4ndCmx7V2zow&amp;start=false&amp;loop=false"></iframe>
 </div>
 
 <table>

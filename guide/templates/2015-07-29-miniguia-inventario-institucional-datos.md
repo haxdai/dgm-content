@@ -20,27 +20,20 @@ Se estima un plazo promedio para su elaboración de **10 días hábiles**.
 
 #### Parte 1: Introducción al Inventario Institucional de Datos
 
-<div class="video" style="padding-top: 0px;">
-  <p>
-    <iframe id="about-video" src="//www.youtube.com/embed/deAT290DhG8?rel=0&amp;showinfo=0"></iframe>
-  </p>
+<div class="video">
+    <iframe src="//www.youtube.com/embed/deAT290DhG8?rel=0&amp;showinfo=0"></iframe>
 </div>
 
 #### Parte 2: Ejemplo de Desarrollo del Inventario Institucional de Datos
 
-<div class="video" style="padding-top: 0px;">
-  <p>
-https://youtu.be/
-    <iframe id="about-video" src="//www.youtube.com/embed/WaoUR_svV8s?rel=0&amp;showinfo=0"></iframe>
-  </p>
+<div class="video">
+    <iframe src="//www.youtube.com/embed/WaoUR_svV8s?rel=0&amp;showinfo=0"></iframe>
 </div>
 
 #### Estrategia de apoyo y acompañamiento
 
-<div class="video" style="padding-top: 0px;">
-  <p>
-    <iframe id="about-video" src="https://docs.google.com/presentation/embed?id=19wZKJAvg32CN-YdLLA-BkBv_sbzKuJAK__CJpkicE9s&amp;start=false&amp;loop=false"></iframe>
-  </p>
+<div class="video">
+    <iframe src="https://docs.google.com/presentation/embed?id=19wZKJAvg32CN-YdLLA-BkBv_sbzKuJAK__CJpkicE9s&amp;start=false&amp;loop=false"></iframe>
 </div>
 
 

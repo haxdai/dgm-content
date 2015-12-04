@@ -23,28 +23,20 @@ Para ingresar a [ADELA](http://adela.datos.gob.mx), las contraseñas serán envi
 
 #### Generar el Plan de Apertura Institucional
 
-<div class="video" style="padding-top: 0px;">
-  <p>
-https://youtu.be/
-    <iframe id="about-video" src="//www.youtube.com/embed/sx8KrqYZrMU?rel=0&amp;showinfo=0"></iframe>
-  </p>
+<div class="video">
+    <iframe src="//www.youtube.com/embed/sx8KrqYZrMU?rel=0&amp;showinfo=0"></iframe>
 </div>
 
 #### Webinario sobre Plan de Apertura Institucional
 
-<div class="video" style="padding-top: 0px;">
-  <p>
-https://youtu.be/
-    <iframe id="about-video" src="//www.youtube.com/embed/4tSBxjkVwbg?rel=0&amp;showinfo=0"></iframe>
-  </p>
+<div class="video">
+    <iframe src="//www.youtube.com/embed/4tSBxjkVwbg?rel=0&amp;showinfo=0"></iframe>
 </div>
 
 #### Estrategia de apoyo y acompañamiento
 
-<div class="video" style="padding-top: 0px;">
-  <p>
-    <iframe id="about-video" src="https://docs.google.com/presentation/embed?id=1YJi9oAIfWd09z6OhkCFWAz0ul4aQSJiyhL3AUkPwFeE&amp;start=false&amp;loop=false"></iframe>
-  </p>
+<div class="video">
+    <iframe src="https://docs.google.com/presentation/embed?id=1YJi9oAIfWd09z6OhkCFWAz0ul4aQSJiyhL3AUkPwFeE&amp;start=false&amp;loop=false"></iframe>
 </div>
 
 <table>

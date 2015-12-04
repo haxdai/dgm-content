@@ -4,8 +4,8 @@ layout: app
 featured: true
 title: RadarCiSalud
 date: 2015-11-25
-grid_img: apps/radarcisalud/image_grid.png
-featured_img: apps/radarcisalud/image_featured.png
+grid_img: apps/radarcisalud/radarcisalud_grid.jpg
+featured_img: apps/radarcisalud/radarcisalud_featured.jpg
 screenshots:
   - apps/radarcisalud/image1.png
   - apps/radarcisalud/image2.png

@@ -16,6 +16,15 @@ Estas recomendaciones, tienen como propósito que la Institución realice un pla
 
 Para iniciar, es útil tener disponible el  *Plan de Apertura* de la Institución, para consultar las próximas fechas de publicación o actualización de los *Conjuntos de Datos* de la Institución. En este proceso es muy importante contar con la participación del *Enlace de Comunicación Digital* y en su caso, representantes de las *Áreas Generadoras*.
 
+#### Estrategia de apoyo y acompañamiento
+
+<div class="video">
+  <p>
+    <iframe src="https://docs.google.com/presentation/embed?id=1cNCfuJZsArjeTWuGGQaARUBDS0ry6eiwqJ0f8XgGDOk&amp;start=false&amp;loop=false"></iframe>
+  </p>
+</div>
+
+
 <table>
     <thead>
         <tr>

@@ -5,8 +5,8 @@ featured: true
 title: "Herramienta de Datos para el Cambio Climático"
 date: 2015-12-07 06:00:00 -0600
 author: Coordinación de Estrategia Digital Nacional
-grid_img: "herramientas/ods_grid.jpg"
-featured_img: "herramientas/ods_featured.jpg"
+grid_img: "herramientas/cambioclimatico_grid.jpg"
+featured_img: "herramientas/cambioclimatico_featured.jpg"
 permalink: "http://cambioclimatico.datos.gob.mx"
 section: herramientas
 sub_section: herramientas

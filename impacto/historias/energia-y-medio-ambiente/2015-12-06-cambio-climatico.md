@@ -6,8 +6,8 @@ title: 'México presenta Plataforma de Datos Abiertos para el Cambio Climático 
 excerpt: "Durante la COP21 los países miembro de la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC) trabajan para la adopción de un nuevo acuerdo para la reducción de las emisiones globales de gases de efecto invernadero (GEI) para prevenir el aumento de 2 grados centígrados en la temperatura del planeta."
 date:     2015-12-07 06:00:00 -0600
 author: "Coordinación de Estrategia Digital Nacional"
-grid_img:    "historias/ods/ods_grid.jpg"
-featured_img: "historias/ods/ods_featured.jpg"
+grid_img:    "historias/cambioclimatico/cambioclimatico_grid.jpg"
+featured_img: "historias/cambioclimatico/cambioclimatico_featured.jpg"
 permalink: "/impacto/casos-de-uso/cambio-climatico.html"
 section:  impacto
 sub_section: casos-de-uso

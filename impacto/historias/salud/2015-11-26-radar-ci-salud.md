@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-featured: true
+featured: false
 title:  "RadarCiSalud: Unidades médicas georeferenciadas en una app"
 author: "Coordinación de Estrategia Digital Nacional"
 date: 2015-11-26 12:48:00 -0600

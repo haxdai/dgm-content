@@ -1,7 +1,7 @@
 ---
 published: true
 layout: app
-featured: true
+featured: false
 title: RadarCiSalud
 date: 2015-11-25
 grid_img: apps/radarcisalud/radarcisalud_grid.jpg

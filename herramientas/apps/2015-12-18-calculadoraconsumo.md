@@ -3,7 +3,7 @@ published: true
 layout: app
 featured: false
 title: Cálculo consumo hogar
-date: 2015-12-18
+date: 2015-11-24
 grid_img: apps/calculadoraconsumo/calculadoraconsumo_grid.png
 featured_img: apps/calculadoraconsumo/calculadoraconsumo_grid.png
 screenshots:

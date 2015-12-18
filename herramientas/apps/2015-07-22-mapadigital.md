@@ -16,6 +16,8 @@ links:
   web: http://www.inegi.org.mx/geo/contenidos/mapadigital/
 
 datasets:
+  - directorio-estadistico-nacional-de-unidades-economicas-denue-por-entidad-federativa
+  - directorio-estadistico-nacional-de-unidades-economicas-denue-por-actividad-economica
 
 author: Instituto Nacional de Estadística y Geografía
 permalink: "/herramientas/web/mapadigital.html"

@@ -17,7 +17,7 @@ links:
   web: http://mapasims.sgm.gob.mx/GeoInfoMexDB/
 
 datasets:
-  - directorio-de-empresas-productoras-de-metalicos-y-no-metalicos-embajadas-instituciones-superior
+  - directorio-de-la-mineria-mexicana
 
 author: Servicio Geológico Mexicano
 permalink: "/herramientas/movil/geoinfomx.html"

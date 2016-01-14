@@ -19,10 +19,8 @@ links:
   playStore: https://play.google.com/store/apps/details?id=com.pemex.guiapemex&hl=es_419
   web: http://guiapemex.pemex.com/SitePages/home.aspx
 
-external_datasets:
-  -
-    title:  Guía Pemex
-    url: http://guiapemex.pemex.com
+datasets:
+  - estaciones-de-servicio-y-estaciones-de-autoconsumo-franquiciadas-por-petroleos-mexicanos
 
 author: Petróleos Mexicanos
 

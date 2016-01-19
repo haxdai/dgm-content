@@ -20,9 +20,9 @@ datasets:
 author: Secretaría de Energía
 permalink: "/herramientas/web/calculadora-de-consumo.html"
 section: herramientas
-sub_section: apps
+sub_section: herramientas
 category: salud
-category_title: web
+category_title: Salud
 tags:
   - Calculadora
   - Gas

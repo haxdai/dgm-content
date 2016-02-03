@@ -1,5 +1,6 @@
 ---
 published: true
+layout: guide-post
 
 title: Introducción
 date: 2015-07-06

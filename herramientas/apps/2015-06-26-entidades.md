@@ -25,7 +25,7 @@ author: Secretaría de Hacienda y Crédito Público
 permalink: "/herramientas/web/entidades.html"
 section: herramientas
 sub_section: herramientas
-category: economia
+category: geoespacial
 category_title: web
 tags:
   -

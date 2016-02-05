@@ -29,7 +29,7 @@ author: Secretaría de Hacienda y Crédito Público
 permalink: "/herramientas/web/obraabierta.html"
 section: herramientas
 sub_section: herramientas
-category: infraestructura
+category: geoespacial
 
 category_title: web
 tags:

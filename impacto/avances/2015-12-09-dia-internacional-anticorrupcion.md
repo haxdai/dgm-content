@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-featured: true
+featured: false
 title: 'Día Internacional contra la Corrupción'
 date: 2015-12-09
 author: "Coordinación de Estrategia Digital Nacional"

@@ -12,7 +12,7 @@ datasets:
   - programa-escuelas-al-cien
   - padron-unico-de-benficiarios
 
-permalink: /impacto/historias/mejora-tu-escuela.html
+permalink: /impacto/historias/escuelas-al-cien.html
 section: impacto
 sub_section: casos-de-uso
 category: educacion

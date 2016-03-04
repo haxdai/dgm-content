@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: true
+featured: false
 title:    "Sigue el desarrollo de las #EscuelasAlCIEN con Datos Abiertos"
 tagline:  "Sigue #EscuelasAlCIEN con Datos Abiertos"
 author:   "Coordinación de Estrategia Digital Nacional"

@@ -85,12 +85,14 @@ Estas respuestas nos ayudaron a identificar fortalezas, debilidades y propuestas
     </table>
 </div>
 
+
+
 ###Ideas y propuestas
 
 Recibimos buenas ideas sobre diseño y la forma en la que se presenta la información, con el sistema de búsqueda de conjuntos de datos y de cómo funciona el sitio en su versión móvil. Algunos usuarios señalaron que sería bueno abrir canales de comunicación, retroalimentación y verificación y otros comentaron sobre la estructura y metadatos de los conjuntos.
 
 <img src="{{ "/assets/img/impacto/historias/se-adapta-a-ti/se-adapta-a-ti_img01.jpg" | prepend: site.baseurl | prepend: site.url }}">
-*Aviso de Huracán de CONAGUA en Google a pocos minutos de iniciada la contingencia*
+*Clasificación de propuestas, ideas y problemas identificados en la encuesta de experiencia de uso.*
 
 ###Siguientes pasos
 

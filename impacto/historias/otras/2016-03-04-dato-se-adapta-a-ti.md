@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: true
+featured: false
 title:    "Datos.gob.mx se adapta a ti."
 tagline:  "Queremos mejorar la experiencia de uso de datos.gob.mx."
 author:   "Coordinación de Estrategia Digital Nacional"

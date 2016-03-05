@@ -18,6 +18,7 @@ tags:
 - premios
 - Carta Internacional de Datos Abiertos
 - ODC
+- Open Data Charter
 ---
 Con motivo del **Día de Datos Abiertos**, la **Coordinación Estrategia Digital Nacional (CEDN)**, la **Secretaría de Hacienda y Crédito Público, el CIDE y la Universidad de Harvard** anunciaan el lanzamiento del segundo volumen del [Atlas de Complejidad Económico](http://datos.gob.mx/complejidad), el cual incluye mejoras en la experiencia de uso, rankings de estados y ciudades por su complejidad económica y la posibilidad de ver detalladamente información de los destinos de exportación de cada producto en una ciudad o estado.
 

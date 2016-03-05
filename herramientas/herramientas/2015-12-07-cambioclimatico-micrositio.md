@@ -1,7 +1,7 @@
 ---
 published: true
 layout: app
-featured: true
+featured: false
 title: "Herramienta de Datos para el Cambio Climático"
 date: 2015-12-07 06:00:00 -0600
 author: Coordinación de Estrategia Digital Nacional
@@ -17,4 +17,4 @@ category_featured: true
 links:
   web: http://cambioclimatico.datos.gob.mx
 ---
-Esta plataforma de datos muestra los diferentes usos que se les pueden dar a los datos y expone el valor de combinar diversas fuentes de información y datos georeferenciados para ayudar a entender problemáticas complejas y promover la acción colectiva ante uno de los retos más importantes que enfrenta el planeta. 
+Esta plataforma de datos muestra los diferentes usos que se les pueden dar a los datos y expone el valor de combinar diversas fuentes de información y datos georeferenciados para ayudar a entender problemáticas complejas y promover la acción colectiva ante uno de los retos más importantes que enfrenta el planeta.

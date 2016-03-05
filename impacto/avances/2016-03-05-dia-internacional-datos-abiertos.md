@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: true
+featured: false
 title:    "Día Internacional de Datos Abiertos"
 author:   "Coordinación de Estrategia Digital Nacional"
 date:     2016-03-05 00:09:00 -0600

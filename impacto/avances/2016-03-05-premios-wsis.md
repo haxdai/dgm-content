@@ -32,6 +32,6 @@ Así es como puedes ayudar:
 * Regístrate y entra con tu usuario y contraseña
 * Accede a la categoria 18:  ‘International and Regional Cooperation’
 * Vota por la Carta Internacional de Datos Abiertos (International Open Data Charter)
-* No olvides votar en las otras 17 categorías, ya que si no lo haces en voto NO contará como efectivo.
+* No olvides votar en las otras 17 categorías, ya que si no lo haces el voto NO contará como efectivo.
 
 Vota ahora y ayuda a fortalecer los Datos Abiertos como una acción de transformación global de la sociedad de la información hacia el desarrollo sostenible.

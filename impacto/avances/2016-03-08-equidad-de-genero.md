@@ -2,7 +2,7 @@
 published: true
 layout:   post
 featured: true
-title:    "Datos Abiertos e equidad de género "
+title:    "Datos Abiertos e igualdad de género "
 author:   "Coordinación de Estrategia Digital Nacional"
 date:     2016-03-08 00:09:00 -0600
 grid_img:    "avances/equidad-de-genero/equidad-de-genero_grid.png"

@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: true
+featured: false
 title:    "Altas de Complejidad Económica: Volumen 2"
 author:   "Coordinación de Estrategia Digital Nacional"
 date:     2016-03-05 09:00:00 -0600

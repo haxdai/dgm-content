@@ -40,6 +40,6 @@ Hoy sabemos que contar con datos abiertos, accesibles, oportunos, e interoprable
 
 Los gobiernos, las empresas, organismos multilaterales y la sociedad civil deben garantizar que todos los datos públicos en materia de género, sean datos abiertos, comenzando por los indicadores que se definirán para los Objetivos de Desarrollo Sostenible, no solo para poder dar seguimiento al progreso de estos compromisos, sino también para contar con datos que nos lleven a implementar acciones mejor informadas.
 
-Por último, conectar a las niñas y mujeres que viven en los lugares con mayores brechas de acceso ayudará a que tengan educación de calidad, inclusión financiera y más oportunidades de empleo.  Empoderar a las niñas y las mujeres en todo el mundo es el efecto de bola de nieve que contribuirán a garantizar el acceso al bienestar de todos.
+Por último, conectar a las niñas y mujeres que viven en los lugares con mayores brechas de acceso ayudará a que tengan educación de calidad, inclusión financiera y más oportunidades de empleo.  Empoderar a las niñas y las mujeres en todo el mundo es el efecto de bola de nieve que contribuirá a garantizar el acceso al bienestar de todos.
 
 En el Día Internacional de la Mujer, resaltamos la importancia de contar con datos que nos permitan demostrar que invertir en mujeres y niñas es invertir en capital humano, con datos podemos enseñar cómo la equidad de género es el motor para fomentar una economía del futuro que sea sostenible e incluyente.

@@ -3,7 +3,7 @@ published: true
 layout:   post
 featured: true
 title:    "Datos Abiertos e igualdad de género "
-author:   "Coordinación de Estrategia Digital Nacional"
+author:   "Ania Calderón Mariscal"
 date:     2016-03-08 00:09:00 -0600
 grid_img:    "avances/equidad-de-genero/equidad-de-genero_grid.png"
 featured_img: "avances/equidad-de-genero/equidad-de-genero_featured.png"
@@ -38,8 +38,10 @@ De igual manera, trabajamos en el piloto Prospera Digital, para reducir la morta
 
 Hoy sabemos que contar con datos abiertos, accesibles, oportunos, e interoprables es esencial para que todos contribuyamos a lograr los Objetivos de Desarrollo Sostenible, entre los que está el lograr la igualdad entre los géneros y empoderar a todas las niñas y las mujeres. Para atender estos viejos problemas con nuevas y mejores herramientas, necesitamos una revolución de datos y esa revolución debe ser abierta.
 
-Los gobiernos, las empresas, organismos multilaterales y la sociedad civil deben garantizar que todos los datos públicos en materia de género, sean datos abiertos, comenzando por los indicadores que se definirán para los Objetivos de Desarrollo Sostenible, no solo para poder dar seguimiento al progreso de estos compromisos, sino también para contar con datos que nos lleven a implementar acciones mejor informadas.
+Los gobiernos, las empresas, los organismos multilaterales y la sociedad civil deben de promover que los datos públicos en materia de género, sean datos abiertos, comenzando por los indicadores que se definirán para los Objetivos de Desarrollo Sostenible, no solo para poder dar seguimiento al progreso de estos compromisos, sino también para contar con datos que nos lleven a implementar acciones mejor informadas.
 
 Por último, conectar a las niñas y mujeres que viven en los lugares con mayores brechas de acceso ayudará a que tengan educación de calidad, inclusión financiera y más oportunidades de empleo.  Empoderar a las niñas y las mujeres en todo el mundo es el efecto de bola de nieve que contribuirá a garantizar el acceso al bienestar de todos.
 
 En el Día Internacional de la Mujer, resaltamos la importancia de contar con datos que nos permitan demostrar que invertir en mujeres y niñas es invertir en capital humano, con datos podemos enseñar cómo la equidad de género es el motor para fomentar una economía del futuro que sea sostenible e incluyente.
+
+*Este texto forma parte de una entrevista realizada por la campaña #InMyWords que realiza el Ministerio de Asuntos Exteriores del Reino Unido en el marco del Día Internacional de la Mujer*

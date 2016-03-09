@@ -44,4 +44,4 @@ Por último, conectar a las niñas y mujeres que viven en los lugares con mayore
 
 En el Día Internacional de la Mujer, resaltamos la importancia de contar con datos que nos permitan demostrar que invertir en mujeres y niñas es invertir en capital humano, con datos podemos enseñar cómo la equidad de género es el motor para fomentar una economía del futuro que sea sostenible e incluyente.
 
-*Este texto forma parte de una entrevista realizada por la campaña #InMyWords que realiza el Ministerio de Asuntos Exteriores del Reino Unido en el marco del Día Internacional de la Mujer*
+*Este texto forma parte de una entrevista realizada por la campaña #InMyWords que realiza el Ministerio de Asuntos Exteriores del Reino Unido en el marco del Día Internacional de la Mujer.*

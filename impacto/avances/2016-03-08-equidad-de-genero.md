@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: true
+featured: false
 title:    "Datos Abiertos e igualdad de género "
 author:   "Ania Calderón Mariscal"
 date:     2016-03-08 00:09:00 -0600

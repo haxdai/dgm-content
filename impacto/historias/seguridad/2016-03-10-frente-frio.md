@@ -9,11 +9,11 @@ grid_img:    "avances/frente-frio/frente-frio_grid.png"
 featured_img: "avances/frente-frio/frente-frio_featured.png"
 datasets:
 external_datasets:
-permalink: /impacto/noticias/frente-frio.html
+permalink: /impacto/casos-de-uso/frente-frio.html
 section: impacto
-sub_section: noticias
-category: noticias
-category_title: Noticias
+sub_section: casos-de-uso
+category: seguridad-y-justicia
+category_title: Seguridad y justicia
 tags:
 - Frente frío
 ---

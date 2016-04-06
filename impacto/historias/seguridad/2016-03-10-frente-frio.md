@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: true
+featured: false
 title:    "Se activan Datos Abiertos de Frente Frío"
 author:   "Coordinación de Estrategia Digital Nacional"
 date:     2016-03-10 00:09:00 -0600

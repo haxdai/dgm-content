@@ -24,7 +24,7 @@ Tiempo después, la misma dirección colaboró con el **Instituto Municipal de P
 
 Los Datos Abiertos se apegaron a las recomendaciones de la [Guía](http://datos.gob.mx/guia/) de [datos.gob.mx](http://datos.gob.mx) para cumplir así con el [Decreto de Datos Abiertos](http://www.gob.mx/mexicodigital/documentos/decreto-de-datos-abiertos?idiom=es). Entre estas, destacan las que se refieren a que los datos se publiquen en formatos estandarizados, legibles, desagregados y reutilizables.
 
-## Se realizó el primer hackatón
+## Se realizó el primer hackatón
 
 De nada sirven los datos abiertos si no se usan; para ello es necesario difundirlos y que los miembros de la sociedad proponga soluciones constructivas que pueda beneficiar tanto a la institución como el resto de la sociedad.
 

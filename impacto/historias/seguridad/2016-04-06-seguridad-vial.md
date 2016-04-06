@@ -20,7 +20,7 @@ tags:
 
 Durante el año pasado, la Dirección de Tránsito y Vialidad del Municipio de Torreón modernizó la forma de llevar su registro de eventos sobre seguridad vial. Esto se logró al cambiar del formato físico a uno digital. Concretamente la dirección pasó de usar hojas de papel a a hojas de cálculo digitales.  Con este cambio lograron capturar mejor la información y reducir el tiempo para elaborar los reportes.
 
-Tiempo después, la misma dirección colaboró con el *Instituto Municipal de Planeación (IMPLAN)* de Torreón, la *Dirección General de Desarrollo Institucional* y la *Dirección de Informática* para ejecutar los procedimientos de apertura recomendados por la *Red México Abierto* y lograr la primera liberación de Datos Abiertos, en este caso sobre seguridad vial.
+Tiempo después, la misma dirección colaboró con el **Instituto Municipal de Planeación (IMPLAN)** de Torreón, la **Dirección General de Desarrollo Institucional** y la **Dirección de Informática** para ejecutar los procedimientos de apertura recomendados por la **Red México Abierto** y lograr la primera liberación de Datos Abiertos, en este caso sobre seguridad vial.
 
 Los Datos Abiertos se apegaron a las recomendaciones de la [Guía](http://datos.gob.mx/guia/) de [datos.gob.mx](http://datos.gob.mx) para cumplir así con el [Decreto de Datos Abiertos](http://www.gob.mx/mexicodigital/documentos/decreto-de-datos-abiertos?idiom=es). Entre estas, destacan las que se refieren a que los datos se publiquen en formatos estandarizados, legibles, desagregados y reutilizables.
 
@@ -28,7 +28,7 @@ Los Datos Abiertos se apegaron a las recomendaciones de la [Guía](http://datos.
 
 De nada sirven los datos abiertos si no se usan; para ello es necesario difundirlos y que los miembros de la sociedad proponga soluciones constructivas que pueda beneficiar tanto a la institución como el resto de la sociedad.
 
-El pasado febrero de 2016, integrantes del *Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)* y otros invitados realizaron el primer hackatón de Torreón. Este es un evento comunitario donde aprendimos a utilizar los datos sobre seguridad vial, analizarlos en hojas de cálculo y encontrar diversos patrones y hechos que pueden guiar a la sociedad y a la institución basándonos en evidencia.
+El pasado febrero de 2016, integrantes del **Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)** y otros invitados realizaron el primer hackatón de Torreón. Este es un evento comunitario donde aprendimos a utilizar los datos sobre seguridad vial, analizarlos en hojas de cálculo y encontrar diversos patrones y hechos que pueden guiar a la sociedad y a la institución basándonos en evidencia.
 
 El hackatón es una gran oportunidad para que servidores públicos, no sólo compartan información con los ciudadanos, sino también trabajar juntos, codo con codo, para compartir conocimientos e incrementar la confianza mutua platicando, trabajando y conviviendo en la misma mesa.
 

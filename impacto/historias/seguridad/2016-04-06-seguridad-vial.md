@@ -12,8 +12,8 @@ external_datasets:
 permalink: /impacto/casos-de-uso/seguridad-vial.html
 section: impacto
 sub_section: casos-de-uso
-category: seguridad-y-justicia
-category_title: Seguridad y justicia
+category: gobiernos-locales
+category_title: Gobiernos Locales
 tags:
 ---
 ## Modernización del tránsito y vialidad en Torreón

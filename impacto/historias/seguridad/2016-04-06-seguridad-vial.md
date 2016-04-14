@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: true
+featured: false
 title:    "Datos Abiertos para prevenir accidente viales: Torreón"
 author:   "Ing. Guillermo Valdés Lozano, IMPLAN Torreón"
 date:     2016-04-06 12:00:00 -0500

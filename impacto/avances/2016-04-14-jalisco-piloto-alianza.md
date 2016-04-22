@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: true
+featured: false
 title:    "Jalisco: Seleccionado para Piloto Subnacional de la Alianza para el Gobierno Abierto"
 author:   "Coordinación de Estrategia Digital Nacional"
 date:     2016-04-14 14:00:00 -0500

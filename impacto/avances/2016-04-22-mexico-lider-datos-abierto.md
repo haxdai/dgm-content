@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: true
+featured: false
 title:    "México líder en Datos Abiertos en la región"
 author:   "Coordinación de Estrategia Digital Nacional"
 date:     2016-04-22 10:00:00 -0500

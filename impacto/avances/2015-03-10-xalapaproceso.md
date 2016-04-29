@@ -58,13 +58,13 @@ De acuerdo a nuestra experiencia dentro de la Red México Abierto enlistamos los
 **Alianzas:** La búsqueda e integración de alianzas, nos ayudó a la obtención de más información y datos, asesoría y apoyo técnico. Lo cual se tradujo en una mayor penetración de la iniciativa de Datos Abiertos en la agenda a nivel local.
 
 
-####Áreas de oportunidad
+#### Áreas de oportunidad
 
 **Capacitación para el aprovechamiento:** Debido a la novedad del tema, los participantes del Hackatón, no contaban aún con la experiencia, ni ciertas habilidades necesarias para el mejor aprovechamiento y reutilización de los datos. Por esto considero que a la par de próximas aperturas se deben de impartir cursos y talleres proporcionen de herramientas, estrategias y mejores prácticas para la reutilización de los Datos Abiertos para el personal de gobierno y sobretodo ciudadanos en general.
 
 **Calidad vs. Oportunidad:** Nos estamos dando a la tarea de mejorar la calidad de la información publicada y de realizar análisis previos a la publicación de los mismos. Ya que de los 8 conjuntos de datos liberados para el Hackatón, detectamos posteriormente, que dos de estos conjuntos, no contaban con la información completa.
 
-####¿Qué sigue para Xalapa en Datos Abiertos?
+#### ¿Qué sigue para Xalapa en Datos Abiertos?
 
 **Escuadrón de Datos Municipales:** Acabamos de crear nuestro Escuadrón de Datos, el cual se encargará de generar lineamientos, detección de datos, estandarización y publicación de los mismos.
 

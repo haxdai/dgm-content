@@ -33,11 +33,11 @@ Como resultado de un esfuerzo por parte de la Coordinación de Estrategia Digita
   <iframe src="//www.youtube.com/embed/tuHpInsVNsU?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-####Creando, innovando, emprendiendo
+#### Creando, innovando, emprendiendo
 
 Fueron 244 el total de equipos registrados, y siete las líneas de investigación sugeridas: predicción y análisis de crimen, diseño de rutas de patrullaje de policía y tránsito, ubicación posible de cámaras de seguridad, predicción de la demanda de servicios urbanos, diseño de métodos para calcular la afluencia de eventos, encontrar la procedencia de turistas, y predecir la demanda de servicios de salud.
 
-#####Etapas
+##### Etapas
 
 El concurso se dividió en etapas:
 
@@ -45,7 +45,7 @@ El concurso se dividió en etapas:
 * Entrega de los resúmenes ejecutivos y selección de los equipos finalistas. (Del 17 al 26 de junio)
 * Presentación final en el Campus Party, Zapopan. (28 de junio)
 
-#####Finalistas
+##### Finalistas
 
 Doce equipos pasaron a la etapa final, conformados por alumnos de universidades como ITAM, UNAM, Universidad Autónoma de Nuevo León, Universidad Autónoma del Estado de México, entre otras. Los temas más populares a abordar fueron los análisis espaciales del crimen y turismo.
 
@@ -53,6 +53,6 @@ Los equipos finalistas fueron AGGAME, APPDATA, Científicos Pumas, DAGOTEAM, DAT
 
 El ganador fue determinado por un jurado diseñado de manera plural, para poder integrar voces tanto del sector público como el privado. Dentro de los jueces se encontró un representante del Municipio de Zapopan y el Rector de la zona occidente del Tecnológico de Monterrey.
 
-#####Ganador
+##### Ganador
 
 El equipo triunfador fue MSCGM, que realizó un algoritmo de predicción de delitos y análisis en tiempo real de Twitter y Google del municipio de Zapopan. Como objetivo, el equipo se planteó estimar y predecir la distribución de delincuencia, así como entender los factores sociales y espaciales que la generan.

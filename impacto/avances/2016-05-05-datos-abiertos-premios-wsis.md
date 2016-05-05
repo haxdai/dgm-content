@@ -1,19 +1,22 @@
 ---
 published: true
-layout: post
+layout:   post
 featured: true
-title: "Datos Abiertos en México en los premios WSIS"
-date: 2016-05-05 17:00:00 -0500
-author: "Coordinación de Estrategia Digital Nacional"
-grid_img: "noticias/datos-abiertos-premios-wsis/datos-abiertos-premios-wsis_grid.png"
+title:    "Datos Abierto en México en los premios WSIS"
+author:   "Coordinación de Estrategia Digital Nacional"
+date:     2016-05-05 18:00:00 -0500
+grid_img:    "noticias/datos-abiertos-premios-wsis/datos-abiertos-premios-wsis_grid.png"
 featured_img: "noticias/datos-abiertos-premios-wsis/datos-abiertos-premios-wsis_featured.png"
-permalink: "/impacto/noticias/datos-abiertos-premios-wsis.html"
+datasets:
+external_datasets:
+permalink: /impacto/noticias/datos-abiertos-premios-wsis.html
 section: impacto
 sub_section: noticias
 category: desarrollo-sostenible
 category_title: Desarrollo Sostenible
 tags:
 ---
+
 La Carta de Datos de Datos Abiertos y la Herramienta de Datos Abiertos para el Cambio Climático, desarrollados como parte de la Estrategia Digital Nacional, fueron reconocidos, este 4 de mayo, en los premios de la Cumbre Mundial de la Sociedad de la Información. En la categoría de Cooperación internacional y regional y Tecnología y Medio Ambiente respectivamente, los dos desarrollos liderados por México fueron destacados junto a varios proyectos de Tecnologías de la Información.
 
 Los premios de la **Cumbre Mundial de la Sociedad de la Información ([World Summit on the Information Society WSIS](http://www.itu.int/net/wsis/))** son un mecanismo global para evaluar y recompensar los esfuerzos hacia la promoción del uso de productos basados en las TICs, redes, servicios y aplicaciones y para ayudar a los países a superar la brecha digital.

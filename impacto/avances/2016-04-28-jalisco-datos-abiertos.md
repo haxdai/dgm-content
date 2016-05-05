@@ -15,9 +15,6 @@ category_title: Gobiernos Locales
 tags:
 ---
 
-**Datos Abiertos Jalisco, Primer Lugar en Premios U-GOB**
----------------------------------------------------------
-
 Los Datos Abiertos no solo suceden a nivel nacional. Son también los estados y municipios de la República los que cada vez y con más frecuencia se suman con iniciativas, infraestructuras y propuestas. En este contexto Jalisco lanzó un **[portal de Datos Abiertos](https://datos.jalisco.gob.mx/)** orientado a promover el desarrollo de los sectores de **educación, salud, economía y seguridad pública y social**. Además, este portal contribuye a la formación profesional de los jóvenes jaliscienses fomentando la colaboración con dependencias, organismos y municipios del Gobierno del Estado de Jalisco.
 
 El **[portal de Datos Abiertos](https://datos.jalisco.gob.mx/)** de Jalisco hace unos días obtuvo el Primer Lugar en la categoría de Datos Abiertos de los **[Premios U-Gob](http://www.u-gob.com/resultados-de-los-premios-al-gobierno-digital-u-gob-2015/)**. Esta es una premiación donde se otorga un reconocimiento a los mayores esfuerzos de **Gobierno Digital** a nivel nacional, con base en los esfuerzos para mejorar el desarrollo y realidad de los estados del país. El portal de Datos Abiertos es una Iniciativa  de la **Secretaría Planeación  Administración  y Finanzas** junto con el **Instituto de Información Estadística y Geográfica del Estado de Jalisco**, que realizaron las gestiones con la **Coordinación de Estrategia Digital Nacional (CEDN)** para conocer los lineamientos que se deben seguir para la publicación de las bases de datos y capas de información a través del portal **datos.gob.mx**

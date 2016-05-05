@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-featured: true
+featured: false
 title: 'Datos Abiertos Jalisco, Primer Lugar en Premios U-GOB'
 date: 2016-04-28 17:00:00 -0500
 author: "Red México Abierto"

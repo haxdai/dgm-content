@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: true
+featured: false
 title:    "Datos Abiertos en México en los premios WSIS"
 author:   "Coordinación de Estrategia Digital Nacional"
 date:     2016-05-05 18:00:00 -0500

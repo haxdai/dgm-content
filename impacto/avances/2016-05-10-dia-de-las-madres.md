@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: true
+featured: false
 title:    "Datos Abiertos el Día de las Madres"
 author:   "Coordinación de Estrategia Digital Nacional"
 date:     2016-05-10 18:00:00 -0500

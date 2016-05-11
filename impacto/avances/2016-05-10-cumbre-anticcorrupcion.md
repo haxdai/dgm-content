@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: false
+featured: true
 title:    "Cumbre Anticorrupción 2016"
 author:   "Coordinación de Estrategia Digital Nacional"
 date:     2016-05-10 18:00:00 -0500

@@ -4,7 +4,7 @@ layout:   post
 featured: true
 title:    "Cumbre Anticorrupción 2016"
 author:   "Coordinación de Estrategia Digital Nacional"
-date:     2016-05-10 18:00:00 -0500
+date:     2016-05-10 19:00:00 -0500
 grid_img:    "noticias/cumbre-anticorrupcion/cumbre-anticorrupcion_grid.jpg"
 featured_img: "noticias/cumbre-anticorrupcion/cumbre-anticorrupcion_featured.jpg"
 datasets:

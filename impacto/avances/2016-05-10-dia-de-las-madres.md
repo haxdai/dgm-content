@@ -16,9 +16,6 @@ category: salud
 category_title: Salud
 tags:
 ---
-**Datos Abiertos en el Día de las Madres**
-------------------------------------------
-
 En el marco del **Día de las Madres** es importante recordar que la mortalidad materna continúa siendo una prioridad a nivel mundial.  Entendiendo que no podemos cambiar lo que no podemos ver, se utilizaron **Datos Abiertos** para desarrollar un mejor entendimiento de la dinámica de mortalidad materna en nuestro país.  La publicación y uso de Datos Abiertos para generar conocimiento es sólo el primer paso para detonar un verdadero impacto en el desarrollo social. Para esto, es necesario transformar los hallazgos en intervenciones de política pública que permitan reducir, de manera efectiva y medible, la mortalidad materna en México.
 
 En consecuencia, y como parte de **Prospera Programa de Inclusión Social**, nació el proyecto **Prospera Digital**. Este programa busca lograr un impacto positivo en los factores relacionados con la calidad del embarazo y dar a las mujeres embarazadas una fuente confiable de información para cuidar su salud y la de sus bebés por medio de nuevas tecnologías que permite mejorar los beneficios del programa.

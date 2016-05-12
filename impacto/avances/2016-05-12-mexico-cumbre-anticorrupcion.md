@@ -5,8 +5,8 @@ featured: true
 title:    "México en la Cumbre Anticorrupción 2016: Datos Abiertos y Contrataciones Abiertas"
 author:   "Coordinación de Estrategia Digital Nacional"
 date:     2016-05-12 17:00:00 -0500
-grid_img:    "avances/mexico-cumbre-anticorrupcion/mexico-cumbre-anticorrupcion_grid.jpg"
-featured_img: "avances/mexico-cumbre-anticorrupcion/mexico-cumbre-anticorrupcion_featured.jpg"
+grid_img:    "avances/mexico-cumbre-anticorrupcion/mexico-cumbre-anticorrupcion_grid.png"
+featured_img: "avances/mexico-cumbre-anticorrupcion/mexico-cumbre-anticorrupcion_featured.png"
 datasets:
 external_datasets:
 permalink: /impacto/avances/mexico-cumbre-anticorrupcion.html

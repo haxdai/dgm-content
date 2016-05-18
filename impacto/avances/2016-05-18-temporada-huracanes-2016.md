@@ -26,7 +26,7 @@ Para extender los beneficios del uso de estas tecnologías a más mexicanos, tra
 
 **1. Avisos, notificaciones y alertas oportunas, en cualquier lugar y por múltiples canales**
 
- - Implementación del **CAP** con más instituciones que hoy emiten notificaciones sobre sobre los riesgos y emergencias de origen naturales y antropogénicas utilizando nuevas tecnologías.
+ - Implementación del **CAP** con más instituciones que hoy emiten notificaciones sobre riesgos y emergencias de origen natural y antropogénico utilizando nuevas tecnologías.
 
 **2. Datos Abiertos y mapeo de zonas vulnerables**
 

@@ -4,7 +4,7 @@ layout:   post
 featured: true
 title:    "¿Cómo nos preparamos con Datos Abiertos para las temporada de huracanes?"
 author:   "Coordinación de Estrategia Digital Nacional"
-date:     2016-05-18 17:00:00 -0500
+date:     2016-05-18 16:00:00 -0500
 grid_img:    "noticias/temporada-huracanes-2016/temporada-huracanes-2016_grid.png"
 featured_img: "noticias/temporada-huracanes-2016/temporada-huracanes-2016_featured.png"
 datasets:

@@ -5,8 +5,8 @@ featured: true
 title:    "¿Cómo nos preparamos con Datos Abiertos para las temporada de huracanes?"
 author:   "Coordinación de Estrategia Digital Nacional"
 date:     2016-05-18 17:00:00 -0500
-grid_img:    "avances/mexico-cumbre-anticorrupcion/mexico-cumbre-anticorrupcion_grid.png"
-featured_img: "avances/mexico-cumbre-anticorrupcion/mexico-cumbre-anticorrupcion_featured.png"
+grid_img:    "noticias/temporada-huracanes-2016/temporada-huracanes-2016_grid.png"
+featured_img: "noticias/temporada-huracanes-2016/temporada-huracanes-2016_featured.png"
 datasets:
 external_datasets:
 permalink: /impacto/noticias/temporada-huracanes-2016.html
@@ -19,7 +19,7 @@ tags:
 
 Los fenómenos naturales a veces representan un riesgo para la población, lo más difícil es estar preparados con el tiempo suficiente. En este inicio de la temporada de Huracanes tropicales, recordamos que el avance de las nuevas tecnologías y la continua publicación de  **Datos Abiertos** nos permiten estar más preparados para prevenir y mitigar daños causados por fenómenos naturales. Son estos avances en materia de tecnologías digitales lo que nos permite coordinar de manera mucho más efectiva, entre el gobierno y los diversos sectores de la sociedad, las acciones de ayuda humanitaria
 
-Durante el [Huracán Patricia](http://datos.gob.mx/impacto/casos-de-uso/huracan-patricia.html), en **datos.gob.mx** y liderado por la **Estrategia Digital Nacional  (CEDN)** , se publicaron Datos Abiertos, accesibles y en tiempo real sobre asentamientos humanos, ubicación de albergues, imágenes satelitales y zonas de alto riesgo, para que todos pudieran tomar acciones concretas para garantizar  la seguridad de los mexicanos durante la emergencia. A través de **OpenStreetMap** más de 500 voluntarios en todo el mundo lograron mapear más de 9,000 km de caminos y 80 mil edificaciones que fueron integrados al [Atlas Nacional de Riesgos](http://www.atlasnacionalderiesgos.gob.mx/) para informar, de manera oportuna, al **Comité Nacional de Emergencias** durante la crisis. 
+Durante el [Huracán Patricia](http://datos.gob.mx/impacto/casos-de-uso/huracan-patricia.html), en **datos.gob.mx** y liderado por la **Estrategia Digital Nacional  (CEDN)** , se publicaron Datos Abiertos, accesibles y en tiempo real sobre asentamientos humanos, ubicación de albergues, imágenes satelitales y zonas de alto riesgo, para que todos pudieran tomar acciones concretas para garantizar  la seguridad de los mexicanos durante la emergencia. A través de **OpenStreetMap** más de 500 voluntarios en todo el mundo lograron mapear más de 9,000 km de caminos y 80 mil edificaciones que fueron integrados al [Atlas Nacional de Riesgos](http://www.atlasnacionalderiesgos.gob.mx/) para informar, de manera oportuna, al **Comité Nacional de Emergencias** durante la crisis.
 
 Con el uso de estándares internacionales, como el **Protocolo Común de Alertamiento (CAP)**, se enviaron notificaciones directamente a dónde se encontraban las personas con más posibilidad de riesgo mediante dispositivos digitales. Gracias a plataformas como el [Mapa de Crisis de Google](https://google.org/crisismap/mexico?hl=es) logramos entender mejor las necesidades de las personas afectadas mientras que también proporcionamos información útil y oportuna directamente a las comunidades. Además la coordinación con la industria de telecomunicaciones permitió  que se pudieron enviar mensajes SMS gratuitos con información con recomendaciones a la población en las zonas afectadas.
 

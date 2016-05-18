@@ -16,7 +16,6 @@ category: seguridad-y-justicia
 category_title: Seguridad y Justicia
 tags:
 ---
-
 Los fenómenos naturales a veces representan un riesgo para la población, lo más difícil es estar preparados con el tiempo suficiente. En este inicio de la temporada de Huracanes tropicales, recordamos que el avance de las nuevas tecnologías y la continua publicación de  **Datos Abiertos** nos permiten estar más preparados para prevenir y mitigar daños causados por fenómenos naturales. Son estos avances en materia de tecnologías digitales lo que nos permite coordinar de manera mucho más efectiva, entre el gobierno y los diversos sectores de la sociedad, las acciones de ayuda humanitaria
 
 Durante el [Huracán Patricia](http://datos.gob.mx/impacto/casos-de-uso/huracan-patricia.html), en **datos.gob.mx** y liderado por la **Estrategia Digital Nacional  (CEDN)** , se publicaron Datos Abiertos, accesibles y en tiempo real sobre asentamientos humanos, ubicación de albergues, imágenes satelitales y zonas de alto riesgo, para que todos pudieran tomar acciones concretas para garantizar  la seguridad de los mexicanos durante la emergencia. A través de **OpenStreetMap** más de 500 voluntarios en todo el mundo lograron mapear más de 9,000 km de caminos y 80 mil edificaciones que fueron integrados al [Atlas Nacional de Riesgos](http://www.atlasnacionalderiesgos.gob.mx/) para informar, de manera oportuna, al **Comité Nacional de Emergencias** durante la crisis.

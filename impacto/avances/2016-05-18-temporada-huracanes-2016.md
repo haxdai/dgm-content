@@ -33,7 +33,7 @@ Para extender los beneficios del uso de estas tecnologías a más mexicanos, tra
  - Publicación de Datos Abiertos prioritarios a nivel nacional y subnacional utilizando estandares internacionales como el de **Taxonomía de la  Seguridad Humana**.
 
  - Realización de Simulacros de Mapeo en caso de sismo como el
-   realizado el pasado mes de septiembre en **[SimulacroMX](http://www.gob.mx/segob/acciones-y-programas/participa-en-simulacromx)**.
+   realizado el pasado mes de septiembre en **[SimulacroMX](http://datos.gob.mx/impacto/historias/tecnologia-humanitaria.html)**.
 
  - Participación en esfuerzos regionales para la generación de
    protocolos de mapeo humanitario e intercambio de experiencias.

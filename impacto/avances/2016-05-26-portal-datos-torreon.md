@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: true
+featured: false
 title: "El portal de Datos Abiertos de Torreón"
 author: "Javier Lechuga Jiménez, Contralor del Ayuntamiento de Torreón"
 date:  2016-05-27 13:00:00 -0500

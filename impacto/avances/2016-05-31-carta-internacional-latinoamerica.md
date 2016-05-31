@@ -5,8 +5,8 @@ featured: true
 title: "Carta Internacional de Datos Abiertos en América Latina"
 author: "Carta Internacional de Datos Abiertos"
 date:  2016-05-31 13:00:00 -0500
-grid_img:    "noticias/portal-datos-torreon/portal-datos-torreon_grid.jpg"
-featured_img: "noticias/portal-datos-torreon/portal-datos-torreon_featured.jpg"
+grid_img:    "noticias/carta-internacional-latinoamerica/carta-internacional-latinoamerica_grid.jpg"
+featured_img: "noticias/carta-internacional-latinoamerica/carta-internacional-latinoamerica_featured.jpg"
 datasets:
 external_datasets:
 permalink: /impacto/noticias/carta-internacional-datos-abiertos-americalatina.html

@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: false
+featured: true
 title:    "México en la Cumbre Anticorrupción 2016: Datos Abiertos y Contrataciones Abiertas"
 author:   "Coordinación de Estrategia Digital Nacional"
 date:     2016-05-12 17:00:00 -0500

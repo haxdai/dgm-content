@@ -1,7 +1,7 @@
 ---
 published: true
 layout:   post
-featured: true
+featured: false
 title: "Carta Internacional de Datos Abiertos en América Latina"
 author: "Carta Internacional de Datos Abiertos"
 date:  2016-05-31 13:00:00 -0500
